@@ -1,0 +1,1396 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+
+<html>
+<head>
+<!-- #121 -->
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta name="google-site-verification" content="6GE3q8Jsr7kd_Rvm1_JnKCn5O4BvjCbR5aAhimNapEc" />
+<meta name="p:domain_verify" content="353f79d2d02f885b1a54bffe7ab9758f"/>
+
+	
+	
+	
+
+    <meta name="title" content="Premier League - Team Statistics">
+    <meta name="description" content="Premier League Team Statistics">
+    <meta name="keywords" content="Premier League offensive, defensive, team statistics">
+
+
+
+
+<title>
+	
+	
+	
+	Premier League Team Statistics | WhoScored.com
+
+
+
+</title>
+<link rel="icon" type="image/gif" href="http://164.177.157.12/img/favicon.gif" />
+<link rel="stylesheet" type="text/css" href="http://164.177.157.12/css/ws-css.css?v=896" />
+
+
+<link rel="alternate" type="application/rss+xml" title="The latest previews and articles from WhoScored.com" href="http://www.whoscored.com/Rss" />
+    
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+    googletag.defineSlot('/79450181/WhoScored_Homepage_MediumRect_Right_Top_300x250', [300, 250], 'div-gpt-ad-1390832541322-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+});
+</script>
+
+<script type="text/javascript">
+var gDomain = null; 
+var gImageUrl = 'http://164.177.157.12/img/';
+var gUtcSeed = new Date(2014, 1, 28, 2, 39, 26);
+var gLoginUrl = 'http://www.whoscored.com/Accounts/Login/?originalUrl=http://www.whoscored.com/Regions/252/Tournaments/2/Seasons/3389/Stages/6531/TeamStatistics/England-Premier-League-2012-2013';
+var gIdentified = false;
+</script>
+<script type="text/javascript" language="javascript" src="http://164.177.157.12/js/ws-js.js?v=1803"></script>
+
+
+	
+    
+<script type="text/javascript" language="javascript" src="http://164.177.157.12/js/ws-js-stats.js?v=1803"></script>
+
+<!--[if IE]>
+    <script type="text/javascript" language="javascript" src="http://164.177.157.12/js/Canvas/excanvas-with-text-support.js?v=0"></script>
+
+<![endif]-->
+    
+
+<script type="text/javascript">
+    $(window).load(function () {
+        $('head').append('<sc' + 'ript type="text/javascript" src="http://platform.twitter.com/widgets.js"></sc' + 'ript>');
+    });
+    $(document).ready(function () {
+        ChangeAllOddsToFractional();
+    });
+
+</script>
+
+
+
+
+<script type="text/javascript">
+
+NG.Clock.init(gUtcSeed, 0);
+</script>
+
+	
+	
+
+
+</head>
+<body>
+
+    <div id="user-bar-wrapper">
+            <div id="user-bar">
+                    <div id="twitter-follow" style="float: left; width: 250px; margin-top: 0.25em;"></div>
+                    <div style="float: left; margin-top: 0.25em;" class="fb-like" data-href="http://www.facebook.com/whoscoredfan" data-send="true" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+                    <div style="float: left; margin-top: 0.4em;"><a href="https://plus.google.com/101773487325661066610?prsrc=3" rel="publisher" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:0;width:16px;height:16px;"/></a></div>
+                    <div id="clock">
+                        <span id="date"></span> 
+                        <span id="time" class="rc-t"></span>
+                        <a href="/Accounts" id="tz" class="iconize iconize-icon-right ui-state-transparent-default ui-state-active rc">
+                            Change time zone
+                            <span class="ui-icon ui-icon-circle-arrow-e"></span>
+                        </a>
+                    </div>
+                </div>
+    </div>
+    <div id="header-wrapper">
+        <div id="header-content-wrapper">
+            <div id="header">
+                <a id="logo" href="http://www.whoscored.com">WhoScored.com</a>
+                
+                <div id="head-ad">
+                    <iframe src="http://run.admost.com/adx/frame.ashx?k=14978&preredir={amClickThru}" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+                </div>
+            </div>
+            <div id="main-navigation">
+                <ul>
+                    <li><a id="home-menuitem" href="/Home" title="Home"><img src="http://164.177.157.12/img/homeicon.png" style="margin-top: 0.1em;"/></a></li>
+                    <li><a id="livescores-menuitem" href="/LiveScores">Live Scores</a></li>
+                    <li><a id="statistics-menuitem" href="/Statistics">Statistics</a></li>
+                    <li><a id="previews-menuitem" href="/Previews">Previews</a></li>
+                    <li><a id="blog-menuitem" href="/Articles">Articles</a></li>
+                    <li style = "position:relative;"><a href="/Graphics" id="graphics-menuitem">InfoGraphics</a></li>
+                    <li><a id="news-menuitem" href="/News">News</a></li>
+                </ul>
+                <div id="accountInfoContainer">
+                    <iframe id="accountInfoFrame" scrolling="no" frameborder="0" src="" allowtransparency="true"></iframe>
+                </div>
+                <script type="text/javascript">
+                   $('#accountInfoFrame').load(function () {
+                       function isValidUrl(url) {
+                           var controlUrl = url ? '?originalUrl=' + url.toLowerCase().substr(url.lastIndexOf('http://')) : '';
+                           return !(-1 < controlUrl.indexOf('/register') || -1 < controlUrl.indexOf('/login') || -1 < controlUrl.indexOf('/verifyemail'));
+                       }
+
+                       function cleanUrl(url) {
+                           return isValidUrl(url)
+                                   ? (url ? '?originalUrl=' + url.substr(url.lastIndexOf('http://')) : '')
+                                   : '';
+                       }
+
+                       var contents = $(this).contents(),
+                       originalUrl = cleanUrl(parent.location.toString());
+
+                       contents.find("#login").click(function (e) {
+                           e.preventDefault();
+                           parent.location = $(this).attr('href') + originalUrl;
+                       });
+
+                       contents.find("#register").click(function (e) {
+                           e.preventDefault();
+                           parent.location = $(this).attr('href') + originalUrl;
+                       });
+
+                       contents.find("#logout").click(function (e) {
+                           e.preventDefault();
+                           parent.location = $(this).attr('href') + originalUrl;
+                       });
+
+                       //$('#accountInfoFrame').width(contents.find('#accountInfo').width() + 20);
+        
+                   }).attr('src', '/Accounts/Info');
+
+            </script>
+            </div>
+            
+        </div>
+    </div>
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+        WS.Clock.init(NG.Clock);
+
+        var ftTimeZoneMessageOptions = {
+            icon: 'icon-alert',
+            messageText: '<a target="_parent" href="/Accounts/Login?originalUrl=' + window.location.pathname + '" id="login">Sign in</a> or <a target="_parent" href="/Accounts/Register?originalUrl=' + window.location.pathname + '" id="register">Join us</a> to change your time zone.',
+            timeToLive: 5000,
+            classes: 'timezone-signin-message',
+            align: 'bottom',
+            leftMargin: -70,
+            topMargin: 10
+        };
+
+        $(function () {
+            $('#tz').bind('click', function (e) {
+                //                if (gIdentified) {
+                //                    window.location.href = "/Accounts";
+                //                } else {
+                //                    $(this).messageBox(ftTimeZoneMessageOptions);
+                //                }
+                if (!gIdentified) {
+                    $(this).messageBox(ftTimeZoneMessageOptions);
+                    e.preventDefault();
+                    
+                    return false;
+                }
+            });
+
+            $('#twitter-follow').html('<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=WhoScored&button=grey&text_color=222222" style="width:250px; height:20px;"></iframe>');
+
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+                fjs.parentNode.insertBefore(js, fjs);
+            } (document, 'script', 'facebook-jssdk'));
+
+        });
+    </script>
+
+    <div id="layout-wrapper">
+        
+        
+
+<div id="tournament-nav-popup" class="rc-b" style="display:none;">
+    <div class="option-group">
+	    <ul id="tournament-groups" class="tabs">
+            <li><label>Browse: </label></li>
+		    <li><a href="#favourites" class="iconize iconize-icon-right ui-state-transparent-default"><span class="ui-icon ui-icon-triangle-1-s"></span><span class="text">My Favourites</span></a></li>
+            <li><a href="#popular" class="iconize iconize-icon-right ui-state-transparent-default"><span class="ui-icon ui-icon-triangle-1-s"></span><span class="text">Detailed Tournaments</span></a></li>
+            <li><a href="#domestic" class="iconize iconize-icon-right ui-state-transparent-default"><span class="ui-icon ui-icon-triangle-1-s"></span><span class="text">All Leagues & Cups</span></a></li>
+            <li><a href="#international" class="iconize iconize-icon-right ui-state-transparent-default"><span class="ui-icon ui-icon-triangle-1-s"></span><span class="text">International Cups</span></a></li>
+	    </ul>
+
+        <div id="search-area">
+            <form id="search-form" method="get" action="/Search/">
+                <input id="search-box" type="text" class="idle rc-l" name="t" value="Search tournaments, teams and players" onfocus="$(this).val('').removeClass('idle')"/>
+                <div id="search-button" class="iconize ui-state-transparent-default rc-r" onclick="if ($('#search-box').hasClass('idle')) $('#search-box').val(''); $('#search-form').submit();">
+                    <span class="ui-icon ui-icon-circle-arrow-e"></span>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="favourites" class="nav-region">
+        
+        <div id="my-favorites-note">Add your favourite leagues and cups here to access them quickly and see them on top in live scores.</div>
+        <ul id="favorite-tournaments-list"></ul>
+    </div>
+    <div id="popular" class="nav-region">
+        <ul id="popular-tournaments-list"><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/252/Tournaments/2/England-Premier-League" title="England">Premier League<span class="ui-icon country flg-gb-eng"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/108/Tournaments/5/Italy-Serie-A" title="Italy">Serie A<span class="ui-icon country flg-it"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/206/Tournaments/4/Spain-La-Liga" title="Spain">La Liga<span class="ui-icon country flg-es"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/81/Tournaments/3/Germany-Bundesliga" title="Germany">Bundesliga<span class="ui-icon country flg-de"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/74/Tournaments/22/France-Ligue-1" title="France">Ligue 1<span class="ui-icon country flg-fr"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/155/Tournaments/13/Netherlands-Eredivisie" title="Netherlands">Eredivisie<span class="ui-icon country flg-nl"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/182/Tournaments/77/Russia-Premier-League" title="Russia">Premier League<span class="ui-icon country flg-ru"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/31/Tournaments/95/Brazil-Brasileiro" title="Brazil">Brasileir?o<span class="ui-icon country flg-br"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/233/Tournaments/85/USA-Major-League-Soccer" title="USA">Major League Soccer<span class="ui-icon country flg-us"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/252/Tournaments/7/England-Championship" title="England">Championship<span class="ui-icon country flg-gb-eng"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/250/Tournaments/12/Europe-UEFA-Champions-League" title="Europe">UEFA Champions League<span class="ui-icon country flg-ceu"></span></a><div class="toolbar"></div></li><li class="hover-target"><a class="pt iconize iconize-icon-left" href="/Regions/250/Tournaments/30/Europe-UEFA-Europa-League" title="Europe">UEFA Europa League<span class="ui-icon country flg-ceu"></span></a><div class="toolbar"></div></li></ul>
+    </div>
+    <div id="domestic" class="nav-region">
+        <div id="domestic-index">
+        </div>
+        <div id="domestic-regions">
+        </div>
+    </div>
+    <div id="international" class="nav-region"></div>
+</div>
+<script type="text/javascript">
+var allRegions = [{type:1, id:248, flg:'flg-caf', name: 'Africa', tournaments: [{id:290, url:'/Regions/248/Tournaments/290/Africa-CAF-Champions-League', name:'CAF Champions League'},{id:505, url:'/Regions/248/Tournaments/505/Africa-CECAFA-Senior-Challenge-Cup', name:'CECAFA Senior Challenge Cup'}]},
+{type:0, id:3, flg:'flg-al', name: 'Albania', tournaments: [{id:406, url:'/Regions/3/Tournaments/406/Albania-1-Division', name:'1. Division'},{id:182, url:'/Regions/3/Tournaments/182/Albania-Kategoria-Superiore', name:'Kategoria Superiore'},{id:451, url:'/Regions/3/Tournaments/451/Albania-Kategoria-Superiore-qualification', name:'Kategoria Superiore qualification'}]},
+{type:0, id:4, flg:'flg-dz', name: 'Algeria', tournaments: [{id:281, url:'/Regions/4/Tournaments/281/Algeria-Championnat-National', name:'Championnat National'},{id:518, url:'/Regions/4/Tournaments/518/Algeria-', name:''}]},
+{type:0, id:6, flg:'flg-ad', name: 'Andorra', tournaments: [{id:142, url:'/Regions/6/Tournaments/142/Andorra-1-Division', name:'1. Division'},{id:397, url:'/Regions/6/Tournaments/397/Andorra-2-Division', name:'2. Division'}]},
+{type:0, id:7, flg:'flg-ao', name: 'Angola', tournaments: [{id:245, url:'/Regions/7/Tournaments/245/Angola-1-Division', name:'1. Division'}]},
+{type:0, id:10, flg:'flg-ag', name: 'Antigua and Barbuda', tournaments: [{id:378, url:'/Regions/10/Tournaments/378/Antigua-and-Barbuda-Premier-Division', name:'Premier Division'}]},
+{type:0, id:11, flg:'flg-ar', name: 'Argentina', tournaments: [{id:68, url:'/Regions/11/Tournaments/68/Argentina-Primera-Divisin', name:'Primera Divisi®Æn'},{id:317, url:'/Regions/11/Tournaments/317/Argentina-Primera-B-Nacional', name:'Primera B Nacional'},{id:504, url:'/Regions/11/Tournaments/504/Argentina-', name:''},{id:463, url:'/Regions/11/Tournaments/463/Argentina-Primera-B-Metropolitana', name:'Primera B Metropolitana'},{id:450, url:'/Regions/11/Tournaments/450/Argentina-Primera-B-Nacional-Qualification', name:'Primera B Nacional - Qualification'}]},
+{type:0, id:12, flg:'flg-am', name: 'Armenia', tournaments: [{id:156, url:'/Regions/12/Tournaments/156/Armenia-Premier-League', name:'Premier League'},{id:256, url:'/Regions/12/Tournaments/256/Armenia-Cup', name:'Cup'},{id:270, url:'/Regions/12/Tournaments/270/Armenia-Super-Cup', name:'Super Cup'}]},
+{type:1, id:249, flg:'flg-cas', name: 'Asia Pacific', tournaments: [{id:287, url:'/Regions/249/Tournaments/287/Asia-Pacific-AFC-Champions-League', name:'AFC Champions League'},{id:212, url:'/Regions/249/Tournaments/212/Asia-Pacific-East-Asian-Championship', name:'East Asian Championship'},{id:241, url:'/Regions/249/Tournaments/241/Asia-Pacific-Gulf-Cup', name:'Gulf Cup'},{id:490, url:'/Regions/249/Tournaments/490/Asia-Pacific-', name:''}]},
+{type:0, id:14, flg:'flg-au', name: 'Australia', tournaments: [{id:194, url:'/Regions/14/Tournaments/194/Australia-A-League', name:'A-League'},{id:312, url:'/Regions/14/Tournaments/312/Australia-Australia-2', name:'Australia 2'}]},
+{type:0, id:15, flg:'flg-at', name: 'Austria', tournaments: [{id:32, url:'/Regions/15/Tournaments/32/Austria-T-Mobile-Bundesliga', name:'T-Mobile Bundesliga'},{id:53, url:'/Regions/15/Tournaments/53/Austria-Erste-Liga', name:'Erste Liga'},{id:90, url:'/Regions/15/Tournaments/90/Austria-Playoff', name:'Playoff'},{id:83, url:'/Regions/15/Tournaments/83/Austria-Stiegl-Cup', name:'Stiegl Cup'},{id:93, url:'/Regions/15/Tournaments/93/Austria-T-Mobile-Super-Cup', name:'T-Mobile Super Cup'},{id:441, url:'/Regions/15/Tournaments/441/Austria-Regionalliga', name:'Regionalliga'},{id:440, url:'/Regions/15/Tournaments/440/Austria-Wienerliga', name:'Wienerliga'}]},
+{type:0, id:16, flg:'flg-az', name: 'Azerbaijan', tournaments: [{id:173, url:'/Regions/16/Tournaments/173/Azerbaijan-Premier-League', name:'Premier League'},{id:409, url:'/Regions/16/Tournaments/409/Azerbaijan-1-Division', name:'1. Division'}]},
+{type:0, id:18, flg:'flg-bh', name: 'Bahrain', tournaments: [{id:302, url:'/Regions/18/Tournaments/302/Bahrain-1-Division', name:'1. Division'}]},
+{type:0, id:20, flg:'flg-bb', name: 'Barbados', tournaments: [{id:370, url:'/Regions/20/Tournaments/370/Barbados-Premier-Division', name:'Premier Division'}]},
+{type:0, id:21, flg:'flg-by', name: 'Belarus', tournaments: [{id:157, url:'/Regions/21/Tournaments/157/Belarus-Premier-League', name:'Premier League'}]},
+{type:0, id:22, flg:'flg-be', name: 'Belgium', tournaments: [{id:18, url:'/Regions/22/Tournaments/18/Belgium-Jupiler-League', name:'Jupiler League'},{id:28, url:'/Regions/22/Tournaments/28/Belgium-Cup', name:'Cup'},{id:117, url:'/Regions/22/Tournaments/117/Belgium-Super-Cup', name:'Super Cup'},{id:137, url:'/Regions/22/Tournaments/137/Belgium-Second-Division', name:'Second Division'},{id:161, url:'/Regions/22/Tournaments/161/Belgium-Play-Off', name:'Play Off'},{id:15, url:'/Regions/22/Tournaments/15/Belgium-Cup', name:'Cup'},{id:459, url:'/Regions/22/Tournaments/459/Belgium-3-Division', name:'3. Division'}]},
+{type:0, id:24, flg:'flg-bj', name: 'Benin', tournaments: [{id:338, url:'/Regions/24/Tournaments/338/Benin-Championnat-National', name:'Championnat National'}]},
+{type:0, id:25, flg:'flg-bm', name: 'Bermuda', tournaments: [{id:372, url:'/Regions/25/Tournaments/372/Bermuda-Premier-Division', name:'Premier Division'}]},
+{type:0, id:27, flg:'flg-bo', name: 'Bolivia', tournaments: [{id:255, url:'/Regions/27/Tournaments/255/Bolivia-Liga-de-Ftbol-Profesional', name:'Liga de F®≤tbol Profesional'}]},
+{type:0, id:28, flg:'flg-ba', name: 'Bosnia and Herzegovina', tournaments: [{id:174, url:'/Regions/28/Tournaments/174/Bosnia-and-Herzegovina-Premier-League', name:'Premier League'},{id:404, url:'/Regions/28/Tournaments/404/Bosnia-and-Herzegovina-1-Division', name:'1. Division'}]},
+{type:0, id:29, flg:'flg-bw', name: 'Botswana', tournaments: [{id:339, url:'/Regions/29/Tournaments/339/Botswana-Premier-League', name:'Premier League'}]},
+{type:0, id:31, flg:'flg-br', name: 'Brazil', tournaments: [{id:95, url:'/Regions/31/Tournaments/95/Brazil-Brasileiro', name:'Brasileir?o'},{id:269, url:'/Regions/31/Tournaments/269/Brazil-Serie-B', name:'Serie B'},{id:321, url:'/Regions/31/Tournaments/321/Brazil-Serie-C', name:'Serie C'},{id:330, url:'/Regions/31/Tournaments/330/Brazil-Paulista-A1', name:'Paulista A1'},{id:383, url:'/Regions/31/Tournaments/383/Brazil-Cup', name:'Cup'},{id:115, url:'/Regions/31/Tournaments/115/Brazil-Copa-dos-Campeones', name:'Copa dos Campeones'}]},
+{type:0, id:34, flg:'flg-bg', name: 'Bulgaria', tournaments: [{id:119, url:'/Regions/34/Tournaments/119/Bulgaria-A-PFG', name:'A PFG'},{id:398, url:'/Regions/34/Tournaments/398/Bulgaria-B-PFG', name:'B PFG'},{id:143, url:'/Regions/34/Tournaments/143/Bulgaria-Cup', name:'Cup'},{id:169, url:'/Regions/34/Tournaments/169/Bulgaria-Super-Cup', name:'Super Cup'},{id:535, url:'/Regions/34/Tournaments/535/Bulgaria-', name:''}]},
+{type:0, id:35, flg:'flg-bf', name: 'Burkina Faso', tournaments: [{id:340, url:'/Regions/35/Tournaments/340/Burkina-Faso-Championnat-National', name:'Championnat National'}]},
+{type:0, id:38, flg:'flg-cm', name: 'Cameroon', tournaments: [{id:247, url:'/Regions/38/Tournaments/247/Cameroon-1-Division', name:'1. Division'}]},
+{type:0, id:39, flg:'flg-ca', name: 'Canada', tournaments: [{id:363, url:'/Regions/39/Tournaments/363/Canada-CSL', name:'CSL'}]},
+{type:0, id:40, flg:'flg-cv', name: 'Cape Verde', tournaments: [{id:342, url:'/Regions/40/Tournaments/342/Cape-Verde-Campeonato-Nacional', name:'Campeonato Nacional'}]},
+{type:0, id:43, flg:'flg-td', name: 'Chad', tournaments: [{id:343, url:'/Regions/43/Tournaments/343/Chad-Premiere-Division', name:'Premiere Division'}]},
+{type:0, id:44, flg:'flg-cl', name: 'Chile', tournaments: [{id:147, url:'/Regions/44/Tournaments/147/Chile-Clausura', name:'Clausura'},{id:395, url:'/Regions/44/Tournaments/395/Chile-Cup', name:'Cup'}]},
+{type:0, id:45, flg:'flg-cn', name: 'China', tournaments: [{id:162, url:'/Regions/45/Tournaments/162/China-Super-league', name:'Super league'}]},
+{type:0, id:48, flg:'flg-co', name: 'Colombia', tournaments: [{id:193, url:'/Regions/48/Tournaments/193/Colombia-Mustang-Cup', name:'Mustang Cup'}]},
+{type:0, id:50, flg:'flg-cg', name: 'Congo', tournaments: [{id:344, url:'/Regions/50/Tournaments/344/Congo-Linafoot', name:'Linafoot'}]},
+{type:0, id:53, flg:'flg-cr', name: 'Costa Rica', tournaments: [{id:238, url:'/Regions/53/Tournaments/238/Costa-Rica-Primera-Division', name:'Primera Division'},{id:425, url:'/Regions/53/Tournaments/425/Costa-Rica-Liga-de-Ascenso', name:'Liga de Ascenso'}]},
+{type:0, id:55, flg:'flg-hr', name: 'Croatia', tournaments: [{id:82, url:'/Regions/55/Tournaments/82/Croatia-Prva-HNL', name:'Prva HNL'},{id:401, url:'/Regions/55/Tournaments/401/Croatia-2-Division', name:'2. Division'},{id:109, url:'/Regions/55/Tournaments/109/Croatia-Cup', name:'Cup'},{id:133, url:'/Regions/55/Tournaments/133/Croatia-Super-Cup', name:'Super Cup'}]},
+{type:0, id:56, flg:'flg-cu', name: 'Cuba', tournaments: [{id:367, url:'/Regions/56/Tournaments/367/Cuba-Campeonato-Nacional', name:'Campeonato Nacional'}]},
+{type:0, id:57, flg:'flg-cy', name: 'Cyprus', tournaments: [{id:185, url:'/Regions/57/Tournaments/185/Cyprus-First-Division', name:'First Division'},{id:402, url:'/Regions/57/Tournaments/402/Cyprus-2-Division', name:'2. Division'},{id:236, url:'/Regions/57/Tournaments/236/Cyprus-Cup', name:'Cup'},{id:283, url:'/Regions/57/Tournaments/283/Cyprus-Super-Cup', name:'Super Cup'}]},
+{type:0, id:58, flg:'flg-cz', name: 'Czech Republic', tournaments: [{id:78, url:'/Regions/58/Tournaments/78/Czech-Republic-Gambrinus-League', name:'Gambrinus League'},{id:234, url:'/Regions/58/Tournaments/234/Czech-Republic-Druha-League', name:'Druha League'},{id:84, url:'/Regions/58/Tournaments/84/Czech-Republic-Cup', name:'Cup'},{id:455, url:'/Regions/58/Tournaments/455/Czech-Republic-Super-Cup', name:'Super Cup'}]},
+{type:0, id:59, flg:'flg-dk', name: 'Denmark', tournaments: [{id:1, url:'/Regions/59/Tournaments/1/Denmark-Superliga', name:'Superliga'},{id:34, url:'/Regions/59/Tournaments/34/Denmark-Viasat-Sport-Divisionen', name:'Viasat Sport Divisionen'},{id:35, url:'/Regions/59/Tournaments/35/Denmark-2-Division', name:'2. Division'},{id:59, url:'/Regions/59/Tournaments/59/Denmark-Ligaen', name:'Ligaen'},{id:39, url:'/Regions/59/Tournaments/39/Denmark-Cup', name:'Cup'},{id:456, url:'/Regions/59/Tournaments/456/Denmark-Reserve-League', name:'Reserve League'}]},
+{type:0, id:63, flg:'flg-ec', name: 'Ecuador', tournaments: [{id:192, url:'/Regions/63/Tournaments/192/Ecuador-Serie-A', name:'Serie A'}]},
+{type:0, id:64, flg:'flg-eg', name: 'Egypt', tournaments: [{id:277, url:'/Regions/64/Tournaments/277/Egypt-Premier-League', name:'Premier League'},{id:519, url:'/Regions/64/Tournaments/519/Egypt-', name:''}]},
+{type:0, id:65, flg:'flg-sv', name: 'El Salvador', tournaments: [{id:250, url:'/Regions/65/Tournaments/250/El-Salvador-Primera-Division', name:'Primera Division'}]},
+{type:0, id:252, flg:'flg-gb-eng', name: 'England', tournaments: [{id:2, url:'/Regions/252/Tournaments/2/England-Premier-League', name:'Premier League'},{id:26, url:'/Regions/252/Tournaments/26/England-FA-Cup', name:'FA Cup'},{id:29, url:'/Regions/252/Tournaments/29/England-League-Cup', name:'League Cup'},{id:96, url:'/Regions/252/Tournaments/96/England-Community-Shield', name:'Community Shield'},{id:7, url:'/Regions/252/Tournaments/7/England-Championship', name:'Championship'},{id:8, url:'/Regions/252/Tournaments/8/England-League-1', name:'League 1'},{id:9, url:'/Regions/252/Tournaments/9/England-League-2', name:'League 2'},{id:70, url:'/Regions/252/Tournaments/70/England-Blue-Square-Premier', name:'Blue Square Premier'},{id:314, url:'/Regions/252/Tournaments/314/England-Blue-Square-North', name:'Blue Square North'},{id:315, url:'/Regions/252/Tournaments/315/England-Unibond-League', name:'Unibond League'},{id:23, url:'/Regions/252/Tournaments/23/England-Johnstones-Paint-Trophy', name:'Johnstones Paint Trophy'},{id:389, url:'/Regions/252/Tournaments/389/England-Premier-Reserve-League', name:'Premier Reserve League'},{id:479, url:'/Regions/252/Tournaments/479/England-', name:''},{id:497, url:'/Regions/252/Tournaments/497/England-', name:''},{id:469, url:'/Regions/252/Tournaments/469/England-WSL', name:'WSL'}]},
+{type:0, id:68, flg:'flg-ee', name: 'Estonia', tournaments: [{id:148, url:'/Regions/68/Tournaments/148/Estonia-Meistriliiga', name:'Meistriliiga'},{id:405, url:'/Regions/68/Tournaments/405/Estonia-Esiliiga', name:'Esiliiga'},{id:385, url:'/Regions/68/Tournaments/385/Estonia-Super-Cup', name:'Super Cup'}]},
+{type:1, id:250, flg:'flg-ceu', name: 'Europe', tournaments: [{id:62, url:'/Regions/250/Tournaments/62/Europe-UEFA-Super-Cup', name:'UEFA Super Cup'},{id:12, url:'/Regions/250/Tournaments/12/Europe-UEFA-Champions-League', name:'UEFA Champions League'},{id:30, url:'/Regions/250/Tournaments/30/Europe-UEFA-Europa-League', name:'UEFA Europa League'},{id:533, url:'/Regions/250/Tournaments/533/Europe-', name:''}]},
+{type:0, id:71, flg:'flg-fo', name: 'Faroe Islands', tournaments: [{id:160, url:'/Regions/71/Tournaments/160/Faroe-Islands-Formuladeildin', name:'Formuladeildin'}]},
+{type:0, id:72, flg:'flg-fj', name: 'Fiji', tournaments: [{id:346, url:'/Regions/72/Tournaments/346/Fiji-National-League', name:'National League'}]},
+{type:0, id:73, flg:'flg-fi', name: 'Finland', tournaments: [{id:43, url:'/Regions/73/Tournaments/43/Finland-Veikkausliiga', name:'Veikkausliiga'},{id:202, url:'/Regions/73/Tournaments/202/Finland-Ykkonen', name:'Ykkonen'},{id:319, url:'/Regions/73/Tournaments/319/Finland-Kakkonen', name:'Kakkonen'},{id:100, url:'/Regions/73/Tournaments/100/Finland-Playoff', name:'Playoff'},{id:243, url:'/Regions/73/Tournaments/243/Finland-League-Cup', name:'League Cup'},{id:51, url:'/Regions/73/Tournaments/51/Finland-Cup', name:'Cup'}]},
+{type:0, id:74, flg:'flg-fr', name: 'France', tournaments: [{id:38, url:'/Regions/74/Tournaments/38/France-Coupe-de-la-Ligue', name:'Coupe de la Ligue'},{id:22, url:'/Regions/74/Tournaments/22/France-Ligue-1', name:'Ligue 1'},{id:16, url:'/Regions/74/Tournaments/16/France-Coupe-de-France', name:'Coupe de France'},{id:54, url:'/Regions/74/Tournaments/54/France-Champions-Trophy', name:'Champions Trophy'},{id:37, url:'/Regions/74/Tournaments/37/France-Ligue-2', name:'Ligue 2'},{id:320, url:'/Regions/74/Tournaments/320/France-National', name:'National'},{id:460, url:'/Regions/74/Tournaments/460/France-CFA-Grp', name:'CFA Grp.'}]},
+{type:0, id:78, flg:'flg-ga', name: 'Gabon', tournaments: [{id:345, url:'/Regions/78/Tournaments/345/Gabon-Championnat-National-de-D1', name:'Championnat National de D1'}]},
+{type:0, id:79, flg:'flg-gm', name: 'Gambia', tournaments: [{id:347, url:'/Regions/79/Tournaments/347/Gambia-GFA-Premier-League', name:'GFA Premier League'}]},
+{type:0, id:80, flg:'flg-ge', name: 'Georgia', tournaments: [{id:168, url:'/Regions/80/Tournaments/168/Georgia-Umaglesi-Liga', name:'Umaglesi Liga'},{id:522, url:'/Regions/80/Tournaments/522/Georgia-', name:''},{id:507, url:'/Regions/80/Tournaments/507/Georgia-Umaglesi-Liga', name:'Umaglesi Liga'}]},
+{type:0, id:81, flg:'flg-de', name: 'Germany', tournaments: [{id:3, url:'/Regions/81/Tournaments/3/Germany-Bundesliga', name:'Bundesliga'},{id:24, url:'/Regions/81/Tournaments/24/Germany-DFB-Pokal', name:'DFB Pokal'},{id:307, url:'/Regions/81/Tournaments/307/Germany-Super-Cup', name:'Super Cup'},{id:6, url:'/Regions/81/Tournaments/6/Germany-Bundesliga-II', name:'Bundesliga II'},{id:308, url:'/Regions/81/Tournaments/308/Germany-Bundesliga-III', name:'Bundesliga III'},{id:56, url:'/Regions/81/Tournaments/56/Germany-Liga-Pokal', name:'Liga Pokal'},{id:274, url:'/Regions/81/Tournaments/274/Germany-Oberliga', name:'Oberliga'},{id:388, url:'/Regions/81/Tournaments/388/Germany-Promotion-Relegation', name:'Promotion/Relegation'},{id:442, url:'/Regions/81/Tournaments/442/Germany-Oberliga-Hamburg', name:'Oberliga Hamburg'}]},
+{type:0, id:82, flg:'flg-gh', name: 'Ghana', tournaments: [{id:305, url:'/Regions/82/Tournaments/305/Ghana-Premier-League', name:'Premier League'}]},
+{type:0, id:84, flg:'flg-gr', name: 'Greece', tournaments: [{id:65, url:'/Regions/84/Tournaments/65/Greece-Super-League', name:'Super League'},{id:69, url:'/Regions/84/Tournaments/69/Greece-Cup', name:'Cup'},{id:300, url:'/Regions/84/Tournaments/300/Greece-Super-Cup', name:'Super Cup'},{id:292, url:'/Regions/84/Tournaments/292/Greece-Second-Division', name:'Second Division'},{id:325, url:'/Regions/84/Tournaments/325/Greece-C-Ethniki-North', name:'C Ethniki North'},{id:536, url:'/Regions/84/Tournaments/536/Greece-', name:''}]},
+{type:0, id:87, flg:'flg-gp', name: 'Guadeloupe', tournaments: [{id:379, url:'/Regions/87/Tournaments/379/Guadeloupe-1-Division', name:'1. Division'}]},
+{type:0, id:89, flg:'flg-gt', name: 'Guatemala', tournaments: [{id:421, url:'/Regions/89/Tournaments/421/Guatemala-Primera-Division', name:'Primera Division'},{id:239, url:'/Regions/89/Tournaments/239/Guatemala-Liga-Nacional', name:'Liga Nacional'}]},
+{type:0, id:91, flg:'flg-gn', name: 'Guinea', tournaments: [{id:354, url:'/Regions/91/Tournaments/354/Guinea-Championnat-National', name:'Championnat National'}]},
+{type:0, id:94, flg:'flg-ht', name: 'Haiti', tournaments: [{id:376, url:'/Regions/94/Tournaments/376/Haiti-Premire-Division', name:'Premi®®re Division'}]},
+{type:0, id:97, flg:'flg-hn', name: 'Honduras', tournaments: [{id:240, url:'/Regions/97/Tournaments/240/Honduras-Liga-Nacional', name:'Liga Nacional'}]},
+{type:0, id:98, flg:'flg-hk', name: 'Hong Kong', tournaments: [{id:332, url:'/Regions/98/Tournaments/332/Hong-Kong-1-Division', name:'1. Division'}]},
+{type:0, id:99, flg:'flg-hu', name: 'Hungary', tournaments: [{id:75, url:'/Regions/99/Tournaments/75/Hungary-Soproni-Liga', name:'Soproni Liga'},{id:419, url:'/Regions/99/Tournaments/419/Hungary-NB-II', name:'NB II'},{id:102, url:'/Regions/99/Tournaments/102/Hungary-Cup', name:'Cup'},{id:132, url:'/Regions/99/Tournaments/132/Hungary-Super-Cup', name:'Super Cup'},{id:538, url:'/Regions/99/Tournaments/538/Hungary-', name:''}]},
+{type:0, id:100, flg:'flg-is', name: 'Iceland', tournaments: [{id:129, url:'/Regions/100/Tournaments/129/Iceland-Landsbankadeildin', name:'Landsbankadeildin'},{id:208, url:'/Regions/100/Tournaments/208/Iceland-1-Deild', name:'1. Deild'},{id:206, url:'/Regions/100/Tournaments/206/Iceland-Cup', name:'Cup'}]},
+{type:0, id:101, flg:'flg-in', name: 'India', tournaments: [{id:333, url:'/Regions/101/Tournaments/333/India-I-League', name:'I League'}]},
+{type:0, id:102, flg:'flg-id', name: 'Indonesia', tournaments: [{id:334, url:'/Regions/102/Tournaments/334/Indonesia-Super-Liga', name:'Super Liga'}]},
+{type:1, id:247, flg:'flg-cint', name: 'International', tournaments: [{id:124, url:'/Regions/247/Tournaments/124/International-EURO-2012', name:'EURO 2012'},{id:27, url:'/Regions/247/Tournaments/27/International-Int-Friendly', name:'Int. Friendly'},{id:104, url:'/Regions/247/Tournaments/104/International-African-Cup-of-Nations', name:'African Cup of Nations'},{id:176, url:'/Regions/247/Tournaments/176/International-Summer-Olympics', name:'Summer Olympics'},{id:36, url:'/Regions/247/Tournaments/36/International-FIFA-World-Cup', name:'FIFA World Cup'},{id:89, url:'/Regions/247/Tournaments/89/International-Confederations-Cup', name:'Confederations Cup'},{id:201, url:'/Regions/247/Tournaments/201/International-EURO-U-17', name:'EURO U-17'},{id:94, url:'/Regions/247/Tournaments/94/International-Copa-America', name:'Copa America'},{id:144, url:'/Regions/247/Tournaments/144/International-World-Championship-U-20', name:'World Championship U-20'},{id:67, url:'/Regions/247/Tournaments/67/International-FIFA-Club-World-Cup', name:'FIFA Club World Cup'},{id:219, url:'/Regions/247/Tournaments/219/International-World-Championship-U-17', name:'World Championship U-17'},{id:203, url:'/Regions/247/Tournaments/203/International-Toulon-Tournament', name:'Toulon Tournament'},{id:209, url:'/Regions/247/Tournaments/209/International-Peace-Cup', name:'Peace Cup'},{id:177, url:'/Regions/247/Tournaments/177/International-Summer-Olympics-Qualifiers', name:'Summer Olympics Qualifiers'},{id:167, url:'/Regions/247/Tournaments/167/International-Champions-World-Series', name:'Champions World Series'},{id:57, url:'/Regions/247/Tournaments/57/International-Club-Friendlies', name:'Club Friendlies'},{id:166, url:'/Regions/247/Tournaments/166/International-Asian-Cup', name:'Asian Cup'},{id:123, url:'/Regions/247/Tournaments/123/International-EURO-U-21', name:'EURO U-21'},{id:244, url:'/Regions/247/Tournaments/244/International-Friendly-U-21', name:'Friendly U-21'},{id:165, url:'/Regions/247/Tournaments/165/International-EURO-U-19', name:'EURO U-19'},{id:555, url:'/Regions/247/Tournaments/555/International-', name:''},{id:499, url:'/Regions/247/Tournaments/499/International-Kagame-Inter-Club-Cup', name:'Kagame Inter-Club Cup'},{id:502, url:'/Regions/247/Tournaments/502/International-League-for-Various-Mixed-Matches', name:'League for Various/Mixed Matches'}]},
+{type:0, id:103, flg:'flg-ir', name: 'Iran', tournaments: [{id:279, url:'/Regions/103/Tournaments/279/Iran-Premier-League', name:'Premier League'},{id:534, url:'/Regions/103/Tournaments/534/Iran-', name:''}]},
+{type:0, id:104, flg:'flg-iq', name: 'Iraq', tournaments: [{id:384, url:'/Regions/104/Tournaments/384/Iraq-Super-League', name:'Super League'}]},
+{type:0, id:105, flg:'flg-ie', name: 'Ireland', tournaments: [{id:113, url:'/Regions/105/Tournaments/113/Ireland-Airtricity-League', name:'Airtricity League'},{id:197, url:'/Regions/105/Tournaments/197/Ireland-Second-Division', name:'Second Division'},{id:116, url:'/Regions/105/Tournaments/116/Ireland-FAI-Cup', name:'FAI Cup'},{id:220, url:'/Regions/105/Tournaments/220/Ireland-Playoff', name:'Playoff'},{id:141, url:'/Regions/105/Tournaments/141/Ireland-League-Cup', name:'League Cup'},{id:506, url:'/Regions/105/Tournaments/506/Ireland-Setanta-Sports-Cup', name:'Setanta Sports Cup'}]},
+{type:0, id:107, flg:'flg-il', name: 'Israel', tournaments: [{id:97, url:'/Regions/107/Tournaments/97/Israel-Ligat-haAl', name:'Ligat ha\'Al'},{id:181, url:'/Regions/107/Tournaments/181/Israel-Liga-Leumit', name:'Liga Leumit'},{id:400, url:'/Regions/107/Tournaments/400/Israel-Toto-Cup-Ligat-Al', name:'Toto Cup Ligat Al'},{id:447, url:'/Regions/107/Tournaments/447/Israel-Ligat-Al-playoff-Qualification', name:'Ligat-Al playoff Qualification'}]},
+{type:0, id:108, flg:'flg-it', name: 'Italy', tournaments: [{id:5, url:'/Regions/108/Tournaments/5/Italy-Serie-A', name:'Serie A'},{id:60, url:'/Regions/108/Tournaments/60/Italy-Coppa-Italia', name:'Coppa Italia'},{id:64, url:'/Regions/108/Tournaments/64/Italy-Supercoppa-Italiana', name:'Supercoppa Italiana'},{id:19, url:'/Regions/108/Tournaments/19/Italy-Serie-B', name:'Serie B'},{id:106, url:'/Regions/108/Tournaments/106/Italy-Serie-C', name:'Serie C'},{id:435, url:'/Regions/108/Tournaments/435/Italy-Serie-C2', name:'Serie C2'},{id:91, url:'/Regions/108/Tournaments/91/Italy-Playoff', name:'Playoff'}]},
+{type:0, id:255, flg:'flg-ci', name: 'Ivory Coast', tournaments: [{id:249, url:'/Regions/255/Tournaments/249/Ivory-Coast-Ligue-1', name:'Ligue 1'}]},
+{type:0, id:109, flg:'flg-jm', name: 'Jamaica', tournaments: [{id:366, url:'/Regions/109/Tournaments/366/Jamaica-Premier-League', name:'Premier League'}]},
+{type:0, id:110, flg:'flg-jp', name: 'Japan', tournaments: [{id:150, url:'/Regions/110/Tournaments/150/Japan-J-League', name:'J- League'},{id:324, url:'/Regions/110/Tournaments/324/Japan-J-League-2', name:'J. League 2'},{id:186, url:'/Regions/110/Tournaments/186/Japan-Cup', name:'Cup'},{id:358, url:'/Regions/110/Tournaments/358/Japan-Cup', name:'Cup'},{id:248, url:'/Regions/110/Tournaments/248/Japan-Super-Cup', name:'Super Cup'}]},
+{type:0, id:112, flg:'flg-jo', name: 'Jordan', tournaments: [{id:284, url:'/Regions/112/Tournaments/284/Jordan-1-Division', name:'1. Division'}]},
+{type:0, id:113, flg:'flg-kz', name: 'Kazakhstan', tournaments: [{id:153, url:'/Regions/113/Tournaments/153/Kazakhstan-Superliga', name:'Superliga'}]},
+{type:0, id:114, flg:'flg-ke', name: 'Kenya', tournaments: [{id:355, url:'/Regions/114/Tournaments/355/Kenya-Premier-League', name:'Premier League'},{id:500, url:'/Regions/114/Tournaments/500/Kenya-', name:''},{id:531, url:'/Regions/114/Tournaments/531/Kenya-', name:''},{id:495, url:'/Regions/114/Tournaments/495/Kenya-FKL-Nationwide-One', name:'FKL Nationwide One'},{id:496, url:'/Regions/114/Tournaments/496/Kenya-Kenya-Cup', name:'Kenya Cup'}]},
+{type:0, id:118, flg:'flg-kw', name: 'Kuwait', tournaments: [{id:293, url:'/Regions/118/Tournaments/293/Kuwait-1-Division', name:'1. Division'}]},
+{type:0, id:121, flg:'flg-lv', name: 'Latvia', tournaments: [{id:155, url:'/Regions/121/Tournaments/155/Latvia-Virsliga', name:'Virsliga'}]},
+{type:0, id:122, flg:'flg-lb', name: 'Lebanon', tournaments: [{id:298, url:'/Regions/122/Tournaments/298/Lebanon-1-Division', name:'1. Division'}]},
+{type:0, id:123, flg:'flg-ls', name: 'Lesotho', tournaments: [{id:356, url:'/Regions/123/Tournaments/356/Lesotho-Buddie-Premier-League', name:'Buddie Premier League'}]},
+{type:0, id:124, flg:'flg-lr', name: 'Liberia', tournaments: [{id:351, url:'/Regions/124/Tournaments/351/Liberia-1-Divsion', name:'1. Divsion'}]},
+{type:0, id:125, flg:'flg-ly', name: 'Libya', tournaments: [{id:288, url:'/Regions/125/Tournaments/288/Libya-1-Division', name:'1. Division'}]},
+{type:0, id:127, flg:'flg-lt', name: 'Lithuania', tournaments: [{id:159, url:'/Regions/127/Tournaments/159/Lithuania-A-Lyga', name:'A Lyga'}]},
+{type:0, id:128, flg:'flg-lu', name: 'Luxembourg', tournaments: [{id:172, url:'/Regions/128/Tournaments/172/Luxembourg-1-Division', name:'1. Division'},{id:407, url:'/Regions/128/Tournaments/407/Luxembourg-2-Division', name:'2. Division'},{id:452, url:'/Regions/128/Tournaments/452/Luxembourg-1-Division-Qualification', name:'1. Division Qualification'}]},
+{type:0, id:130, flg:'flg-mk', name: 'Macedonia', tournaments: [{id:396, url:'/Regions/130/Tournaments/396/Macedonia-Vtora-Liga', name:'Vtora Liga'}]},
+{type:0, id:132, flg:'flg-mw', name: 'Malawi', tournaments: [{id:350, url:'/Regions/132/Tournaments/350/Malawi-Super-League', name:'Super League'}]},
+{type:0, id:133, flg:'flg-my', name: 'Malaysia', tournaments: [{id:336, url:'/Regions/133/Tournaments/336/Malaysia-Super-Liga', name:'Super Liga'}]},
+{type:0, id:135, flg:'flg-ml', name: 'Mali', tournaments: [{id:352, url:'/Regions/135/Tournaments/352/Mali-Championnat-National', name:'Championnat National'}]},
+{type:0, id:136, flg:'flg-mt', name: 'Malta', tournaments: [{id:184, url:'/Regions/136/Tournaments/184/Malta-Premier-League', name:'Premier League'},{id:410, url:'/Regions/136/Tournaments/410/Malta-1-Division', name:'1. Division'}]},
+{type:0, id:138, flg:'flg-mq', name: 'Martinique', tournaments: [{id:353, url:'/Regions/138/Tournaments/353/Martinique-Division-dHonneur', name:'Division d°‰Honneur'}]},
+{type:0, id:140, flg:'flg-mu', name: 'Mauritius', tournaments: [{id:357, url:'/Regions/140/Tournaments/357/Mauritius-Barclays-League', name:'Barclays League'}]},
+{type:0, id:142, flg:'flg-mx', name: 'Mexico', tournaments: [{id:103, url:'/Regions/142/Tournaments/103/Mexico-Primera-Division', name:'Primera Division'},{id:326, url:'/Regions/142/Tournaments/326/Mexico-Primera-A', name:'Primera A'},{id:532, url:'/Regions/142/Tournaments/532/Mexico-', name:''},{id:547, url:'/Regions/142/Tournaments/547/Mexico-', name:''}]},
+{type:0, id:144, flg:'flg-md', name: 'Moldova', tournaments: [{id:178, url:'/Regions/144/Tournaments/178/Moldova-Divizia-Nationala', name:'Divizia Nationala'},{id:411, url:'/Regions/144/Tournaments/411/Moldova-2-Division', name:'2. Division'}]},
+{type:0, id:147, flg:'flg-me', name: 'Montenegro', tournaments: [{id:235, url:'/Regions/147/Tournaments/235/Montenegro-1-Division', name:'1. Division'},{id:412, url:'/Regions/147/Tournaments/412/Montenegro-2-Division', name:'2. Division'},{id:454, url:'/Regions/147/Tournaments/454/Montenegro-1-Division-Playoff', name:'1. Division Playoff'}]},
+{type:0, id:149, flg:'flg-ma', name: 'Morocco', tournaments: [{id:291, url:'/Regions/149/Tournaments/291/Morocco-GNF-1', name:'GNF 1'},{id:523, url:'/Regions/149/Tournaments/523/Morocco-', name:''}]},
+{type:0, id:150, flg:'flg-mz', name: 'Mozambique', tournaments: [{id:377, url:'/Regions/150/Tournaments/377/Mozambique-Mocambola', name:'Mocambola'}]},
+{type:0, id:152, flg:'flg-na', name: 'Namibia', tournaments: [{id:364, url:'/Regions/152/Tournaments/364/Namibia-Premier-League', name:'Premier League'}]},
+{type:0, id:155, flg:'flg-nl', name: 'Netherlands', tournaments: [{id:13, url:'/Regions/155/Tournaments/13/Netherlands-Eredivisie', name:'Eredivisie'},{id:47, url:'/Regions/155/Tournaments/47/Netherlands-KNVB-Cup', name:'KNVB Cup'},{id:120, url:'/Regions/155/Tournaments/120/Netherlands-Super-Cup', name:'Super Cup'},{id:66, url:'/Regions/155/Tournaments/66/Netherlands-Jupiler-League', name:'Jupiler League'},{id:88, url:'/Regions/155/Tournaments/88/Netherlands-Playoff', name:'Playoff'},{id:457, url:'/Regions/155/Tournaments/457/Netherlands-Topklasse', name:'Topklasse'}]},
+{type:0, id:158, flg:'flg-nz', name: 'New Zealand', tournaments: [{id:303, url:'/Regions/158/Tournaments/303/New-Zealand-Premier-League', name:'Premier League'}]},
+{type:0, id:159, flg:'flg-ni', name: 'Nicaragua', tournaments: [{id:362, url:'/Regions/159/Tournaments/362/Nicaragua-Campeonato-Nacional', name:'Campeonato Nacional'}]},
+{type:0, id:161, flg:'flg-ng', name: 'Nigeria', tournaments: [{id:294, url:'/Regions/161/Tournaments/294/Nigeria-1-Division', name:'1. Division'}]},
+{type:1, id:264, flg:'flg-cna', name: 'North & Central America', tournaments: [{id:222, url:'/Regions/264/Tournaments/222/North-Central-America-CONCACAF-Champions-Cup', name:'CONCACAF Champions Cup'},{id:131, url:'/Regions/264/Tournaments/131/North-Central-America-CONCACAF-Gold-Cup', name:'CONCACAF Gold Cup'},{id:543, url:'/Regions/264/Tournaments/543/North-Central-America-', name:''},{id:462, url:'/Regions/264/Tournaments/462/North-Central-America-', name:''}]},
+{type:0, id:258, flg:'flg-gb-nir', name: 'Northern Ireland', tournaments: [{id:126, url:'/Regions/258/Tournaments/126/Northern-Ireland-Premiership', name:'Premiership'},{id:329, url:'/Regions/258/Tournaments/329/Northern-Ireland-Promotion-Relegation', name:'Promotion/Relegation'},{id:328, url:'/Regions/258/Tournaments/328/Northern-Ireland-Cup', name:'Cup'},{id:545, url:'/Regions/258/Tournaments/545/Northern-Ireland-', name:''},{id:446, url:'/Regions/258/Tournaments/446/Northern-Ireland-1-Division', name:'1. Division'}]},
+{type:0, id:165, flg:'flg-no', name: 'Norway', tournaments: [{id:41, url:'/Regions/165/Tournaments/41/Norway-Tippeligaen', name:'Tippeligaen'},{id:50, url:'/Regions/165/Tournaments/50/Norway-1-Division', name:'1. Division'},{id:200, url:'/Regions/165/Tournaments/200/Norway-2-Division', name:'2. Division'},{id:99, url:'/Regions/165/Tournaments/99/Norway-Playoff', name:'Playoff'},{id:52, url:'/Regions/165/Tournaments/52/Norway-Cup', name:'Cup'},{id:205, url:'/Regions/165/Tournaments/205/Norway-Cup', name:'Cup'},{id:386, url:'/Regions/165/Tournaments/386/Norway-Super-Cup', name:'Super Cup'}]},
+{type:0, id:166, flg:'flg-om', name: 'Oman', tournaments: [{id:304, url:'/Regions/166/Tournaments/304/Oman-1-Division', name:'1. Division'}]},
+{type:0, id:169, flg:'flg-ps', name: 'Palestine', tournaments: [{id:464, url:'/Regions/169/Tournaments/464/Palestine-Division-A', name:'Division A'}]},
+{type:0, id:170, flg:'flg-pa', name: 'Panama', tournaments: [{id:368, url:'/Regions/170/Tournaments/368/Panama-ANAPROF', name:'ANAPROF'}]},
+{type:0, id:172, flg:'flg-py', name: 'Paraguay', tournaments: [{id:246, url:'/Regions/172/Tournaments/246/Paraguay-Primera-Division', name:'Primera Division'},{id:422, url:'/Regions/172/Tournaments/422/Paraguay-Division-Intermedia', name:'Division Intermedia'}]},
+{type:0, id:173, flg:'flg-pe', name: 'Peru', tournaments: [{id:195, url:'/Regions/173/Tournaments/195/Peru-Primera-Division', name:'Primera Division'}]},
+{type:0, id:176, flg:'flg-pl', name: 'Poland', tournaments: [{id:76, url:'/Regions/176/Tournaments/76/Poland-Ekstraklasa', name:'Ekstraklasa'},{id:232, url:'/Regions/176/Tournaments/232/Poland-1-Division', name:'1. Division'},{id:311, url:'/Regions/176/Tournaments/311/Poland-2-Division', name:'2. Division'},{id:204, url:'/Regions/176/Tournaments/204/Poland-Playoff', name:'Playoff'},{id:101, url:'/Regions/176/Tournaments/101/Poland-Cup', name:'Cup'},{id:110, url:'/Regions/176/Tournaments/110/Poland-League-Cup', name:'League Cup'},{id:231, url:'/Regions/176/Tournaments/231/Poland-Super-Cup', name:'Super Cup'}]},
+{type:0, id:177, flg:'flg-pt', name: 'Portugal', tournaments: [{id:21, url:'/Regions/177/Tournaments/21/Portugal-Liga-Sagres', name:'Liga Sagres'},{id:11, url:'/Regions/177/Tournaments/11/Portugal-Taa-de-Portugal', name:'Ta?a de Portugal'},{id:122, url:'/Regions/177/Tournaments/122/Portugal-Super-Cup', name:'Super Cup'},{id:414, url:'/Regions/177/Tournaments/414/Portugal-2-Division', name:'2. Division'},{id:139, url:'/Regions/177/Tournaments/139/Portugal-Liga-Vitalis', name:'Liga Vitalis'},{id:275, url:'/Regions/177/Tournaments/275/Portugal-Carlsberg-Cup', name:'Carlsberg Cup'}]},
+{type:0, id:178, flg:'flg-pr', name: 'Puerto Rico', tournaments: [{id:380, url:'/Regions/178/Tournaments/380/Puerto-Rico-Premier-League', name:'Premier League'}]},
+{type:0, id:179, flg:'flg-qa', name: 'Qatar', tournaments: [{id:285, url:'/Regions/179/Tournaments/285/Qatar-1-Division', name:'1. Division'}]},
+{type:0, id:181, flg:'flg-ro', name: 'Romania', tournaments: [{id:121, url:'/Regions/181/Tournaments/121/Romania-Liga-I', name:'Liga I'},{id:415, url:'/Regions/181/Tournaments/415/Romania-Liga-II', name:'Liga II'},{id:145, url:'/Regions/181/Tournaments/145/Romania-Cup', name:'Cup'},{id:213, url:'/Regions/181/Tournaments/213/Romania-Super-Cup', name:'Super Cup'}]},
+{type:0, id:182, flg:'flg-ru', name: 'Russia', tournaments: [{id:77, url:'/Regions/182/Tournaments/77/Russia-Premier-League', name:'Premier League'},{id:111, url:'/Regions/182/Tournaments/111/Russia-Cup', name:'Cup'},{id:127, url:'/Regions/182/Tournaments/127/Russia-Super-Cup', name:'Super Cup'},{id:257, url:'/Regions/182/Tournaments/257/Russia-1-Division', name:'1. Division'},{id:544, url:'/Regions/182/Tournaments/544/Russia-', name:''}]},
+{type:0, id:183, flg:'flg-rw', name: 'Rwanda', tournaments: [{id:369, url:'/Regions/183/Tournaments/369/Rwanda-Championnat-National', name:'Championnat National'}]},
+{type:0, id:186, flg:'flg-kn', name: 'Saint Kitts and Nevis', tournaments: [{id:374, url:'/Regions/186/Tournaments/374/Saint-Kitts-and-Nevis-SKNFA-League', name:'SKNFA League'}]},
+{type:0, id:192, flg:'flg-sm', name: 'San Marino', tournaments: [{id:331, url:'/Regions/192/Tournaments/331/San-Marino-Campionato', name:'Campionato'}]},
+{type:0, id:194, flg:'flg-sa', name: 'Saudi Arabia', tournaments: [{id:282, url:'/Regions/194/Tournaments/282/Saudi-Arabia-1-Division', name:'1. Division'}]},
+{type:0, id:253, flg:'flg-gb-sct', name: 'Scotland', tournaments: [{id:20, url:'/Regions/253/Tournaments/20/Scotland-Premier-League', name:'Premier League'},{id:10, url:'/Regions/253/Tournaments/10/Scotland-Tennents-Scottish-Cup', name:'Tennents Scottish Cup'},{id:71, url:'/Regions/253/Tournaments/71/Scotland-1-Division', name:'1. Division'},{id:72, url:'/Regions/253/Tournaments/72/Scotland-2-Division', name:'2. Division'},{id:73, url:'/Regions/253/Tournaments/73/Scotland-3-Division', name:'3. Division'},{id:225, url:'/Regions/253/Tournaments/225/Scotland-Playoff', name:'Playoff'},{id:25, url:'/Regions/253/Tournaments/25/Scotland-Co-operative-Insurance-Cup', name:'Co-operative Insurance Cup'},{id:118, url:'/Regions/253/Tournaments/118/Scotland-Alba-Challenge-Cup', name:'Alba Challenge Cup'}]},
+{type:0, id:195, flg:'flg-sn', name: 'Senegal', tournaments: [{id:359, url:'/Regions/195/Tournaments/359/Senegal-Championnat-National', name:'Championnat National'}]},
+{type:0, id:196, flg:'flg-rs', name: 'Serbia', tournaments: [{id:80, url:'/Regions/196/Tournaments/80/Serbia-Super-Liga', name:'Super Liga'},{id:416, url:'/Regions/196/Tournaments/416/Serbia-Prva-Liga', name:'Prva Liga'},{id:112, url:'/Regions/196/Tournaments/112/Serbia-Cup', name:'Cup'}]},
+{type:0, id:198, flg:'flg-sl', name: 'Sierra Leone', tournaments: [{id:360, url:'/Regions/198/Tournaments/360/Sierra-Leone-Premier-League', name:'Premier League'}]},
+{type:0, id:199, flg:'flg-sg', name: 'Singapore', tournaments: [{id:254, url:'/Regions/199/Tournaments/254/Singapore-SLeague', name:'S.League'},{id:443, url:'/Regions/199/Tournaments/443/Singapore-Cup', name:'Cup'},{id:444, url:'/Regions/199/Tournaments/444/Singapore-League-Cup', name:'League Cup'}]},
+{type:0, id:200, flg:'flg-sk', name: 'Slovakia', tournaments: [{id:74, url:'/Regions/200/Tournaments/74/Slovakia-Corgon-Liga', name:'Corgon Liga'},{id:323, url:'/Regions/200/Tournaments/323/Slovakia-1-Division', name:'1. Division'},{id:107, url:'/Regions/200/Tournaments/107/Slovakia-FA-Cup', name:'FA Cup'},{id:130, url:'/Regions/200/Tournaments/130/Slovakia-Super-Cup', name:'Super Cup'}]},
+{type:0, id:201, flg:'flg-si', name: 'Slovenia', tournaments: [{id:79, url:'/Regions/201/Tournaments/79/Slovenia-PrvaLiga', name:'PrvaLiga'},{id:417, url:'/Regions/201/Tournaments/417/Slovenia-2-Division', name:'2. Division'},{id:272, url:'/Regions/201/Tournaments/272/Slovenia-Playoff', name:'Playoff'},{id:108, url:'/Regions/201/Tournaments/108/Slovenia-Cup', name:'Cup'},{id:273, url:'/Regions/201/Tournaments/273/Slovenia-Super-Cup', name:'Super Cup'}]},
+{type:0, id:202, flg:'flg-sb', name: 'Solomon Islands', tournaments: [{id:375, url:'/Regions/202/Tournaments/375/Solomon-Islands-National-Club-Championship', name:'National Club Championship'}]},
+{type:0, id:204, flg:'flg-za', name: 'South Africa', tournaments: [{id:278, url:'/Regions/204/Tournaments/278/South-Africa-Premier-Soccer-League', name:'Premier Soccer League'},{id:525, url:'/Regions/204/Tournaments/525/South-Africa-', name:''}]},
+{type:1, id:265, flg:'flg-csa', name: 'South America', tournaments: [{id:105, url:'/Regions/265/Tournaments/105/South-America-Copa-Libertadores', name:'Copa Libertadores'},{id:146, url:'/Regions/265/Tournaments/146/South-America-Copa-Sudamericana', name:'Copa Sudamericana'},{id:271, url:'/Regions/265/Tournaments/271/South-America-Recopa-Sudamericana', name:'Recopa Sudamericana'}]},
+{type:0, id:260, flg:'flg-kr', name: 'South Korea', tournaments: [{id:387, url:'/Regions/260/Tournaments/387/South-Korea-K-League', name:'K. League'},{id:418, url:'/Regions/260/Tournaments/418/South-Korea-K2-League', name:'K2 League'}]},
+{type:0, id:206, flg:'flg-es', name: 'Spain', tournaments: [{id:4, url:'/Regions/206/Tournaments/4/Spain-La-Liga', name:'La Liga'},{id:14, url:'/Regions/206/Tournaments/14/Spain-Copa-del-Rey', name:'Copa del Rey'},{id:61, url:'/Regions/206/Tournaments/61/Spain-Supercopa-de-Espana', name:'Supercopa de Espana'},{id:63, url:'/Regions/206/Tournaments/63/Spain-LIGA-Adelante', name:'LIGA Adelante'},{id:318, url:'/Regions/206/Tournaments/318/Spain-Segunda-B', name:'Segunda B'},{id:438, url:'/Regions/206/Tournaments/438/Spain-Tercera-Division', name:'Tercera Division'}]},
+{type:0, id:208, flg:'flg-sd', name: 'Sudan', tournaments: [{id:316, url:'/Regions/208/Tournaments/316/Sudan-Premier-League', name:'Premier League'}]},
+{type:0, id:211, flg:'flg-sz', name: 'Swaziland', tournaments: [{id:297, url:'/Regions/211/Tournaments/297/Swaziland-1-Division', name:'1. Division'}]},
+{type:0, id:212, flg:'flg-se', name: 'Sweden', tournaments: [{id:40, url:'/Regions/212/Tournaments/40/Sweden-Allsvenskan', name:'Allsvenskan'},{id:48, url:'/Regions/212/Tournaments/48/Sweden-Superettan', name:'Superettan'},{id:158, url:'/Regions/212/Tournaments/158/Sweden-2-Division', name:'2. Division'},{id:98, url:'/Regions/212/Tournaments/98/Sweden-Allsvenskan-qualification', name:'Allsvenskan qualification'},{id:310, url:'/Regions/212/Tournaments/310/Sweden-Promotion-Relegation-2', name:'Promotion/Relegation 2'},{id:393, url:'/Regions/212/Tournaments/393/Sweden-Damallsvenskan', name:'Damallsvenskan'},{id:42, url:'/Regions/212/Tournaments/42/Sweden-Cup', name:'Cup'},{id:258, url:'/Regions/212/Tournaments/258/Sweden-Super-Cup', name:'Super Cup'},{id:439, url:'/Regions/212/Tournaments/439/Sweden-1-Division', name:'1. Division'}]},
+{type:0, id:213, flg:'flg-ch', name: 'Switzerland', tournaments: [{id:33, url:'/Regions/213/Tournaments/33/Switzerland-Super-League', name:'Super League'},{id:55, url:'/Regions/213/Tournaments/55/Switzerland-Challenge-League', name:'Challenge League'},{id:163, url:'/Regions/213/Tournaments/163/Switzerland-Playoff', name:'Playoff'},{id:45, url:'/Regions/213/Tournaments/45/Switzerland-Switzerland-Cup', name:'Switzerland Cup'},{id:529, url:'/Regions/213/Tournaments/529/Switzerland-', name:''},{id:461, url:'/Regions/213/Tournaments/461/Switzerland-1Liga', name:'1.Liga'}]},
+{type:0, id:214, flg:'flg-sy', name: 'Syria', tournaments: [{id:296, url:'/Regions/214/Tournaments/296/Syria-1-Division', name:'1. Division'}]},
+{type:0, id:215, flg:'flg-tw', name: 'Taiwan', tournaments: [{id:337, url:'/Regions/215/Tournaments/337/Taiwan-Division-A', name:'Division A'}]},
+{type:0, id:217, flg:'flg-tz', name: 'Tanzania', tournaments: [{id:382, url:'/Regions/217/Tournaments/382/Tanzania-Premier-League', name:'Premier League'}]},
+{type:0, id:218, flg:'flg-th', name: 'Thailand', tournaments: [{id:335, url:'/Regions/218/Tournaments/335/Thailand-Premier-League', name:'Premier League'}]},
+{type:0, id:220, flg:'flg-tg', name: 'Togo', tournaments: [{id:365, url:'/Regions/220/Tournaments/365/Togo-Championnat-National', name:'Championnat National'}]},
+{type:0, id:223, flg:'flg-tt', name: 'Trinidad and Tobago', tournaments: [{id:361, url:'/Regions/223/Tournaments/361/Trinidad-and-Tobago-Professional-League', name:'Professional League'}]},
+{type:0, id:224, flg:'flg-tn', name: 'Tunisia', tournaments: [{id:276, url:'/Regions/224/Tournaments/276/Tunisia-Ligue-Professionnelle-1', name:'Ligue Professionnelle 1'},{id:524, url:'/Regions/224/Tournaments/524/Tunisia-', name:''}]},
+{type:0, id:225, flg:'flg-tr', name: 'Turkey', tournaments: [{id:17, url:'/Regions/225/Tournaments/17/Turkey-Super-Lig', name:'Super Lig'},{id:44, url:'/Regions/225/Tournaments/44/Turkey-Cup', name:'Cup'},{id:233, url:'/Regions/225/Tournaments/233/Turkey-Super-Cup', name:'Super Cup'},{id:140, url:'/Regions/225/Tournaments/140/Turkey-TFF-Lig-A', name:'TFF Lig A'},{id:280, url:'/Regions/225/Tournaments/280/Turkey-TFF-Lig-B', name:'TFF Lig B'},{id:327, url:'/Regions/225/Tournaments/327/Turkey-3-Lig', name:'3. Lig'},{id:229, url:'/Regions/225/Tournaments/229/Turkey-Playoff', name:'Playoff'},{id:514, url:'/Regions/225/Tournaments/514/Turkey-Spor-Toto-Cup', name:'Spor Toto Cup'}]},
+{type:0, id:231, flg:'flg-ae', name: 'UAE', tournaments: [{id:295, url:'/Regions/231/Tournaments/295/UAE-1-Division', name:'1. Division'}]},
+{type:0, id:229, flg:'flg-ug', name: 'Uganda', tournaments: [{id:371, url:'/Regions/229/Tournaments/371/Uganda-Super-League', name:'Super League'}]},
+{type:0, id:230, flg:'flg-ua', name: 'Ukraine', tournaments: [{id:114, url:'/Regions/230/Tournaments/114/Ukraine-Premier-League', name:'Premier League'},{id:125, url:'/Regions/230/Tournaments/125/Ukraine-Cup', name:'Cup'},{id:164, url:'/Regions/230/Tournaments/164/Ukraine-Super-Cup', name:'Super Cup'},{id:408, url:'/Regions/230/Tournaments/408/Ukraine-1-Division', name:'1. Division'}]},
+{type:0, id:235, flg:'flg-uy', name: 'Uruguay', tournaments: [{id:196, url:'/Regions/235/Tournaments/196/Uruguay-Primera-Division', name:'Primera Division'},{id:423, url:'/Regions/235/Tournaments/423/Uruguay-Segunda-Division', name:'Segunda Division'}]},
+{type:0, id:233, flg:'flg-us', name: 'USA', tournaments: [{id:85, url:'/Regions/233/Tournaments/85/USA-Major-League-Soccer', name:'Major League Soccer'},{id:434, url:'/Regions/233/Tournaments/434/USA-USA-1', name:'USA 1'},{id:322, url:'/Regions/233/Tournaments/322/USA-USL-1', name:'USL 1'},{id:498, url:'/Regions/233/Tournaments/498/USA-', name:''}]},
+{type:0, id:236, flg:'flg-uz', name: 'Uzbekistan', tournaments: [{id:251, url:'/Regions/236/Tournaments/251/Uzbekistan-Oliy-League', name:'Oliy League'},{id:521, url:'/Regions/236/Tournaments/521/Uzbekistan-', name:''}]},
+{type:0, id:238, flg:'flg-ve', name: 'Venezuela', tournaments: [{id:237, url:'/Regions/238/Tournaments/237/Venezuela-Primera-Division', name:'Primera Division'},{id:420, url:'/Regions/238/Tournaments/420/Venezuela-Segunda-Division-Apertura', name:'Segunda Division - Apertura'}]},
+{type:0, id:239, flg:'flg-vn', name: 'Viet Nam', tournaments: [{id:392, url:'/Regions/239/Tournaments/392/Viet-Nam-V-league', name:'V-league'}]},
+{type:0, id:254, flg:'flg-gb-wls', name: 'Wales', tournaments: [{id:138, url:'/Regions/254/Tournaments/138/Wales-Premier-Division', name:'Premier Division'},{id:151, url:'/Regions/254/Tournaments/151/Wales-Cup', name:'Cup'},{id:520, url:'/Regions/254/Tournaments/520/Wales-', name:''},{id:448, url:'/Regions/254/Tournaments/448/Wales-Welsh-Cup', name:'Welsh Cup'}]},
+{type:0, id:244, flg:'flg-ye', name: 'Yemen', tournaments: [{id:306, url:'/Regions/244/Tournaments/306/Yemen-1-Division', name:'1. Division'}]},
+{type:0, id:245, flg:'flg-zm', name: 'Zambia', tournaments: [{id:252, url:'/Regions/245/Tournaments/252/Zambia-1-Division', name:'1. Division'}]},
+{type:0, id:246, flg:'flg-zw', name: 'Zimbabwe', tournaments: [{id:253, url:'/Regions/246/Tournaments/253/Zimbabwe-1-Division', name:'1. Division'}]}];
+
+var favoriteTournaments = new WS.FavoriteTournaments();
+
+$(function () {
+    var tournamentCollapsedIcon = 'ui-icon-triangle-1-s',
+        tournamentExpandedIcon = 'ui-icon-triangle-1-n';
+
+    //Expandable/Collapsable
+    $('#tournament-groups').bind('activation-finished', function(e, selected){
+        //Clear other tab icons
+        $('#tournament-groups .ui-icon.' + tournamentExpandedIcon).each(function(){
+            if(!$(this).parent('a').hasClass('selected')){
+                $(this).removeClass(tournamentExpandedIcon)
+                       .addClass(tournamentCollapsedIcon);
+            }
+        });
+
+        var $tournamentGroup = $(selected);
+        var $groupPanel = $($tournamentGroup.attr('href'));
+        var $icon = $('.ui-icon', $tournamentGroup);
+
+        //using :visible doesn't work consistently
+        if($groupPanel.isVisible()){
+            //Opened by tabs plugin first time. Just change the icon.
+            if($icon.hasClass(tournamentCollapsedIcon)){
+                $icon.removeClass(tournamentCollapsedIcon)
+                        .addClass(tournamentExpandedIcon);
+
+            } else {
+                //Collapse
+                $icon.removeClass(tournamentExpandedIcon)
+                        .addClass(tournamentCollapsedIcon);
+
+                $groupPanel.hide();
+            }
+        } else {
+            //Expand
+            $icon.removeClass(tournamentCollapsedIcon)
+                    .addClass(tournamentExpandedIcon);
+
+            $groupPanel.show();
+        }
+    });
+
+    favoriteTournaments.init();
+});
+</script>
+        
+        <div id="layout-content-wrapper">
+            
+    <div id="layout-content-2col-left">
+        
+
+    
+
+<div id="breadcrumb-nav">
+<span class="iconize iconize-icon-left"><span class="ui-icon country flg-gb-eng"></span>England</span><span class="separator">&raquo;</span>
+            <span><select id="tournaments" name="tournaments"><option selected="selected" value="/Regions/252/Tournaments/2">Premier League</option>
+<option value="/Regions/252/Tournaments/26">FA Cup</option>
+<option value="/Regions/252/Tournaments/29">League Cup</option>
+<option value="/Regions/252/Tournaments/96">Community Shield</option>
+<option value="/Regions/252/Tournaments/7">Championship</option>
+<option value="/Regions/252/Tournaments/8">League 1</option>
+<option value="/Regions/252/Tournaments/9">League 2</option>
+<option value="/Regions/252/Tournaments/70">Blue Square Premier</option>
+<option value="/Regions/252/Tournaments/314">Blue Square North</option>
+<option value="/Regions/252/Tournaments/315">Unibond League</option>
+<option value="/Regions/252/Tournaments/23">Johnstones Paint Trophy</option>
+<option value="/Regions/252/Tournaments/389">Premier Reserve League</option>
+<option value="/Regions/252/Tournaments/479"></option>
+<option value="/Regions/252/Tournaments/497"></option>
+<option value="/Regions/252/Tournaments/469">WSL</option>
+</select></span>
+            
+        <span class="separator">&raquo;</span>
+            <span><select id="seasons" name="seasons"><option value="/Regions/252/Tournaments/2/Seasons/3853">2013/2014</option>
+<option selected="selected" value="/Regions/252/Tournaments/2/Seasons/3389">2012/2013</option>
+<option value="/Regions/252/Tournaments/2/Seasons/2935">2011/2012</option>
+<option value="/Regions/252/Tournaments/2/Seasons/2458">2010/2011</option>
+<option value="/Regions/252/Tournaments/2/Seasons/1849">2009/2010</option>
+<option value="/Regions/252/Tournaments/2/Seasons/1539">2008/2009</option>
+<option value="/Regions/252/Tournaments/2/Seasons/1256">2007/2008</option>
+<option value="/Regions/252/Tournaments/2/Seasons/667">2006/2007</option>
+<option value="/Regions/252/Tournaments/2/Seasons/836">2005/2006</option>
+<option value="/Regions/252/Tournaments/2/Seasons/594">2004/2005</option>
+<option value="/Regions/252/Tournaments/2/Seasons/429">2003/2004</option>
+<option value="/Regions/252/Tournaments/2/Seasons/299">2002/2003</option>
+<option value="/Regions/252/Tournaments/2/Seasons/191">2001/2002</option>
+<option value="/Regions/252/Tournaments/2/Seasons/85">2000/2001</option>
+<option value="/Regions/252/Tournaments/2/Seasons/2">1999/2000</option>
+</select></span>
+            
+        
+    </div>
+ 
+ 
+<script type="text/javascript">
+
+$('#breadcrumb-nav select').change(function () {
+    NG.GA.trackEvent('BreadcrumbNav', this.id);
+    window.location.href = this.value;
+    // TODO: Disable all selects?
+});
+
+</script>
+
+        <div class="custom-tournament-header" style="position: relative;">
+            <h1>Premier League</h1>
+            <img style="display: block;" src="http://164.177.157.12/img/customstageheaders/6531.jpg"/> 
+            <span data-tournament-id="2" class="tournament-favourite-status" data-is-favourite-tournament="0" style="bottom: 0pt; font-weight: bold; box-shadow: 1px 1px 10px rgb(136, 136, 136); border-radius: 5px 5px 5px 5px; background-color: rgb(255, 255, 255); padding: 0.2em 0.5em;"><a href="#popular" class="iconize iconize-icon-right ui-state-transparent-default" style=""><span class="ui-icon ui-icon-star"></span>Add to Favourites</a></span>
+        </div>
+    
+
+<script type="text/javascript">
+
+    $(function () {
+        //    var ft = $.cookie('ft') || '';
+        //    var tournamentIds = ((0 < ft.length) ? ft.split(',') : []);
+        //    var tournamentId = 2 + "";
+        //    var isFavourite = -1 != $.inArray(tournamentId, tournamentIds);
+
+        //    function setTournamentFavouriteViewStatus(){
+        //         if(isFavourite){
+        //            $('.tournament-favourite-status').html('In favourites');
+        //        } else {
+        //            $('.tournament-favourite-status').html('<a class="iconize iconize-icon-right ui-state-transparent-default" href="#popular"><span class="ui-icon ui-icon-star"></span>Add to Favourites</a>');
+        //        }
+        //    }
+        //    
+        //    setTournamentFavouriteViewStatus();
+
+        //    $('.tournament-favourite-status').bind('click', function(){
+        //        if(!isFavourite){
+        //            isFavourite = true;
+        //            NG.Events.fireGlobal('addFavouriteTournament', [tournamentId, $(this)]);
+        //            setTournamentFavouriteViewStatus();
+        //        }
+        //    });
+
+        //    NG.Events.addGlobal('favouritetournamentremoved-' + tournamentId, function(){
+        //        isFavourite = false;
+        //        setTournamentFavouriteViewStatus();
+        //    });
+        WS.FavouriteTournamentsStatusController.init();
+    });
+   
+</script>
+<div id="sub-navigation" class="with-single-level"><ul><li><a href="/Regions/252/Tournaments/2/Seasons/3389/Stages/6531/Show/England-Premier-League-2012-2013" class="">Summary</a></li><li><a href="/Regions/252/Tournaments/2/Seasons/3389/Stages/6531/Fixtures/England-Premier-League-2012-2013" class="">Fixtures</a></li><li><a href="/Regions/252/Tournaments/2/Seasons/3389/Stages/6531/TeamStatistics/England-Premier-League-2012-2013" class="selected">Team Statistics</a></li><li><a href="/Regions/252/Tournaments/2/Seasons/3389/Stages/6531/PlayerStatistics/England-Premier-League-2012-2013" class="">Player Statistics</a></li><li><a href="/Regions/252/Tournaments/2/Seasons/3389/Stages/6531/News/England-Premier-League-2012-2013" class="">News</a></li></ul></div><script type="text/javascript">$('#sub-navigation .inactive').click(function(e){ e.preventDefault(); return false; })</script>
+    
+
+
+
+    
+    
+    <div style="position:relative;">
+        <h2>Premier League Team Statistics</h2>
+        <span style="position:absolute; padding-top: 0.5em; right:0; bottom:0.5em;">
+            <a href="http://twitter.com/share"  
+                class="twitter-share-button" 
+                data-text="Premier League: Detailed team statistics by @WhoScored" 
+                data-count="horizontal">Tweet</a>
+        </span>
+    </div>
+
+    <div id="stage-team-stats" class="ws-panel stat-table">
+        <div class="option-group">
+            <ul id="stage-team-stats-options" class="tabs right">
+              <li><a href="#stage-team-stats-summary" class="selected">Summary</a></li>
+              <li><a href="#stage-team-stats-defensive">Defensive</a></li>
+              <li><a href="#stage-team-stats-offensive">Offensive</a></li>
+            </ul>
+        </div>
+        <div id="stage-team-stats-summary">
+          <div id="stage-team-stats-summary-filter">
+            <div id="stage-team-stats-summary-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-team-stats-summary-grid" class="grid with-centered-columns hover">
+            <thead>
+                <tr>
+                    <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                    <th class="sortable tn" data-property="TeamName" data-default-sort-dir="asc" title="Team Name">Team</th>
+                    <th class="sortable spg" data-property="TotalShots" title="Shots per game">SpG</th>
+                    <th class="sortable agg" data-property="CardPoints" title="Ordered by Card Points (Red Cards * 3 + Yellow Cards)">Discipline</th>
+                    <th class="sortable bp" data-property="Possession" title="Average Possession possession">Possession%</th>
+                    <th class="sortable ps" data-property="PassSuccess" title="Pass Success Percentage">Pass Success%</th>
+                    <th class="sortable aw" data-property="AerialWon" title="Aerial duels won per game">AW</th>
+                    <th class="sortable rating" data-property="Rating" title="Average rating">Rating</th>
+                </tr>
+            </thead>
+            <tbody id="stage-team-stats-summary-content"></tbody>
+        </table>
+        </div>
+        
+        <div id="stage-team-stats-offensive">
+          <div id="stage-team-stats-offensive-filter">
+            <div id="stage-team-stats-offensive-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                        <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-team-stats-offensive-grid" class="grid with-centered-columns hover">
+            <thead>
+                <tr>
+                    <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                    <th class="sortable tn" data-property="TeamName" data-default-sort-dir="asc" title="Team Name">Team</th>
+                    <th class="sortable spg" data-property="TotalShots" title="Shots per game">Shots pg</th>
+                    <th class="sortable sot" data-property="ShotsOnTarget" title="Shots on target per game">Shots OT pg</th>
+                    <th class="sortable dw" data-property="Dribbles" title="Successful dribbles per game">Dribbles pg</th>
+                    <th class="sortable ws" data-property="WasFouled" title="Fouled per game">Fouled pg</th>
+                    <th class="sortable off" data-property="Offsides" title="Offsides per game">Offsides pg</th>
+                </tr>
+            </thead>
+            <tbody id="stage-team-stats-offensive-content"></tbody>
+        </table>
+        </div>
+        
+        <div id="stage-team-stats-defensive">
+          <div id="stage-team-stats-defensive-filter">
+            <div id="stage-team-stats-defensive-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-team-stats-defensive-grid" class="grid with-centered-columns hover">
+            <thead>
+                <tr>
+                    <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                    <th class="sortable tn" data-property="TeamName" data-default-sort-dir="asc" title="Team Name">Team</th>
+                    <th class="sortable scpg" data-property="ShotsConceded" title="Shots conceded per game">Shots conceded pg</th>
+                    <th class="sortable tpg" data-property="TotalTackle" title="Tackles per game">Tackles pg</th>
+                    <th class="sortable ipg" data-property="Interceptions" title="Interceptions per game">Interceptions pg</th>
+                    <th class="sortable fpg" data-property="Fouls" title="Fouls per game">Fouls pg</th>
+                </tr>
+            </thead>
+            <tbody id="stage-team-stats-defensive-content"></tbody>
+        </table>
+        </div>
+    </div>
+    <div class="info">* Hover over any figure to see total values (e.g. SpG)</div>
+    <script type="text/javascript">
+    
+        var defaultFilteredStatsConfigParams = {
+            data:{
+                url: 'stage-team-stat'
+            },
+            defaultParams: {
+                stageId : 6531,
+                teamId: -1,
+                field: 2, 
+                orderBy: 'Rating',
+                isAscending: false
+            }
+        };
+        
+        DataStore.prime('stage-team-stat', defaultFilteredStatsConfigParams.defaultParams, [{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":32,"TeamName":"Manchester United","GamesPlayed":38,"Goals":86,"Yellow":57,"Red":1,"TotalPasses":19686,"Possession":2134.8,"AccuratePasses":16871,"AerialWon":539,"AerialLost":479,"Rating":7.01,"DefensiveRating":6.97,"OffensiveRating":6.89,"ShotsConcededIBox":248,"ShotsConcededOBox":241,"TotalTackle":731,"Interceptions":515,"Fouls":378,"WasFouled":423,"TotalShots":561,"ShotsBlocked":143,"ShotsOnTarget":213,"Dribbles":245,"Offsides":96,"Corners":218,"Throws":733,"Dispossesed":506,"TotalClearance":1319,"Turnover":0,"Ranking":1},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":13,"TeamName":"Arsenal","GamesPlayed":38,"Goals":72,"Yellow":42,"Red":5,"TotalPasses":21110,"Possession":2210.2999999999997,"AccuratePasses":18075,"AerialWon":637,"AerialLost":539,"Rating":6.99,"DefensiveRating":6.93,"OffensiveRating":6.87,"ShotsConcededIBox":224,"ShotsConcededOBox":178,"TotalTackle":748,"Interceptions":636,"Fouls":383,"WasFouled":411,"TotalShots":597,"ShotsBlocked":94,"ShotsOnTarget":205,"Dribbles":406,"Offsides":80,"Corners":261,"Throws":773,"Dispossesed":411,"TotalClearance":873,"Turnover":0,"Ranking":2},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":26,"TeamName":"Liverpool","GamesPlayed":38,"Goals":71,"Yellow":54,"Red":2,"TotalPasses":19802,"Possession":2173.2,"AccuratePasses":16667,"AerialWon":482,"AerialLost":446,"Rating":6.96,"DefensiveRating":6.91,"OffensiveRating":6.86,"ShotsConcededIBox":206,"ShotsConcededOBox":228,"TotalTackle":795,"Interceptions":526,"Fouls":402,"WasFouled":358,"TotalShots":739,"ShotsBlocked":107,"ShotsOnTarget":232,"Dribbles":378,"Offsides":110,"Corners":284,"Throws":869,"Dispossesed":529,"TotalClearance":914,"Turnover":0,"Ranking":3},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":30,"TeamName":"Tottenham","GamesPlayed":38,"Goals":66,"Yellow":55,"Red":2,"TotalPasses":16647,"Possession":2015.2000000000003,"AccuratePasses":13832,"AerialWon":553,"AerialLost":649,"Rating":6.96,"DefensiveRating":7.04,"OffensiveRating":6.8,"ShotsConcededIBox":221,"ShotsConcededOBox":149,"TotalTackle":745,"Interceptions":721,"Fouls":392,"WasFouled":392,"TotalShots":681,"ShotsBlocked":90,"ShotsOnTarget":241,"Dribbles":306,"Offsides":77,"Corners":262,"Throws":931,"Dispossesed":466,"TotalClearance":1595,"Turnover":0,"Ranking":4},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":15,"TeamName":"Chelsea","GamesPlayed":38,"Goals":75,"Yellow":51,"Red":3,"TotalPasses":18417,"Possession":2067.4,"AccuratePasses":15314,"AerialWon":513,"AerialLost":502,"Rating":6.93,"DefensiveRating":6.96,"OffensiveRating":6.8100000000000005,"ShotsConcededIBox":264,"ShotsConcededOBox":201,"TotalTackle":710,"Interceptions":504,"Fouls":399,"WasFouled":454,"TotalShots":626,"ShotsBlocked":104,"ShotsOnTarget":212,"Dribbles":279,"Offsides":80,"Corners":240,"Throws":868,"Dispossesed":434,"TotalClearance":981,"Turnover":0,"Ranking":5},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":167,"TeamName":"Manchester City","GamesPlayed":38,"Goals":66,"Yellow":62,"Red":3,"TotalPasses":20060,"Possession":2204.6,"AccuratePasses":17049,"AerialWon":603,"AerialLost":587,"Rating":6.93,"DefensiveRating":6.91,"OffensiveRating":6.8100000000000005,"ShotsConcededIBox":212,"ShotsConcededOBox":185,"TotalTackle":683,"Interceptions":492,"Fouls":470,"WasFouled":349,"TotalShots":660,"ShotsBlocked":111,"ShotsOnTarget":231,"Dribbles":295,"Offsides":75,"Corners":269,"Throws":833,"Dispossesed":515,"TotalClearance":1068,"Turnover":0,"Ranking":6},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":31,"TeamName":"Everton","GamesPlayed":38,"Goals":55,"Yellow":59,"Red":3,"TotalPasses":15814,"Possession":2008.3000000000002,"AccuratePasses":12564,"AerialWon":707,"AerialLost":644,"Rating":6.9,"DefensiveRating":7,"OffensiveRating":6.7,"ShotsConcededIBox":245,"ShotsConcededOBox":209,"TotalTackle":720,"Interceptions":592,"Fouls":446,"WasFouled":498,"TotalShots":633,"ShotsBlocked":126,"ShotsOnTarget":207,"Dribbles":202,"Offsides":100,"Corners":257,"Throws":929,"Dispossesed":449,"TotalClearance":1172,"Turnover":0,"Ranking":7},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":259,"TeamName":"Swansea","GamesPlayed":38,"Goals":47,"Yellow":59,"Red":2,"TotalPasses":19942,"Possession":2102.6000000000004,"AccuratePasses":16954,"AerialWon":492,"AerialLost":670,"Rating":6.8,"DefensiveRating":6.9399999999999995,"OffensiveRating":6.61,"ShotsConcededIBox":341,"ShotsConcededOBox":227,"TotalTackle":686,"Interceptions":702,"Fouls":409,"WasFouled":418,"TotalShots":504,"ShotsBlocked":157,"ShotsOnTarget":167,"Dribbles":197,"Offsides":87,"Corners":193,"Throws":761,"Dispossesed":361,"TotalClearance":1352,"Turnover":0,"Ranking":8},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":170,"TeamName":"Fulham","GamesPlayed":38,"Goals":50,"Yellow":48,"Red":3,"TotalPasses":16940,"Possession":1859.2999999999997,"AccuratePasses":13900,"AerialWon":582,"AerialLost":504,"Rating":6.78,"DefensiveRating":6.91,"OffensiveRating":6.58,"ShotsConcededIBox":359,"ShotsConcededOBox":279,"TotalTackle":680,"Interceptions":745,"Fouls":413,"WasFouled":411,"TotalShots":460,"ShotsBlocked":161,"ShotsOnTarget":160,"Dribbles":235,"Offsides":74,"Corners":176,"Throws":799,"Dispossesed":446,"TotalClearance":1274,"Turnover":0,"Ranking":9},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":24,"TeamName":"Aston Villa","GamesPlayed":38,"Goals":47,"Yellow":72,"Red":3,"TotalPasses":14238,"Possession":1734.4,"AccuratePasses":11076,"AerialWon":720,"AerialLost":686,"Rating":6.77,"DefensiveRating":6.86,"OffensiveRating":6.5600000000000005,"ShotsConcededIBox":362,"ShotsConcededOBox":275,"TotalTackle":741,"Interceptions":769,"Fouls":455,"WasFouled":344,"TotalShots":438,"ShotsBlocked":177,"ShotsOnTarget":141,"Dribbles":252,"Offsides":97,"Corners":177,"Throws":876,"Dispossesed":505,"TotalClearance":1520,"Turnover":0,"Ranking":10},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":18,"TeamName":"Southampton","GamesPlayed":38,"Goals":49,"Yellow":43,"Red":2,"TotalPasses":16810,"Possession":1995.8,"AccuratePasses":13065,"AerialWon":625,"AerialLost":623,"Rating":6.77,"DefensiveRating":6.92,"OffensiveRating":6.55,"ShotsConcededIBox":291,"ShotsConcededOBox":161,"TotalTackle":819,"Interceptions":779,"Fouls":411,"WasFouled":357,"TotalShots":516,"ShotsBlocked":109,"ShotsOnTarget":167,"Dribbles":238,"Offsides":86,"Corners":209,"Throws":956,"Dispossesed":477,"TotalClearance":1275,"Turnover":0,"Ranking":11},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":29,"TeamName":"West Ham","GamesPlayed":38,"Goals":45,"Yellow":74,"Red":1,"TotalPasses":12574,"Possession":1661.6,"AccuratePasses":9330,"AerialWon":803,"AerialLost":670,"Rating":6.76,"DefensiveRating":6.89,"OffensiveRating":6.51,"ShotsConcededIBox":311,"ShotsConcededOBox":315,"TotalTackle":728,"Interceptions":459,"Fouls":471,"WasFouled":366,"TotalShots":492,"ShotsBlocked":166,"ShotsOnTarget":158,"Dribbles":190,"Offsides":82,"Corners":211,"Throws":869,"Dispossesed":493,"TotalClearance":1520,"Turnover":0,"Ranking":12},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":16,"TeamName":"Sunderland","GamesPlayed":38,"Goals":41,"Yellow":62,"Red":3,"TotalPasses":13109,"Possession":1639,"AccuratePasses":9975,"AerialWon":649,"AerialLost":793,"Rating":6.72,"DefensiveRating":6.9,"OffensiveRating":6.48,"ShotsConcededIBox":377,"ShotsConcededOBox":260,"TotalTackle":784,"Interceptions":582,"Fouls":457,"WasFouled":459,"TotalShots":417,"ShotsBlocked":178,"ShotsOnTarget":139,"Dribbles":236,"Offsides":68,"Corners":180,"Throws":843,"Dispossesed":423,"TotalClearance":1155,"Turnover":0,"Ranking":13},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":23,"TeamName":"Newcastle United","GamesPlayed":38,"Goals":45,"Yellow":72,"Red":4,"TotalPasses":14599,"Possession":1848.5,"AccuratePasses":11649,"AerialWon":691,"AerialLost":705,"Rating":6.71,"DefensiveRating":6.67,"OffensiveRating":6.59,"ShotsConcededIBox":321,"ShotsConcededOBox":190,"TotalTackle":732,"Interceptions":478,"Fouls":466,"WasFouled":404,"TotalShots":533,"ShotsBlocked":115,"ShotsOnTarget":174,"Dribbles":338,"Offsides":84,"Corners":203,"Throws":871,"Dispossesed":506,"TotalClearance":1584,"Turnover":0,"Ranking":14},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":171,"TeamName":"Queens Park Rangers","GamesPlayed":38,"Goals":30,"Yellow":59,"Red":3,"TotalPasses":13634,"Possession":1704.4,"AccuratePasses":10526,"AerialWon":583,"AerialLost":663,"Rating":6.71,"DefensiveRating":6.92,"OffensiveRating":6.47,"ShotsConcededIBox":344,"ShotsConcededOBox":259,"TotalTackle":818,"Interceptions":660,"Fouls":406,"WasFouled":433,"TotalShots":500,"ShotsBlocked":174,"ShotsOnTarget":146,"Dribbles":349,"Offsides":108,"Corners":170,"Throws":831,"Dispossesed":453,"TotalClearance":1363,"Turnover":0,"Ranking":15},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":175,"TeamName":"West Bromwich Albion","GamesPlayed":38,"Goals":53,"Yellow":63,"Red":4,"TotalPasses":14359,"Possession":1742.8999999999999,"AccuratePasses":11282,"AerialWon":597,"AerialLost":584,"Rating":6.7,"DefensiveRating":6.66,"OffensiveRating":6.58,"ShotsConcededIBox":353,"ShotsConcededOBox":242,"TotalTackle":698,"Interceptions":377,"Fouls":437,"WasFouled":393,"TotalShots":506,"ShotsBlocked":158,"ShotsOnTarget":170,"Dribbles":212,"Offsides":100,"Corners":202,"Throws":823,"Dispossesed":455,"TotalClearance":1079,"Turnover":0,"Ranking":16},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":96,"TeamName":"Stoke","GamesPlayed":38,"Goals":34,"Yellow":78,"Red":4,"TotalPasses":12287,"Possession":1644.5,"AccuratePasses":8629,"AerialWon":1098,"AerialLost":755,"Rating":6.6899999999999995,"DefensiveRating":6.86,"OffensiveRating":6.37,"ShotsConcededIBox":273,"ShotsConcededOBox":276,"TotalTackle":727,"Interceptions":499,"Fouls":485,"WasFouled":356,"TotalShots":389,"ShotsBlocked":159,"ShotsOnTarget":114,"Dribbles":160,"Offsides":72,"Corners":165,"Throws":949,"Dispossesed":397,"TotalClearance":1161,"Turnover":0,"Ranking":17},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":194,"TeamName":"Wigan","GamesPlayed":38,"Goals":47,"Yellow":66,"Red":2,"TotalPasses":17925,"Possession":2065.7000000000003,"AccuratePasses":14788,"AerialWon":391,"AerialLost":446,"Rating":6.66,"DefensiveRating":6.5600000000000005,"OffensiveRating":6.63,"ShotsConcededIBox":296,"ShotsConcededOBox":241,"TotalTackle":716,"Interceptions":698,"Fouls":452,"WasFouled":439,"TotalShots":500,"ShotsBlocked":135,"ShotsOnTarget":170,"Dribbles":267,"Offsides":83,"Corners":200,"Throws":808,"Dispossesed":418,"TotalClearance":899,"Turnover":0,"Ranking":18},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":168,"TeamName":"Norwich","GamesPlayed":38,"Goals":41,"Yellow":60,"Red":1,"TotalPasses":13404,"Possession":1641.9,"AccuratePasses":9909,"AerialWon":649,"AerialLost":711,"Rating":6.65,"DefensiveRating":6.75,"OffensiveRating":6.46,"ShotsConcededIBox":305,"ShotsConcededOBox":231,"TotalTackle":675,"Interceptions":539,"Fouls":436,"WasFouled":400,"TotalShots":413,"ShotsBlocked":141,"ShotsOnTarget":134,"Dribbles":184,"Offsides":97,"Corners":173,"Throws":853,"Dispossesed":386,"TotalClearance":1146,"Turnover":0,"Ranking":19},{"RegionId":252,"RegionCode":"gb-eng","TournamentId":2,"TournamentName":"Premier League","StageId":6531,"Field":{"Value":2,"DisplayName":"Overall"},"TeamId":94,"TeamName":"Reading","GamesPlayed":38,"Goals":43,"Yellow":45,"Red":1,"TotalPasses":11803,"Possession":1545.6,"AccuratePasses":8299,"AerialWon":700,"AerialLost":955,"Rating":6.62,"DefensiveRating":6.64,"OffensiveRating":6.46,"ShotsConcededIBox":425,"ShotsConcededOBox":281,"TotalTackle":602,"Interceptions":558,"Fouls":394,"WasFouled":428,"TotalShots":394,"ShotsBlocked":166,"ShotsOnTarget":128,"Dribbles":169,"Offsides":80,"Corners":189,"Throws":972,"Dispossesed":442,"TotalClearance":1300,"Turnover":0,"Ranking":20}]);
+        
+        WS.TabbedPanels({
+            id: 'stage-team-stats',
+            tabs: {
+                view:{
+                    id: 'stage-team-stats-options'
+                },
+                model: {
+                defaultTab: '#stage-team-stats-summary',
+                activate: {
+                    '#stage-team-stats-summary': function() {
+                    },
+                    '#stage-team-stats-offensive': function() {
+                    },
+                    '#stage-team-stats-defensive': function() {
+                    }
+                },
+                init: {
+                    '#stage-team-stats-summary': function() {
+                        $('#stage-team-stats-summary-grid').grid(StageTeamStatsSummaryGridDefaults);
+                        
+                        var sGrid = $('#stage-team-stats-summary-grid').data('grid');
+                        
+                          var sGridConfig = {
+                            id: 'stage-team-stats-summary',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-team-stats-summary-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: defaultFilteredStatsConfigParams,
+                            content: {
+                                instance: sGrid,
+                                view: {
+                                    renderTo: 'stage-team-stats-summary-content'
+                                }
+                              }
+                            };
+                            
+                        var s = new WS.Panel(sGridConfig);
+                        s.load();
+                    },
+                    '#stage-team-stats-offensive': function() {
+                       $('#stage-team-stats-offensive-grid').grid(StageTeamStatsOffensiveGridDefaults);
+                        
+                        var oGrid = $('#stage-team-stats-offensive-grid').data('grid');
+                        
+                          var oGridConfig = {
+                            id: 'stage-team-stats-offensive',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-team-stats-offensive-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: defaultFilteredStatsConfigParams,
+                            content: {
+                                instance: oGrid,
+                                view: {
+                                    renderTo: 'stage-team-stats-offensive-content'
+                                }
+                              }
+                            };
+                            
+                        var o = new WS.Panel(oGridConfig);
+                        o.load();
+                    },
+                    '#stage-team-stats-defensive': function() {
+                        $('#stage-team-stats-defensive-grid').grid(StageTeamStatsDefensiveGridDefaults);
+                        
+                        var dGrid = $('#stage-team-stats-defensive-grid').data('grid');
+                        
+                          var dGridConfig = {
+                            id: 'stage-team-stats-defensive',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-team-stats-defensive-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: defaultFilteredStatsConfigParams,
+                            content: {
+                                instance: dGrid,
+                                view: {
+                                    renderTo: 'stage-team-stats-defensive-content'
+                                }
+                              }
+                            };
+                            
+                        var d = new WS.Panel(dGridConfig);
+                        d.load();
+                    }
+                }
+            }
+        }
+    });
+    
+    
+    </script>
+    
+    <h2>Premier League Situational Statistics</h2>
+    <div id="stage-situation-stats" class="ws-panel stat-table">
+        <div class="option-group">
+            <ul id="stage-situation-stats-options" class="tabs right">
+              <li><a href="#stage-goals" class="selected">Goal Types</a></li>
+              <li><a href="#stage-passes">Pass Types</a></li>
+              <li><a href="#stage-cards">Card Situations</a></li>
+            </ul>
+        </div>
+        <div id="stage-goals">
+          <div id="stage-goals-filter">
+            <div id="stage-goals-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-goals-grid" class="grid with-centered-columns hover">
+            <thead>
+                <tr>
+                    <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                    <th class="sortable tn" data-property="Name" data-default-sort-dir="asc" title="Team Name">Team</th>
+                    <th class="sortable op" data-property="Op" title="Goals from open plays">Open Play</th>
+                    <th class="sortable fb" data-property="Fb" title="Goals from counter attacks">Counter Attack</th>
+                    <th class="sortable sp" data-property="Sp" title="Goals from set pieces">Set Piece</th>
+                    <th class="sortable pen" data-property="Pen" title="Goals from penalties">Penalty</th>
+                    <th class="sortable og" data-property="Og" title="Goals from opponent own goals">Own Goal</th>
+                </tr>
+            </thead>
+            <tbody id="stage-goals-content"></tbody>
+        </table>
+        </div>
+        
+        <div id="stage-passes">
+          <div id="stage-passes-filter">
+            <div id="stage-passes-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-passes-grid" class="grid with-centered-columns hover">
+            <thead>
+                <tr>
+                    <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                    <th class="sortable tn" data-property="Name" data-default-sort-dir="asc" title="Team Name">Team</th>
+                    <th class="sortable op" data-property="Cr" title="Crosses per game">Cross pg</th>
+                    <th class="sortable fb" data-property="Tb" title="Through balls per game">Through Ball pg</th>
+                    <th class="sortable sp" data-property="Lb" title="Long balls per game">Long Balls pg</th>
+                    <th class="sortable pen" data-property="Sp" title="Short passes per game">Short Passes pg</th>
+                </tr>
+            </thead>
+            <tbody id="stage-passes-content"></tbody>
+        </table>
+        </div>
+        
+        <div id="stage-cards">
+          <div id="stage-cards-filter">
+            <div id="stage-cards-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-cards-grid" class="grid with-centered-columns hover">
+            <thead>
+                <tr>
+                    <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                    <th class="sortable tn" data-property="Name" data-default-sort-dir="asc" title="Team Name">Team</th>
+                    <th class="sortable f" data-property="F" title="Cards because of fouls">Fouls</th>
+                    <th class="sortable u" data-property="U" title="Unprofessional related cards">Unprofessional</th>
+                    <th class="sortable d" data-property="D" title="Cards because of diving">Dive</th>
+                    <th class="sortable ot" data-property="Ot" title="Other">Other</th>
+                </tr>
+            </thead>
+            <tbody id="stage-cards-content"></tbody>
+         </table>
+        </div>
+    </div>
+    
+    <h2>Premier League Positional Statistics</h2>
+    <div id="stage-pitch-stats" class="ws-panel stat-table">
+        <div class="option-group">
+            <ul id="stage-pitch-stats-options" class="tabs right">
+              <li><a href="#stage-touch-channels" class="selected">Attack Sides</a></li>
+              <li><a href="#stage-attempt-directions">Shot Directions</a></li>
+              <li><a href="#stage-attempt-zones">Shot Zones</a></li>
+              <li><a href="#stage-touch-zones">Action Zones</a></li>
+            </ul>
+        </div>
+        <div id="stage-touch-channels">
+          <div id="stage-touch-channels-filter">
+            <div id="stage-touch-channels-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-touch-channels-grid" class="grid with-centered-columns hover">
+            <thead>
+                <tr>
+                    <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                    <th class="sortable tn" data-property="Name" data-default-sort-dir="asc" title="Team Name">Team</th>
+                    <th class="sortable left" data-property="Left" title="Left side of the pitch">Left Side</th>
+                    <th class="sortable centre" data-property="Centre" title="Centre of the pitch">Middle of the pitch</th>
+                    <th class="sortable right" data-property="Right" title="Right side of the pitch">Right Side</th>
+                </tr>
+            </thead>
+            <tbody id="stage-touch-channels-content"></tbody>
+        </table>
+        </div>
+        
+         <div id="stage-attempt-directions">
+          <div id="stage-attempt-directions-filter">
+            <div id="stage-attempt-directions-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+              <div id="stage-attempt-directions-filter-against" class="grid-toolbar">
+                <dl class="listbox left">
+                       <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="0">For</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="1">Against</a></dd>
+                </dl>
+              </div>
+            </div>
+            <table id="stage-attempt-directions-grid" class="grid with-centered-columns hover">
+                <thead>
+                    <tr>
+                        <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                        <th class="sortable tn" data-property="Name" data-default-sort-dir="asc" title="Team Name">Team</th>
+                        <th class="sortable left" data-property="Left" title="Attempts from left side">Left Side</th>
+                        <th class="sortable centre" data-property="Centre" title="Attempts from the centre">Attempts from the middle</th>
+                        <th class="sortable right" data-property="Right" title="Attempts from right side">Right Side</th>
+                    </tr>
+                </thead>
+                <tbody id="stage-attempt-directions-content"></tbody>
+            </table>
+        </div>
+        
+        <div id="stage-attempt-zones">
+          <div id="stage-attempt-zones-filter">
+            <div id="stage-attempt-zones-filter-field" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+              </div>
+              <div id="stage-attempt-zones-filter-against" class="grid-toolbar">
+                <dl class="listbox left">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="0">For</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="1">Against</a></dd>
+                </dl>
+              </div>
+          </div>
+          <table id="stage-attempt-zones-grid" class="grid with-centered-columns hover">
+                <thead>
+                    <tr>
+                        <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                        <th class="sortable tn" data-property="Name" data-default-sort-dir="asc" title="Team Name">Team</th>
+                        <th class="sortable isb" data-property="Isb" title="Inside the 6 yards box">In 6 Yards Box</th>
+                        <th class="sortable ib" data-property="Ib" title="Inside the 18 yards box">In 18 Yards Box</th>
+                        <th class="sortable ob" data-property="Ob" title="Outside the 18 yards box">Outside of Box</th>
+                    </tr>
+                </thead>
+                <tbody id="stage-attempt-zones-content"></tbody>
+            </table>
+        </div>
+        <div id="stage-touch-zones">
+          <div id="stage-touch-zones-filter">
+            <div id="stage-touch-zones-filter-field" class="grid-toolbar">
+                <dl class="listbox left home-team-filter">
+                      <dt>View:</dt>
+                      <dd><a class="option selected" href="#" data-value="1" data-source="2">Overall</a></dd>
+                      <dd><a class="option" href="#" data-value="2" data-source="0">Home</a></dd>
+                      <dd><a class="option" href="#" data-value="3" data-source="1">Away</a></dd>
+                </dl>
+            </div>
+          </div>
+          <table id="stage-touch-zones-grid" class="grid with-centered-columns hover">
+                <thead>
+                    <tr>
+                        <th class="o" data-property="Rank" data-default-sort-dir="asc" title="Rank">R</th>
+                        <th class="sortable tn" data-property="Name" data-default-sort-dir="asc" title="Team Name">Team</th>
+                        <th class="sortable def" data-property="Def" data-default-sort-dir="asc" title="Defensive touches">Own Half</th>
+                        <th class="sortable mid" data-property="Mid" data-default-sort-dir="asc" title="Touches in the middle zone">Middle</th>
+                        <th class="sortable att" data-property="Att" data-default-sort-dir="asc" title="Attacking touches">Opposition Half</th>
+                    </tr>
+                </thead>
+                <tbody id="stage-touch-zones-content"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+    
+        var defaultStatsConfigParams = {
+            data:{
+                url: 'ws-teams-stage-stat'
+            },
+            defaultParams: {
+                stageId : 6531,
+                field: 2,
+                teamId: -1,
+                against: 0
+            }
+        };
+        
+        DataStore.prime('ws-teams-stage-stat', { stageId: 6531, type: 2, teamId: -1, against: 0, field: 2 }, [[[13,'Arsenal',[[5886,4904,6458]]],[15,'Chelsea',[[4824,4628,5324]]],[18,'Southampton',[[4794,4058,5035]]],[24,'Aston Villa',[[4425,3274,4329]]],[23,'Newcastle United',[[4086,3205,4432]]],[16,'Sunderland',[[4169,2780,4127]]],[26,'Liverpool',[[5010,4025,5242]]],[32,'Manchester United',[[4649,4103,5877]]],[29,'West Ham',[[4505,3266,4107]]],[167,'Manchester City',[[6012,4416,5781]]],[30,'Tottenham',[[5045,3882,4706]]],[31,'Everton',[[6078,3820,4512]]],[94,'Reading',[[4120,2610,4296]]],[96,'Stoke',[[3547,3166,4759]]],[168,'Norwich',[[3380,3024,4592]]],[194,'Wigan',[[5737,3804,4151]]],[259,'Swansea',[[3685,4306,5365]]],[171,'Queens Park Rangers',[[3173,3516,4267]]],[170,'Fulham',[[3811,3768,4565]]],[175,'West Bromwich Albion',[[4108,3887,3574]]]]]);
+        DataStore.prime('ws-teams-stage-stat', { stageId: 6531, type: 8, teamId: -1, against: 0, field: 2 }, [[[13,'Arsenal',[[[['goal','corner','header',[2]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','header',[3]],['goal','crossedfreekick','leftfoot',[1]],['goal','crossedfreekick','rightfoot',[2]],['goal','directfreekick','leftfoot',[2]],['goal','fastbreak','header',[1]],['goal','fastbreak','leftfoot',[2]],['goal','fastbreak','rightfoot',[4]],['goal','openplay','header',[5]],['goal','openplay','leftfoot',[22]],['goal','openplay','rightfoot',[18]],['goal','owngoal','rightfoot',[3]],['goal','penalty','rightfoot',[5]],['miss','corner','header',[26]],['miss','corner','leftfoot',[8]],['miss','corner','rightfoot',[23]],['miss','crossedfreekick','header',[9]],['miss','crossedfreekick','leftfoot',[5]],['miss','crossedfreekick','rightfoot',[6]],['miss','directfreekick','leftfoot',[11]],['miss','directfreekick','rightfoot',[17]],['miss','fastbreak','header',[1]],['miss','fastbreak','leftfoot',[14]],['miss','fastbreak','rightfoot',[14]],['miss','openplay','header',[36]],['miss','openplay','leftfoot',[172]],['miss','openplay','rightfoot',[184]],['miss','penalty','rightfoot',[1]],['miss','throwin','rightfoot',[1]]]]]],[15,'Chelsea',[[[['goal','corner','header',[8]],['goal','corner','rightfoot',[3]],['goal','crossedfreekick','rightfoot',[1]],['goal','directfreekick','leftfoot',[2]],['goal','directfreekick','rightfoot',[1]],['goal','fastbreak','rightfoot',[3]],['goal','openplay','header',[8]],['goal','openplay','leftfoot',[16]],['goal','openplay','rightfoot',[21]],['goal','owngoal','header',[2]],['goal','owngoal','leftfoot',[1]],['goal','penalty','rightfoot',[9]],['miss','corner','header',[21]],['miss','corner','leftfoot',[9]],['miss','corner','otherbodypart',[1]],['miss','corner','rightfoot',[21]],['miss','crossedfreekick','header',[13]],['miss','crossedfreekick','leftfoot',[4]],['miss','crossedfreekick','rightfoot',[8]],['miss','directfreekick','leftfoot',[7]],['miss','directfreekick','rightfoot',[44]],['miss','fastbreak','leftfoot',[1]],['miss','fastbreak','rightfoot',[10]],['miss','openplay','header',[25]],['miss','openplay','leftfoot',[120]],['miss','openplay','rightfoot',[262]],['miss','penalty','rightfoot',[2]],['miss','throwin','rightfoot',[6]]]]]],[16,'Sunderland',[[[['goal','corner','header',[2]],['goal','corner','leftfoot',[4]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','leftfoot',[2]],['goal','crossedfreekick','rightfoot',[1]],['goal','directfreekick','rightfoot',[1]],['goal','fastbreak','leftfoot',[2]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','leftfoot',[15]],['goal','openplay','rightfoot',[6]],['goal','owngoal','header',[1]],['goal','owngoal','rightfoot',[1]],['goal','penalty','rightfoot',[4]],['miss','corner','header',[22]],['miss','corner','leftfoot',[14]],['miss','corner','rightfoot',[18]],['miss','crossedfreekick','header',[14]],['miss','crossedfreekick','leftfoot',[7]],['miss','crossedfreekick','rightfoot',[10]],['miss','directfreekick','leftfoot',[2]],['miss','directfreekick','rightfoot',[28]],['miss','fastbreak','leftfoot',[10]],['miss','fastbreak','rightfoot',[4]],['miss','openplay','header',[21]],['miss','openplay','leftfoot',[122]],['miss','openplay','rightfoot',[103]],['miss','throwin','leftfoot',[1]],['miss','throwin','rightfoot',[2]]]]]],[29,'West Ham',[[[['goal','corner','header',[3]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','leftfoot',[2]],['goal','crossedfreekick','rightfoot',[3]],['goal','directfreekick','leftfoot',[1]],['goal','directfreekick','rightfoot',[1]],['goal','fastbreak','header',[1]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[5]],['goal','openplay','leftfoot',[7]],['goal','openplay','rightfoot',[13]],['goal','owngoal','header',[2]],['goal','penalty','leftfoot',[1]],['goal','penalty','rightfoot',[3]],['miss','corner','header',[49]],['miss','corner','leftfoot',[8]],['miss','corner','rightfoot',[24]],['miss','crossedfreekick','header',[13]],['miss','crossedfreekick','leftfoot',[6]],['miss','crossedfreekick','rightfoot',[29]],['miss','directfreekick','header',[1]],['miss','directfreekick','leftfoot',[8]],['miss','directfreekick','rightfoot',[7]],['miss','fastbreak','leftfoot',[7]],['miss','fastbreak','rightfoot',[4]],['miss','openplay','header',[51]],['miss','openplay','leftfoot',[101]],['miss','openplay','otherbodypart',[1]],['miss','openplay','rightfoot',[134]],['miss','throwin','leftfoot',[4]],['miss','throwin','rightfoot',[3]]]]]],[23,'Newcastle United',[[[['goal','corner','header',[1]],['goal','crossedfreekick','header',[1]],['goal','crossedfreekick','rightfoot',[1]],['goal','directfreekick','rightfoot',[3]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[4]],['goal','openplay','leftfoot',[9]],['goal','openplay','otherbodypart',[1]],['goal','openplay','rightfoot',[17]],['goal','owngoal','otherbodypart',[1]],['goal','owngoal','rightfoot',[1]],['goal','penalty','leftfoot',[2]],['goal','penalty','rightfoot',[2]],['miss','corner','header',[31]],['miss','corner','leftfoot',[6]],['miss','corner','rightfoot',[30]],['miss','crossedfreekick','header',[5]],['miss','crossedfreekick','leftfoot',[2]],['miss','crossedfreekick','rightfoot',[14]],['miss','directfreekick','leftfoot',[9]],['miss','directfreekick','rightfoot',[11]],['miss','fastbreak','leftfoot',[4]],['miss','fastbreak','rightfoot',[8]],['miss','openplay','header',[44]],['miss','openplay','leftfoot',[99]],['miss','openplay','otherbodypart',[1]],['miss','openplay','rightfoot',[218]],['miss','penalty','rightfoot',[1]],['miss','throwin','leftfoot',[2]],['miss','throwin','rightfoot',[5]]]]]],[30,'Tottenham',[[[['goal','corner','header',[1]],['goal','corner','leftfoot',[2]],['goal','crossedfreekick','header',[2]],['goal','crossedfreekick','leftfoot',[1]],['goal','crossedfreekick','rightfoot',[2]],['goal','directfreekick','leftfoot',[2]],['goal','fastbreak','leftfoot',[3]],['goal','fastbreak','rightfoot',[3]],['goal','openplay','header',[3]],['goal','openplay','leftfoot',[20]],['goal','openplay','rightfoot',[23]],['goal','owngoal','header',[1]],['goal','owngoal','otherbodypart',[2]],['goal','owngoal','rightfoot',[1]],['miss','corner','header',[39]],['miss','corner','leftfoot',[7]],['miss','corner','otherbodypart',[1]],['miss','corner','rightfoot',[23]],['miss','crossedfreekick','header',[7]],['miss','crossedfreekick','leftfoot',[9]],['miss','crossedfreekick','rightfoot',[12]],['miss','directfreekick','leftfoot',[30]],['miss','directfreekick','rightfoot',[11]],['miss','fastbreak','header',[1]],['miss','fastbreak','leftfoot',[14]],['miss','fastbreak','rightfoot',[15]],['miss','openplay','header',[21]],['miss','openplay','leftfoot',[181]],['miss','openplay','rightfoot',[242]],['miss','throwin','leftfoot',[4]],['miss','throwin','rightfoot',[2]]]]]],[18,'Southampton',[[[['goal','corner','header',[3]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','header',[1]],['goal','crossedfreekick','rightfoot',[1]],['goal','directfreekick','rightfoot',[2]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[5]],['goal','openplay','leftfoot',[10]],['goal','openplay','rightfoot',[18]],['goal','owngoal','leftfoot',[1]],['goal','owngoal','rightfoot',[2]],['goal','penalty','rightfoot',[3]],['miss','corner','header',[28]],['miss','corner','leftfoot',[14]],['miss','corner','rightfoot',[18]],['miss','crossedfreekick','header',[8]],['miss','crossedfreekick','leftfoot',[3]],['miss','crossedfreekick','rightfoot',[5]],['miss','directfreekick','leftfoot',[8]],['miss','directfreekick','rightfoot',[20]],['miss','fastbreak','leftfoot',[3]],['miss','fastbreak','rightfoot',[4]],['miss','openplay','header',[32]],['miss','openplay','leftfoot',[127]],['miss','openplay','rightfoot',[186]],['miss','throwin','header',[2]],['miss','throwin','leftfoot',[7]],['miss','throwin','rightfoot',[5]]]]]],[24,'Aston Villa',[[[['goal','corner','header',[3]],['goal','corner','leftfoot',[3]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','rightfoot',[1]],['goal','directfreekick','leftfoot',[1]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','rightfoot',[5]],['goal','openplay','header',[4]],['goal','openplay','leftfoot',[7]],['goal','openplay','rightfoot',[17]],['goal','penalty','rightfoot',[3]],['goal','throwin','leftfoot',[1]],['miss','corner','header',[34]],['miss','corner','leftfoot',[8]],['miss','corner','rightfoot',[15]],['miss','crossedfreekick','header',[15]],['miss','crossedfreekick','leftfoot',[6]],['miss','crossedfreekick','rightfoot',[5]],['miss','directfreekick','leftfoot',[4]],['miss','directfreekick','rightfoot',[4]],['miss','fastbreak','header',[1]],['miss','fastbreak','leftfoot',[7]],['miss','fastbreak','rightfoot',[9]],['miss','openplay','header',[23]],['miss','openplay','leftfoot',[114]],['miss','openplay','rightfoot',[140]],['miss','throwin','leftfoot',[2]],['miss','throwin','rightfoot',[4]]]]]],[26,'Liverpool',[[[['goal','corner','header',[4]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','header',[2]],['goal','directfreekick','rightfoot',[3]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[3]],['goal','openplay','leftfoot',[17]],['goal','openplay','rightfoot',[30]],['goal','owngoal','header',[1]],['goal','owngoal','leftfoot',[1]],['goal','owngoal','rightfoot',[2]],['goal','penalty','leftfoot',[1]],['goal','penalty','rightfoot',[4]],['miss','corner','header',[36]],['miss','corner','leftfoot',[18]],['miss','corner','rightfoot',[43]],['miss','crossedfreekick','header',[7]],['miss','crossedfreekick','leftfoot',[3]],['miss','crossedfreekick','rightfoot',[13]],['miss','directfreekick','leftfoot',[4]],['miss','directfreekick','rightfoot',[26]],['miss','fastbreak','header',[1]],['miss','fastbreak','leftfoot',[6]],['miss','fastbreak','rightfoot',[19]],['miss','openplay','header',[24]],['miss','openplay','leftfoot',[185]],['miss','openplay','otherbodypart',[1]],['miss','openplay','rightfoot',[277]],['miss','penalty','rightfoot',[1]],['miss','throwin','leftfoot',[6]],['miss','throwin','rightfoot',[2]]]]]],[194,'Wigan',[[[['goal','corner','header',[3]],['goal','corner','leftfoot',[2]],['goal','corner','otherbodypart',[1]],['goal','corner','rightfoot',[4]],['goal','directfreekick','rightfoot',[2]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','rightfoot',[2]],['goal','openplay','header',[6]],['goal','openplay','leftfoot',[3]],['goal','openplay','rightfoot',[19]],['goal','owngoal','leftfoot',[2]],['goal','penalty','rightfoot',[1]],['goal','throwin','rightfoot',[1]],['miss','corner','header',[26]],['miss','corner','leftfoot',[17]],['miss','corner','rightfoot',[21]],['miss','crossedfreekick','header',[8]],['miss','crossedfreekick','leftfoot',[3]],['miss','crossedfreekick','rightfoot',[10]],['miss','directfreekick','leftfoot',[13]],['miss','directfreekick','rightfoot',[15]],['miss','fastbreak','leftfoot',[6]],['miss','fastbreak','rightfoot',[11]],['miss','openplay','header',[27]],['miss','openplay','leftfoot',[116]],['miss','openplay','rightfoot',[177]],['miss','throwin','header',[1]],['miss','throwin','leftfoot',[1]],['miss','throwin','rightfoot',[3]]]]]],[171,'Queens Park Rangers',[[[['goal','corner','header',[1]],['goal','corner','rightfoot',[3]],['goal','crossedfreekick','leftfoot',[1]],['goal','fastbreak','rightfoot',[3]],['goal','openplay','header',[2]],['goal','openplay','leftfoot',[5]],['goal','openplay','rightfoot',[12]],['goal','owngoal','leftfoot',[1]],['goal','penalty','rightfoot',[1]],['goal','throwin','header',[1]],['miss','corner','header',[33]],['miss','corner','leftfoot',[2]],['miss','corner','rightfoot',[22]],['miss','crossedfreekick','header',[7]],['miss','crossedfreekick','leftfoot',[6]],['miss','crossedfreekick','rightfoot',[16]],['miss','directfreekick','leftfoot',[6]],['miss','directfreekick','rightfoot',[31]],['miss','fastbreak','leftfoot',[7]],['miss','fastbreak','rightfoot',[20]],['miss','openplay','header',[13]],['miss','openplay','leftfoot',[81]],['miss','openplay','rightfoot',[222]],['miss','penalty','rightfoot',[3]],['miss','throwin','header',[1]],['miss','throwin','rightfoot',[1]]]]]],[31,'Everton',[[[['goal','corner','header',[4]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','header',[1]],['goal','crossedfreekick','leftfoot',[1]],['goal','directfreekick','leftfoot',[1]],['goal','fastbreak','header',[1]],['goal','fastbreak','leftfoot',[2]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[6]],['goal','openplay','leftfoot',[12]],['goal','openplay','otherbodypart',[1]],['goal','openplay','rightfoot',[18]],['goal','owngoal','header',[1]],['goal','owngoal','otherbodypart',[1]],['goal','penalty','leftfoot',[2]],['goal','throwin','header',[1]],['miss','corner','header',[47]],['miss','corner','leftfoot',[17]],['miss','corner','otherbodypart',[1]],['miss','corner','rightfoot',[29]],['miss','crossedfreekick','header',[17]],['miss','crossedfreekick','leftfoot',[11]],['miss','crossedfreekick','rightfoot',[10]],['miss','directfreekick','header',[2]],['miss','directfreekick','leftfoot',[11]],['miss','directfreekick','rightfoot',[17]],['miss','fastbreak','leftfoot',[3]],['miss','fastbreak','rightfoot',[7]],['miss','openplay','header',[39]],['miss','openplay','leftfoot',[113]],['miss','openplay','rightfoot',[248]],['miss','throwin','header',[2]],['miss','throwin','leftfoot',[2]],['miss','throwin','rightfoot',[4]]]]]],[170,'Fulham',[[[['goal','corner','header',[3]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','header',[2]],['goal','crossedfreekick','leftfoot',[1]],['goal','directfreekick','leftfoot',[1]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[5]],['goal','openplay','leftfoot',[10]],['goal','openplay','rightfoot',[14]],['goal','owngoal','header',[1]],['goal','owngoal','otherbodypart',[2]],['goal','owngoal','rightfoot',[2]],['goal','penalty','leftfoot',[1]],['goal','penalty','rightfoot',[5]],['miss','corner','header',[22]],['miss','corner','leftfoot',[7]],['miss','corner','rightfoot',[12]],['miss','crossedfreekick','header',[6]],['miss','crossedfreekick','leftfoot',[7]],['miss','crossedfreekick','rightfoot',[6]],['miss','directfreekick','leftfoot',[21]],['miss','directfreekick','rightfoot',[16]],['miss','fastbreak','leftfoot',[11]],['miss','fastbreak','rightfoot',[6]],['miss','openplay','header',[23]],['miss','openplay','leftfoot',[122]],['miss','openplay','otherbodypart',[1]],['miss','openplay','rightfoot',[154]],['miss','throwin','rightfoot',[1]]]]]],[94,'Reading',[[[['goal','corner','header',[3]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','header',[4]],['goal','crossedfreekick','leftfoot',[2]],['goal','crossedfreekick','rightfoot',[1]],['goal','directfreekick','rightfoot',[1]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[5]],['goal','openplay','leftfoot',[9]],['goal','openplay','otherbodypart',[1]],['goal','openplay','rightfoot',[7]],['goal','owngoal','otherbodypart',[1]],['goal','owngoal','rightfoot',[1]],['goal','penalty','leftfoot',[1]],['goal','penalty','rightfoot',[3]],['miss','corner','header',[34]],['miss','corner','leftfoot',[10]],['miss','corner','rightfoot',[9]],['miss','crossedfreekick','header',[17]],['miss','crossedfreekick','leftfoot',[9]],['miss','crossedfreekick','rightfoot',[8]],['miss','directfreekick','leftfoot',[15]],['miss','directfreekick','rightfoot',[5]],['miss','fastbreak','header',[1]],['miss','fastbreak','leftfoot',[1]],['miss','fastbreak','rightfoot',[10]],['miss','openplay','header',[39]],['miss','openplay','leftfoot',[72]],['miss','openplay','otherbodypart',[1]],['miss','openplay','rightfoot',[118]],['miss','throwin','header',[1]],['miss','throwin','leftfoot',[1]],['miss','throwin','rightfoot',[2]]]]]],[96,'Stoke',[[[['goal','corner','header',[4]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[3]],['goal','crossedfreekick','header',[2]],['goal','crossedfreekick','leftfoot',[1]],['goal','crossedfreekick','rightfoot',[1]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[2]],['goal','openplay','leftfoot',[4]],['goal','openplay','rightfoot',[8]],['goal','owngoal','header',[1]],['goal','penalty','rightfoot',[3]],['goal','throwin','header',[1]],['goal','throwin','rightfoot',[2]],['miss','corner','header',[32]],['miss','corner','leftfoot',[7]],['miss','corner','rightfoot',[13]],['miss','crossedfreekick','header',[19]],['miss','crossedfreekick','leftfoot',[5]],['miss','crossedfreekick','rightfoot',[10]],['miss','directfreekick','leftfoot',[7]],['miss','directfreekick','rightfoot',[9]],['miss','fastbreak','leftfoot',[5]],['miss','fastbreak','rightfoot',[3]],['miss','openplay','header',[17]],['miss','openplay','leftfoot',[69]],['miss','openplay','rightfoot',[127]],['miss','penalty','rightfoot',[2]],['miss','throwin','header',[10]],['miss','throwin','leftfoot',[4]],['miss','throwin','rightfoot',[18]]]]]],[167,'Manchester City',[[[['goal','corner','header',[2]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[5]],['goal','crossedfreekick','header',[2]],['goal','crossedfreekick','rightfoot',[2]],['goal','directfreekick','leftfoot',[1]],['goal','directfreekick','rightfoot',[1]],['goal','fastbreak','leftfoot',[2]],['goal','fastbreak','rightfoot',[4]],['goal','openplay','header',[2]],['goal','openplay','leftfoot',[14]],['goal','openplay','rightfoot',[25]],['goal','owngoal','otherbodypart',[1]],['goal','penalty','rightfoot',[4]],['miss','corner','header',[46]],['miss','corner','leftfoot',[18]],['miss','corner','rightfoot',[35]],['miss','crossedfreekick','header',[3]],['miss','crossedfreekick','leftfoot',[4]],['miss','crossedfreekick','rightfoot',[7]],['miss','directfreekick','leftfoot',[13]],['miss','directfreekick','rightfoot',[21]],['miss','fastbreak','leftfoot',[8]],['miss','fastbreak','rightfoot',[19]],['miss','openplay','header',[27]],['miss','openplay','leftfoot',[125]],['miss','openplay','otherbodypart',[1]],['miss','openplay','rightfoot',[264]],['miss','penalty','leftfoot',[1]],['miss','penalty','rightfoot',[1]],['miss','throwin','rightfoot',[2]]]]]],[168,'Norwich',[[[['goal','corner','header',[4]],['goal','corner','leftfoot',[1]],['goal','corner','rightfoot',[1]],['goal','crossedfreekick','header',[5]],['goal','crossedfreekick','leftfoot',[1]],['goal','crossedfreekick','rightfoot',[1]],['goal','directfreekick','leftfoot',[3]],['goal','directfreekick','rightfoot',[1]],['goal','openplay','header',[4]],['goal','openplay','leftfoot',[7]],['goal','openplay','rightfoot',[11]],['goal','owngoal','header',[1]],['goal','penalty','rightfoot',[1]],['miss','corner','header',[26]],['miss','corner','leftfoot',[12]],['miss','corner','rightfoot',[16]],['miss','crossedfreekick','header',[14]],['miss','crossedfreekick','leftfoot',[14]],['miss','crossedfreekick','rightfoot',[8]],['miss','directfreekick','leftfoot',[14]],['miss','directfreekick','rightfoot',[4]],['miss','fastbreak','leftfoot',[3]],['miss','fastbreak','rightfoot',[8]],['miss','openplay','header',[46]],['miss','openplay','leftfoot',[103]],['miss','openplay','rightfoot',[99]],['miss','penalty','rightfoot',[1]],['miss','throwin','header',[1]],['miss','throwin','leftfoot',[2]],['miss','throwin','rightfoot',[2]]]]]],[175,'West Bromwich Albion',[[[['goal','corner','header',[2]],['goal','corner','leftfoot',[2]],['goal','corner','rightfoot',[4]],['goal','crossedfreekick','header',[1]],['goal','fastbreak','header',[1]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','otherbodypart',[1]],['goal','fastbreak','rightfoot',[2]],['goal','openplay','header',[9]],['goal','openplay','leftfoot',[12]],['goal','openplay','rightfoot',[10]],['goal','owngoal','otherbodypart',[2]],['goal','owngoal','rightfoot',[1]],['goal','penalty','leftfoot',[2]],['goal','penalty','rightfoot',[3]],['miss','corner','header',[30]],['miss','corner','leftfoot',[6]],['miss','corner','otherbodypart',[1]],['miss','corner','rightfoot',[18]],['miss','crossedfreekick','header',[12]],['miss','crossedfreekick','leftfoot',[3]],['miss','crossedfreekick','rightfoot',[8]],['miss','directfreekick','leftfoot',[9]],['miss','directfreekick','rightfoot',[16]],['miss','fastbreak','leftfoot',[8]],['miss','fastbreak','rightfoot',[9]],['miss','openplay','header',[24]],['miss','openplay','leftfoot',[132]],['miss','openplay','rightfoot',[173]],['miss','penalty','leftfoot',[1]],['miss','penalty','rightfoot',[1]],['miss','throwin','leftfoot',[2]],['miss','throwin','rightfoot',[2]]]]]],[259,'Swansea',[[[['goal','corner','header',[4]],['goal','directfreekick','rightfoot',[1]],['goal','fastbreak','leftfoot',[1]],['goal','fastbreak','rightfoot',[1]],['goal','openplay','header',[3]],['goal','openplay','leftfoot',[15]],['goal','openplay','rightfoot',[22]],['miss','corner','header',[28]],['miss','corner','leftfoot',[3]],['miss','corner','rightfoot',[18]],['miss','crossedfreekick','header',[5]],['miss','crossedfreekick','leftfoot',[4]],['miss','crossedfreekick','rightfoot',[7]],['miss','directfreekick','rightfoot',[26]],['miss','fastbreak','header',[1]],['miss','fastbreak','leftfoot',[5]],['miss','fastbreak','rightfoot',[5]],['miss','openplay','header',[32]],['miss','openplay','leftfoot',[109]],['miss','openplay','rightfoot',[214]]]]]],[32,'Manchester United',[[[['goal','corner','header',[7]],['goal','corner','leftfoot',[3]],['goal','corner','rightfoot',[5]],['goal','crossedfreekick','header',[2]],['goal','crossedfreekick','rightfoot',[4]],['goal','directfreekick','leftfoot',[1]],['goal','fastbreak','header',[1]],['goal','fastbreak','leftfoot',[1]],['goal','openplay','header',[4]],['goal','openplay','leftfoot',[22]],['goal','openplay','rightfoot',[26]],['goal','owngoal','leftfoot',[1]],['goal','owngoal','otherbodypart',[3]],['goal','owngoal','rightfoot',[2]],['goal','penalty','leftfoot',[3]],['goal','penalty','rightfoot',[1]],['miss','corner','header',[34]],['miss','corner','leftfoot',[14]],['miss','corner','rightfoot',[22]],['miss','crossedfreekick','header',[6]],['miss','crossedfreekick','leftfoot',[3]],['miss','crossedfreekick','rightfoot',[3]],['miss','directfreekick','leftfoot',[10]],['miss','directfreekick','rightfoot',[12]],['miss','fastbreak','leftfoot',[6]],['miss','fastbreak','rightfoot',[13]],['miss','openplay','header',[46]],['miss','openplay','leftfoot',[133]],['miss','openplay','rightfoot',[171]],['miss','penalty','leftfoot',[1]],['miss','penalty','rightfoot',[2]],['miss','throwin','header',[1]],['miss','throwin','leftfoot',[3]],['miss','throwin','rightfoot',[1]]]]]]]]);
+        DataStore.prime('ws-teams-stage-stat', { stageId: 6531, type: 25, teamId: -1, against: -1, field: -1 }, [[[13,'Arsenal',['[19,19,38]']],[15,'Chelsea',['[19,19,38]']],[18,'Southampton',['[19,19,38]']],[16,'Sunderland',['[19,19,38]']],[23,'Newcastle United',['[19,19,38]']],[24,'Aston Villa',['[19,19,38]']],[94,'Reading',['[19,19,38]']],[26,'Liverpool',['[19,19,38]']],[29,'West Ham',['[19,19,38]']],[96,'Stoke',['[19,19,38]']],[30,'Tottenham',['[19,19,38]']],[167,'Manchester City',['[19,19,38]']],[31,'Everton',['[19,19,38]']],[32,'Manchester United',['[19,19,38]']],[171,'Queens Park Rangers',['[19,19,38]']],[170,'Fulham',['[19,19,38]']],[175,'West Bromwich Albion',['[19,19,38]']],[259,'Swansea',['[19,19,38]']],[194,'Wigan',['[19,19,38]']],[168,'Norwich',['[19,19,38]']]]]);
+        
+       
+        WS.TabbedPanels({
+            id: 'stage-pitch-stats',
+            tabs: {
+                view:{
+                    id: 'stage-pitch-stats-options'
+                },
+                model: {
+                defaultTab: '#stage-touch-channels',
+                activate: {
+                    '#stage-touch-channels': function() {
+                    },
+                    '#stage-attempt-directions': function() {
+                    },
+                    '#stage-attempt-zones': function() {
+                    },
+                    '#stage-touch-zones': function() {
+                    }
+                },
+                init: {
+                    '#stage-touch-channels': function() {
+                        $('#stage-touch-channels-grid').grid(StageTouchChannelsGridDefaults);
+                        
+                        var tcGrid = $('#stage-touch-channels-grid').data('grid');
+                        
+                          var tcGridConfig = {
+                            id: 'stage-touch-channels-summary',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-touch-channels-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: $.extend({ extra: { type: 2 } }, defaultStatsConfigParams),
+                            content: {
+                                instance: tcGrid,
+                                view: {
+                                    renderTo: 'stage-touch-channels-content'
+                                }
+                              }
+                            };
+                            
+                        var tc = new WS.Panel(tcGridConfig);
+                        tc.load();
+                    },
+                    '#stage-attempt-directions': function() {
+                        $('#stage-attempt-directions-grid').grid(StageAttemptDirectionsGridDefaults);
+                        
+                        var adGrid = $('#stage-attempt-directions-grid').data('grid');
+                        
+                          var adGridConfig = {
+                            id: 'stage-attempt-directions',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-attempt-directions-filter',
+                                categories: { data:[{ value: 'field'}, { value: 'against'}]},
+                                singular: true
+                            },
+                            params: $.extend({ extra: { type: 6 } }, defaultStatsConfigParams),
+                            content: {
+                                instance: adGrid,
+                                view: {
+                                    renderTo: 'stage-attempt-directions-content'
+                                }
+                              }
+                            };
+                            
+                        var ad = new WS.Panel(adGridConfig);
+                        ad.load();
+
+                    },
+                    '#stage-attempt-zones': function() {
+                      $('#stage-attempt-zones-grid').grid(StageAttemptZonesGridDefaults);
+                        
+                        var azGrid = $('#stage-attempt-zones-grid').data('grid');
+                        
+                          var azGridConfig = {
+                            id: 'stage-attempt-zones',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-attempt-zones-filter',
+                                categories: { data:[{ value: 'field'}, { value: 'against'}]},
+                                singular: true
+                            },
+                            params: $.extend({ extra: { type: 7 } }, defaultStatsConfigParams),
+                            content: {
+                                instance: azGrid,
+                                view: {
+                                    renderTo: 'stage-attempt-zones-content'
+                                }
+                              }
+                            };
+                            
+                        var az = new WS.Panel(azGridConfig);
+                        az.load();
+                    },
+                    '#stage-touch-zones': function() {
+                        $('#stage-touch-zones-grid').grid(StageTouchZonesGridDefaults);
+                        
+                        var tzGrid = $('#stage-touch-zones-grid').data('grid');
+                        
+                          var tzGridConfig = {
+                            id: 'stage-touch-zones-summary',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-touch-zones-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: $.extend({ extra: { type: 3 } }, defaultStatsConfigParams),
+                            content: {
+                                instance: tzGrid,
+                                view: {
+                                    renderTo: 'stage-touch-zones-content'
+                                }
+                              }
+                            };
+                            
+                        var tz = new WS.Panel(tzGridConfig);
+                        tz.load();
+                    }
+                }
+            }
+        }
+    });
+                
+    WS.TabbedPanels({
+            id: 'stage-situtaion-stats',
+            tabs: {
+                view:{
+                    id: 'stage-situation-stats-options'
+                },
+                model: {
+                defaultTab: '#stage-goals',
+                activate: {
+                    '#stage-goals': function() {
+                        $('#stage-goals').data('activeGrid');
+                    },
+                    '#stage-passes': function() {
+                        $('#stage-passes').data('activeGrid');
+                    },
+                    '#stage-cards': function() {
+                        $('#stage-cards').data('activeGrid');
+                    }
+                },
+                init: {
+                    '#stage-goals': function() {
+                        $('#stage-goals-grid').grid(StageGoalsGridDefaults);
+                        
+                        var tgGrid = $('#stage-goals-grid').data('grid');
+                        
+                          var tgGridConfig = {
+                            id: 'stage-goals-summary',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-goals-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: $.extend({ extra: { type: 8 } }, defaultStatsConfigParams),
+                            content: {
+                                instance: tgGrid,
+                                view: {
+                                    renderTo: 'stage-goals-content'
+                                }
+                              }
+                            };
+                            
+                        var tg = new WS.Panel(tgGridConfig);
+                        tg.load();
+                    },
+                    '#stage-passes': function() {
+                        $('#stage-passes-grid').grid(StagePassesGridDefaults);
+                        
+                        var pGrid = $('#stage-passes-grid').data('grid');
+                        
+                          var pGridConfig = {
+                            id: 'stage-passes-summary',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-passes-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: $.extend({ extra: { type: 11 } }, defaultStatsConfigParams),
+                            content: {
+                                instance: pGrid,
+                                view: {
+                                    renderTo: 'stage-passes-content'
+                                }
+                              }
+                            };
+                            
+                        var p = new WS.Panel(pGridConfig);
+                        p.load();
+                    },
+                    '#stage-cards': function() {
+                        $('#stage-cards-grid').grid(StageCardsGridDefaults);
+                        
+                        var pGrid = $('#stage-cards-grid').data('grid');
+                        
+                          var pGridConfig = {
+                            id: 'stage-cards-summary',
+                            singular: true, 
+                            filter: { 
+                                instanceType: WS.Filter,
+                                id: 'stage-cards-filter',
+                                categories: { data: [{ value:'field' }] },
+                                singular: true
+                            },
+                            params: $.extend({ extra: { type: 18 } }, defaultStatsConfigParams),
+                            content: {
+                                instance: pGrid,
+                                view: {
+                                    renderTo: 'stage-cards-content'
+                                }
+                              }
+                            };
+                            
+                        var p = new WS.Panel(pGridConfig);
+                        p.load();
+                    }
+                }
+            }
+        }
+    });
+    
+    </script>
+
+
+
+
+    </div>
+    
+    <div id="layout-content-2col-right">
+
+        <div id="side-ad1">
+            
+
+
+
+<!-- WhoScored_Homepage_MediumRect_Right_Top_300x250 -->
+<div id='div-gpt-ad-1390832541322-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1390832541322-0'); });
+</script>
+</div>
+        </div>
+
+        
+ 
+    
+<div class="side-box">
+    <h3>
+        <a title="See all news" href="/Matches" class="iconize iconize-icon-right ui-state-transparent-default disabled">
+            Premier League News
+            <span class="ui-icon ui-icon-circle-arrow-e"></span>
+        </a>
+    </h3>
+    <div class="side-box-content">
+        <ul>
+        
+            <li>
+                <a class="news-title"  href="http://www.bbc.co.uk/sport/0/football/26378756" title="Open original article in a new window" target="_blank">Sherwood demands more Spurs character&nbsp;</a> 
+                <span class="news-published">2 hours ago </span> - <span class="news-source">BBC</span>
+            </li>
+        
+            <li>
+                <a class="news-title"  href="http://www.skysports.com/football/match_reaction/0,19764,11065_3691736,00.html" title="Open original article in a new window" target="_blank">Sherwood: Ref called it right&nbsp;</a> 
+                <span class="news-published">3 hours ago </span> - <span class="news-source">Sky Sports</span>
+            </li>
+        
+            <li>
+                <a class="news-title"  href="http://www1.skysports.com/football/news/11095/9188385/" title="Open original article in a new window" target="_blank">'Burdened' Ozil gets backing&nbsp;</a> 
+                <span class="news-published">3 hours ago </span> - <span class="news-source">Sky Sports</span>
+            </li>
+        
+            <li>
+                <a class="news-title"  href="http://www.bbc.co.uk/sport/0/football/26378124" title="Open original article in a new window" target="_blank">Benfica win secures Spurs meeting&nbsp;</a> 
+                <span class="news-published">3 hours ago </span> - <span class="news-source">BBC</span>
+            </li>
+        
+            <li>
+                <a class="news-title"  href="http://www.uefa.com/uefaeuropaleague/season=2014/matches/round=2000470/match=2012636/postmatch/report/index.html?rss=2042358+Adebayor+double+sends+Spurs+past+Dnipro" title="Open original article in a new window" target="_blank">Adebayor double sends Spurs past Dnipro&nbsp;</a> 
+                <span class="news-published">4 hours ago </span> - <span class="news-source">UEFA</span>
+            </li>
+        
+            <li>
+                <a class="news-title"  href="http://www1.skysports.com/football/news/11095/9188273/" title="Open original article in a new window" target="_blank">Spurs fans special - Defoe&nbsp;</a> 
+                <span class="news-published">4 hours ago </span> - <span class="news-source">Sky Sports</span>
+            </li>
+        
+
+        </ul>
+    </div>
+</div>
+
+
+    </div>
+
+
+        </div>
+
+    </div>
+
+<div id="footer-wrapper">
+    <div id="footer">
+        <p style="float: left;">
+            <a href="/ContactUs">Contact Us</a> | <a href="/AboutUs">About Us</a> | <a href="/Glossary">Glossary</a> | <a href="/TermsOfUse">Privacy Policy</a> | <a href="/Explanations">WhoScored Ratings</a>
+        </p>
+   
+        <p id="copyright" style="float: right; font-weight: normal;">Copyright &copy; 2014 WhoScored.com</p>
+        
+        <div class="clear"></div>
+    </div>
+</div>
+
+
+    
+    
+        
+<div id="footer-marketing">
+<a href="http://www.whoscored.com">WhoScored.com</a> provides you with unparalleled football statistics, as
+well as detailed football previews and football rankings from competitions all over the
+world. Our live, in-depth football statistics from the <a href="/Regions/252/Tournaments/2/England-Premier-League">Premier League</a>, 
+<a href="/Regions/206/Tournaments/4/Spain-La-Liga">La Liga</a>, 
+<a href="/Regions/108/Tournaments/5/Italy-Serie-A">Serie A</a>,
+<a href="/Regions/81/Tournaments/3/Germany-Bundesliga">Bundesliga</a> and 
+<a href="/Regions/74/Tournaments/22/France-Ligue-1">Ligue 1</a>  
+supplies unique and original insights for football fans, sports
+betting punters, journalists, football managers and players. We also have football tables,
+live scores, top performing players as calculated with our unique WhoScored.com
+ratings, articles, graphics, rankings and much more.
+</div>
+
+
+
+<div style="margin: 1em auto; width: 980px; background: #fff; font-size: 0.9167em; text-align: center; color: #808080;">
+    <span style="vertical-align: middle;">Data sources:</span>
+    <img  style="vertical-align: middle;" src="http://164.177.157.12/img/DataSources.gif" alt="Data Sources"/>
+</div>
+    
+
+
+
+<script type="text/javascript">
+$(window).load(function() {
+   
+    
+
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    $.getScript(gaJsHost + "google-analytics.com/ga.js", function() {
+        NG.GA.init("UA-6065109-1", "www.whoscored.com");
+        NG.GA.trackPageView();
+    });
+       
+    
+
+     
+});
+</script>
+
+    <script type="text/javascript" src="http://ads.ayads.co/ajs.php?zid=886"></script>
+</body>
+</html>
