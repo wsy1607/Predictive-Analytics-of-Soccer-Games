@@ -2,11 +2,15 @@ import re
 import numpy as np
 from pandas import DataFrame
 import matplotlib.pyplot as plt
+import pandas as pd
+#pd.set_option('display.mpl_style', 'default')
 
 #read data from html source code from ESPN : http://espnfc.com/?cc=5901
 #in this website, we download the club statistics from 08/09 to 12/13 for six highest European leagues,
 #which are Premier(English), Dutch, French, Bundesliga(German), SerieA(Italy) and La liga(Spanish)
 
+#since each data sets (html source code) have different patterns, we need to load them one by one
+#then answer the question whether the home-team has some advantages
 #read data for English league
 filename = 'premier0809.txt'
 txt = open(filename)
@@ -84,8 +88,8 @@ premier1213af = premier1213['af']
 #compute the different performances for home team and guest team
 premierhf = [np.mean(premier0809['hf']),np.mean(premier0910['hf']),np.mean(premier1011['hf']),np.mean(premier1112['hf']),np.mean(premier1213['hf'])]
 premieraf = [np.mean(premier0809['af']),np.mean(premier0910['af']),np.mean(premier1011['af']),np.mean(premier1112['af']),np.mean(premier1213['af'])]
-print premierhf
-print premieraf
+#print premierhf
+#print premieraf
 
 #read data for German league
 filename = 'bundesliga0809.txt'
@@ -160,8 +164,7 @@ bundesliga1213 = DataFrame(data8,columns =['id','op','ow','od','ol','of','oa','h
 
 bundesligahf = [np.mean(bundesliga0809['hf']),np.mean(bundesliga0910['hf']),np.mean(bundesliga1011['hf']),np.mean(bundesliga1112['hf']),np.mean(bundesliga1213['hf'])]
 bundesligaaf = [np.mean(bundesliga0809['af']),np.mean(bundesliga0910['af']),np.mean(bundesliga1011['af']),np.mean(bundesliga1112['af']),np.mean(bundesliga1213['af'])]
-print bundesligahf
-print bundesligaaf
+
 
 #read data for Dutch league
 filename = 'dutch0809.txt'
@@ -236,8 +239,7 @@ dutch1213 = DataFrame(data8,columns =['id','op','ow','od','ol','of','oa','hw','h
 
 dutchhf = [np.mean(dutch0809['hf']),np.mean(dutch0910['hf']),np.mean(dutch1011['hf']),np.mean(dutch1112['hf']),np.mean(dutch1213['hf'])]
 dutchaf = [np.mean(dutch0809['af']),np.mean(dutch0910['af']),np.mean(dutch1011['af']),np.mean(dutch1112['af']),np.mean(dutch1213['af'])]
-print dutchhf
-print dutchaf
+
 
 #read data for French league
 filename = 'french0809.txt'
@@ -312,8 +314,7 @@ french1213 = DataFrame(data8,columns =['id','op','ow','od','ol','of','oa','hw','
 
 frenchhf = [np.mean(french0809['hf']),np.mean(french0910['hf']),np.mean(french1011['hf']),np.mean(french1112['hf']),np.mean(french1213['hf'])]
 frenchaf = [np.mean(french0809['af']),np.mean(french0910['af']),np.mean(french1011['af']),np.mean(french1112['af']),np.mean(french1213['af'])]
-print frenchhf
-print frenchaf
+
 
 #read data for Spanish league
 filename = 'laliga0809.txt'
@@ -388,8 +389,7 @@ laliga1213 = DataFrame(data8,columns =['id','op','ow','od','ol','of','oa','hw','
 
 laligahf = [np.mean(laliga0809['hf']),np.mean(laliga0910['hf']),np.mean(laliga1011['hf']),np.mean(laliga1112['hf']),np.mean(laliga1213['hf'])]
 laligaaf = [np.mean(laliga0809['af']),np.mean(laliga0910['af']),np.mean(laliga1011['af']),np.mean(laliga1112['af']),np.mean(laliga1213['af'])]
-print laligahf
-print laligaaf
+
 
 #read data for Italian league
 filename = 'serieA0809.txt'
@@ -464,14 +464,14 @@ serieA1213 = DataFrame(data8,columns =['id','op','ow','od','ol','of','oa','hw','
 
 serieAhf = [np.mean(serieA0809['hf']),np.mean(serieA0910['hf']),np.mean(serieA1011['hf']),np.mean(serieA1112['hf']),np.mean(serieA1213['hf'])]
 serieAaf = [np.mean(serieA0809['af']),np.mean(serieA0910['af']),np.mean(serieA1011['af']),np.mean(serieA1112['af']),np.mean(serieA1213['af'])]
-print serieAhf
-print serieAaf
+#print serieAhf
+#print serieAaf
 
 #total "home-away" difference for each country
 countryhf = [np.mean(dutchhf),np.mean(premierhf),np.mean(serieAhf),np.mean(bundesligahf),np.mean(laligahf),np.mean(frenchhf)]
 countryaf = [np.mean(dutchaf),np.mean(premieraf),np.mean(serieAaf),np.mean(bundesligaaf),np.mean(laligaaf),np.mean(frenchaf)]
-print countryhf
-print countryaf
+#print countryhf
+#print countryaf
 
 #next, we will deal with the question: which one is more important, offence or defence?
 #we calculate the average points earned by top 5 offensive-ranked teams, which measured by "goals scored".
@@ -492,8 +492,8 @@ dutchdef1112 = np.mean(dutch1112.sort('oa')['pts'][0:5])
 dutchdef1213 = np.mean(dutch1213.sort('oa')['pts'][0:5])
 dutchdef = [dutchdef0809,dutchdef0910,dutchdef1011,dutchdef1112,dutchdef1213]
 
-print dutchatt
-print dutchdef
+#print dutchatt
+#print dutchdef
 
 premieratt0809 = np.mean(premier0809.sort('of',ascending = False)['pts'][0:5])
 premieratt0910 = np.mean(premier0910.sort('of',ascending = False)['pts'][0:5])
@@ -509,8 +509,8 @@ premierdef1112 = np.mean(premier1112.sort('oa')['pts'][0:5])
 premierdef1213 = np.mean(premier1213.sort('oa')['pts'][0:5])
 premierdef = [premierdef0809,premierdef0910,premierdef1011,premierdef1112,premierdef1213]
 
-print premieratt
-print premierdef
+#print premieratt
+#print premierdef
 
 serieAatt0809 = np.mean(serieA0809.sort('of',ascending = False)['pts'][0:5])
 serieAatt0910 = np.mean(serieA0910.sort('of',ascending = False)['pts'][0:5])
@@ -526,8 +526,8 @@ serieAdef1112 = np.mean(serieA1112.sort('oa')['pts'][0:5])
 serieAdef1213 = np.mean(serieA1213.sort('oa')['pts'][0:5])
 serieAdef = [serieAdef0809,serieAdef0910,serieAdef1011,serieAdef1112,serieAdef1213]
 
-print serieAatt
-print serieAdef
+#print serieAatt
+#print serieAdef
 
 bundesligaatt0809 = np.mean(bundesliga0809.sort('of',ascending = False)['pts'][0:5])
 bundesligaatt0910 = np.mean(bundesliga0910.sort('of',ascending = False)['pts'][0:5])
@@ -543,8 +543,8 @@ bundesligadef1112 = np.mean(bundesliga1112.sort('oa')['pts'][0:5])
 bundesligadef1213 = np.mean(bundesliga1213.sort('oa')['pts'][0:5])
 bundesligadef = [bundesligadef0809,bundesligadef0910,bundesligadef1011,bundesligadef1112,bundesligadef1213]
 
-print bundesligaatt
-print bundesligadef
+#print bundesligaatt
+#print bundesligadef
 
 laligaatt0809 = np.mean(laliga0809.sort('of',ascending = False)['pts'][0:5])
 laligaatt0910 = np.mean(laliga0910.sort('of',ascending = False)['pts'][0:5])
@@ -560,8 +560,8 @@ laligadef1112 = np.mean(laliga1112.sort('oa')['pts'][0:5])
 laligadef1213 = np.mean(laliga1213.sort('oa')['pts'][0:5])
 laligadef = [laligadef0809,laligadef0910,laligadef1011,laligadef1112,laligadef1213]
 
-print laligaatt
-print laligadef
+#print laligaatt
+#print laligadef
 
 frenchatt0809 = np.mean(french0809.sort('of',ascending = False)['pts'][0:5])
 frenchatt0910 = np.mean(french0910.sort('of',ascending = False)['pts'][0:5])
@@ -577,8 +577,8 @@ frenchdef1112 = np.mean(french1112.sort('oa')['pts'][0:5])
 frenchdef1213 = np.mean(french1213.sort('oa')['pts'][0:5])
 frenchdef = [frenchdef0809,frenchdef0910,frenchdef1011,frenchdef1112,frenchdef1213]
 
-print frenchatt
-print frenchdef
+#print frenchatt
+#print frenchdef
 
 #plot home-away effect for each league
 year = [9,10,11,12,13]
@@ -586,44 +586,50 @@ fig = plt.figure()
 
 ax1 = fig.add_subplot(2, 2, 1)
 #subplots_adjust(left=None, bottom=None, right=None, top=None, wspace=None, hspace=None)
-ax1.plot(year, premierhf, color = 'r', label = 'hf', linestyle='dashed', marker='o')
-ax1.plot(year, premieraf, color = 'b', label = 'af', linestyle='dashed', marker='o')
-plt.ylim([10, 40])
+ax1.plot(year, premierhf, color = 'r', label = 'home', linestyle='dashed', marker='o')
+ax1.plot(year, premieraf, color = 'b', label = 'guest', linestyle='dashed', marker='o')
+plt.ylim([10, 50])
 ax1.legend(loc='best')
 ticks = ax1.set_xticks([9, 10, 11, 12, 13])
 labels = ax1.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
+ax1.set_ylabel('# of goals')
 ax1.set_title('England')
 
 ax2 = fig.add_subplot(2, 2, 2)
-ax2.plot(year, bundesligahf, color = 'r', label = 'hf', linestyle='dashed', marker='o')
-ax2.plot(year, bundesligaaf, color = 'b', label = 'af', linestyle='dashed', marker='o')
-plt.ylim([10, 40])
+ax2.plot(year, bundesligahf, color = 'r', label = 'home', linestyle='dashed', marker='o')
+ax2.plot(year, bundesligaaf, color = 'b', label = 'guest', linestyle='dashed', marker='o')
+plt.ylim([10, 50])
 ax2.legend(loc='best')
 ticks = ax2.set_xticks([9, 10, 11, 12, 13])
 labels = ax2.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
 ax2.set_title('Germany')
 
 ax3 = fig.add_subplot(2, 2, 3)
-ax3.plot(year, laligahf, color = 'r', label = 'hf', linestyle='dashed', marker='o')
-ax3.plot(year, laligaaf, color = 'b', label = 'af', linestyle='dashed', marker='o')
-plt.ylim([10, 40])
+ax3.plot(year, laligahf, color = 'r', label = 'home', linestyle='dashed', marker='o')
+ax3.plot(year, laligaaf, color = 'b', label = 'guest', linestyle='dashed', marker='o')
+plt.ylim([10, 50])
 ax3.legend(loc='best')
 ticks = ax3.set_xticks([9, 10, 11, 12, 13])
 labels = ax3.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
 ax3.set_title('Spain')
+ax3.set_ylabel('# of goals')
+ax3.set_xlabel('years')
 
 ax4 = fig.add_subplot(2, 2, 4)
-ax4.plot(year, serieAhf, color = 'r', label = 'hf', linestyle='dashed', marker='o')
-ax4.plot(year, serieAaf, color = 'b', label = 'af', linestyle='dashed', marker='o')
-plt.ylim([10, 40])
+ax4.plot(year, serieAhf, color = 'r', label = 'home', linestyle='dashed', marker='o')
+ax4.plot(year, serieAaf, color = 'b', label = 'guest', linestyle='dashed', marker='o')
+plt.ylim([10, 50])
 ax4.legend(loc='best')
 ticks = ax4.set_xticks([9, 10, 11, 12, 13])
 labels = ax4.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
 ax4.set_title('Italy')
+ax4.set_xlabel('years')
+plt.suptitle('Home Away Assumption')
 
-plt.savefig('homeaway.jpeg')
 
-#plot home-away effect for each league
+plt.savefig('homeaway.pdf')
+
+#plot att vs def for each league
 year = [9,10,11,12,13]
 fig = plt.figure()
 
@@ -636,15 +642,17 @@ ax1.legend(loc='best')
 ticks = ax1.set_xticks([9, 10, 11, 12, 13])
 labels = ax1.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
 ax1.set_title('England')
+ax1.set_ylabel('# of points')
 
 ax2 = fig.add_subplot(2, 2, 2)
-ax2.plot(year, bundesligaatt, color = 'k', label = 'att', linestyle='dashed', marker='o')
-ax2.plot(year, bundesligadef, color = 'r', label = 'def', linestyle='dashed', marker='o')
+ax2.plot(year, frenchatt, color = 'k', label = 'att', linestyle='dashed', marker='o')
+ax2.plot(year, frenchdef, color = 'r', label = 'def', linestyle='dashed', marker='o')
 plt.ylim([55, 75])
 ax2.legend(loc='best')
 ticks = ax2.set_xticks([9, 10, 11, 12, 13])
 labels = ax2.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
-ax2.set_title('Germany')
+ax2.set_title('France')
+
 
 ax3 = fig.add_subplot(2, 2, 3)
 ax3.plot(year, laligaatt, color = 'k', label = 'att', linestyle='dashed', marker='o')
@@ -654,6 +662,8 @@ ax3.legend(loc='best')
 ticks = ax3.set_xticks([9, 10, 11, 12, 13])
 labels = ax3.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
 ax3.set_title('Spain')
+ax3.set_xlabel('years')
+ax3.set_ylabel('# of points')
 
 ax4 = fig.add_subplot(2, 2, 4)
 ax4.plot(year, serieAatt, color = 'k', label = 'att', linestyle='dashed', marker='o')
@@ -663,8 +673,10 @@ ax4.legend(loc='best')
 ticks = ax4.set_xticks([9, 10, 11, 12, 13])
 labels = ax4.set_xticklabels(['08/09', '09/10', '10/11', '11/12', '12/13'])
 ax4.set_title('Italy')
+ax4.set_xlabel('years')
 
-plt.savefig('attdef.jpeg')
+plt.suptitle('Teams better in Att vs Teams better in Def')
+plt.savefig('attdef.pdf')
 
 #plot the home-away effect for countries ordered by land
 fig = plt.figure()
@@ -680,7 +692,9 @@ ax1.legend(loc='best')
 ticks = ax1.set_xticks([1,2,3,4,5,6])
 labels = ax1.set_xticklabels(['Dutch','England','Italy','Germany','Spain','France'])
 ax1.set_title('Home-Away by country')
-plt.savefig('homeawaycountry.jpeg')
+ax1.set_ylabel('total # of goals')
 
+plt.savefig('homeawaycountry.pdf')
+print (np.mean(countryhf)-np.mean(countryaf))/((38*4+34*2)/6)
 
 

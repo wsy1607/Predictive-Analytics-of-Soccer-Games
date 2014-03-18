@@ -14,3 +14,4 @@ data6 = data5.split(' >')[1:]
 print data6
 
 numofgames = [6,6,5,5,4,4,4,4,3,3,3,3,3,3,3,3]
+

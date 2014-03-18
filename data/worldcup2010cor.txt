@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>2010 FIFA World Cup South Africa ? - Statistics - Teams - FIFA.com</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="description" content="A look back at previous FIFA World Cups? with news, videos, photos and stats" /><meta name="keywords" content="FIFA World Cup history,World Cup history,Past FIFA World Cups,Past World Cups,Previous World Cup,Old World Cups,Old edition FIFA World Cups,Past Editions FIFA World Cups,Old time World Cups,Old time FIFA World Cups  FIFA football world cup,old edition football world cup" /><meta name="author" content="FIFA.com" /><meta name="thumb" content="/imgml/smo/smologo.jpg" /><meta property="og:image" content="http://www.fifa.com/imgml/smo/smologo.jpg" /><meta property="og:image:url" content="http://www.fifa.com/imgml/smo/smologo.jpg" /><meta property="og:image:type" content="jpg" /><meta property="og:image:width" content="300" /><meta property="og:image:height" content="300" /><meta property="og:url" content="http://www.fifa.com/tournaments/archive/worldcup/southafrica2010/statistics/teams/passes.html" /><meta property="og:description" content="A look back at previous FIFA World Cups? with news, videos, photos and stats" /><meta property="og:locale" content="en_GB" /><meta property="og:site_name" content="FIFA.com" /><meta property="article:tag" content="FIFA World Cup history,World Cup history,Past FIFA World Cups,Past World Cups,Previous World Cup,Old World Cups,Old edition FIFA World Cups,Past Editions FIFA World Cups,Old time World Cups,Old time FIFA World Cups  FIFA football world cup,old edition football world cup" /><link type='text/css' title='standard' rel='stylesheet' media='print' href='/components/style/worldcup2010_print.css?v=20140103122256'> </link><link type='text/css' title='standard' rel='stylesheet' media='screen' href='/components/style/fifacom2.css?v=20140312105440'> </link>
+<link type='text/css' title='standard' rel='stylesheet' media='screen' href='/components/style/fifacom2.tournament.css?v=20140312093717'> </link>
+<link type='text/css' title='standard' rel='stylesheet'  href='/components/style/fifacom2.archive.css?v=20130827142621'> </link><link type='text/css' title='standard' rel='stylesheet'  href='/components/style/fifacom2.archive.full.css?v=20131218103210'> </link><link type='text/css' title='standard' rel='stylesheet'  href='/components/style/fifacom2.archive.fwc.css?v=20131218103233'> </link><script type='text/javascript' src='/components/script/all.js?v=20140307104001' > </script>
+<script type='text/javascript' src='/components/script/webanalytics.js?v=20140302181308' > </script>
+<script type='text/javascript' src=' /components/script/archivefwcstats.js ?v=20131218103527' > </script><script type='text/javascript' src='/components/script/theclub.js?v=20140302181255' > </script>
+<script type="text/javascript">
+            (function() {            
+                var wd = window;
+                wd.fifa = wd.fifa || {};
+                wd.fifa.analytics = wd.fifa.analytics || {};
+                wd.fifa.analytics.cbparams = wd.fifa.analytics.cbparams || {};
+                var _cbcfg = wd.fifa.analytics.cbparams; 
+                _cbcfg.pageName='worldcup:archive:southafrica2010:statistics:teams:passes';              
+                _cbcfg.addsections ='';
+                _cbcfg.cbdomain='fifa.com';
+                })();</script><link href="/imgml/favicon/favicon.ico" rel="shortcut icon" /><link rel="apple-touch-icon" sizes="512x512" href="/imgml/favicon/touch-icon-newipad.png" /><link rel="apple-touch-icon" sizes="114x114" href="/imgml/favicon/touch-icon-iphone4.png" /><link rel="apple-touch-icon" sizes="72x72" href="/imgml/favicon/touch-icon-ipad.png" /><link rel="apple-touch-icon" href="/imgml/favicon/touch-icon-iphone.png" /><link rel="canonical" href="http://www.fifa.com/tournaments/archive/worldcup/southafrica2010/statistics/teams/passes.html" /></head><body><!--googleoff: index--><div id="fifacom2_header" class="d3cmsHeader lang_E"><div class="r1"><div id="fifacom2_logo"><a href="http://www.fifa.com/index.html"><img src="http://img.fifa.com/imgml/fifacom2/fifalogo.png" width="172" height="46" alt="FIFA.com" class="logoFifa" /></a></div><ul id="fifacom2_lev00menu"><li class="first"><a href="http://www.fifa.com/worldcup/index.html">FIFA World Cup?</a></li><li><a href="http://www.fifa.com/tournaments/index.html" data-alias="/worldfootball/statisticsandrecords/">Tournaments</a></li><li><a href="http://www.fifa.com/world-match-centre/index.html">World Match Centre</a></li><li class="last"><a href="http://www.fifa.com/worldranking/index.html">FIFA Ranking</a></li></ul><div id="Fifacom2Hsearch"><script language="javascript">
+                    
+                    $j(document).ready( function() {
+                    $j("#liDropdownFifa").addClass("liSearchBg");
+                    $j("#searchType").val("fifa");
+if (location.search.parseQuery().q != null) {
+                    if (location.search.parseQuery().q.length > 0) {
+                    $j("#qsQuery").val(location.search.parseQuery().q.replace(/[+]/g, ' '));
+                    $j("#qsQuery").addClass("bgTransparent");
+                    }
+}
+                    $j("#qsQuery").blur(function(){ if ($j("#qsQuery").val().length == 0) {$j("#qsQuery").removeClass("bgTransparent");} });
+                    $j("#qsQuery").focus(function(){ $j("#qsQuery").addClass("bgTransparent"); });
+
+
+                    $j("#liDropdownFifa").click(function() {
+                    $j("#liDropdownFifa").addClass("liSearchBg");
+                    $j("#liDropdownWeb").removeClass("liSearchBg");
+                    $j("#searchType").val("fifa");
+                    if ($j("#qsQuery").val().length > 0) { $j("#quickSearchForm").submit(); }
+                    });
+
+                    $j("#liDropdownWeb").click(function() {
+                    $j("#liDropdownWeb").addClass("liSearchBg");
+                    $j("#liDropdownFifa").removeClass("liSearchBg");
+                    $j("#searchType").val("web");
+                    doSearch();
+                    });
+
+                    $j("#qsDropdown").mouseenter( function() {
+                    $j("#searchDropdown").show();
+                    });
+                    $j("#qsDropdown").mouseleave( function() {
+                    $j("#searchDropdown").hide();
+                    });
+
+                    });
+
+                    function doSearch() {
+                        if ($j("#qsQuery").val().length > 0) {
+                        if ( $j("#searchType").val() == "fifa") {
+                        return true;
+                        //if(!this.form.q.value.match(/^{xslext:Translate('search')}$/i))this.form.submit();
+                        }
+                        if ( $j("#searchType").val() == "web") {
+                        window.open("http://www.google.com/search?q="+ encodeURIComponent($j("#qsQuery").val()).replace(/%20/g,'+') +"&channel=fifa", "_blank");
+                        return false;
+                        }
+                        } else {return false;}
+                    }
+                    </script><form id="quickSearchForm" method="get" action="http://www.fifa.com/search/index.html" onsubmit="return doSearch();"><div class="qsForm"><input id="qsQuery" name="q" type="text" maxlength="255" /><input id="qsSubmit" class="qsSubmit" type="submit" value="" /><div id="qsDropdown" class="qsDropdown"> <div id="searchDropdown"><input style="display:none;" id="searchType" /><div id="liDropdownFifa"><span id="qsRadioFifa">Search FIFA.com</span></div><div id="liDropdownWeb"><span id="qsRadioWeb">Search the web</span></div></div></div></div></form></div></div><div class="r2"><ul id="fifacom2_langmenu"><li class=" first  current "><a href="http://www.fifa.com/index.html?language=en">EN</a></li><li class=""><a href="http://fr.fifa.com/index.html?language=fr">FR</a></li><li class=""><a href="http://es.fifa.com/index.html?language=es">ES</a></li><li class=""><a href="http://de.fifa.com/index.html?language=de">DE</a></li><li class=""><a href="http://pt.fifa.com/index.html?language=pt">PT</a></li><li class=" last "><a href="http://ar.fifa.com/index.html?language=ar">????</a></li></ul><ul id="fifacom2_lev01menu"><li class="first"><a href="http://www.fifa.com/newscentre/index.html">News Centre</a></li><li><a href="http://www.fifa.com/theclub/index.html">The Club</a></li><li><a href="http://www.fifa.com/aboutfifa/index.html">About FIFA</a></li><li><a href="http://www.fifa.com/ballondor/index.html">FIFA Ballon d'Or</a></li><li class="last"><a id="fifacom2_associations" class="closed" onclick="associationsDropdownToggle(this, 'http://www.fifa.com');"><span><span>Associations</span></span></a><div id="fifacom2_associationsDropdown" style="display:none;"><div class="h"> </div><div class="c"> </div><div class="f"> </div></div></li></ul><div id="fifacom2_club"><div id="noLogged" style="display:none;"><a class="login" onclick="Fifacom2LoginModule.loginPopup();"><span><span>Login</span></span></a><div id="Fifacom2LoginPopup" style="display:none;"><div class="h"> </div><div class="c"><form name="f_loginhp" id="f_loginhp" action="https://secure.fifa.com/theclub/login.htmx" method="post"><div id="d_loginemail"><input type="text" maxlength="100" name="c_email" id="cp_email" value="Email" class="toclean" onclick="Fifacom2LoginModule.cleanLogin()" /></div><div id="d_loginpwd"><input type="password" maxlength="100" name="c_password" id="cp_password" value="password:" class="toclean" onclick="Fifacom2LoginModule.cleanLogin()" /></div><input type="hidden" id="redirect_uri" name="redirect_uri" /><div id="d_loginrememberMe"><input type="checkbox" id="c_rememberMe" name="c_rememberMe" /><label id="l_rememberMe" for="c_rememberMe">Remember me on this computer</label></div><div id="d_btnlogin"><input type="submit" name="btn_login" id="btn_login" value="Sign In" class="btnB" /></div><div id="d_loginforgot"><a href="http://www.fifa.com/theclub/recoverpassword.html">Forgot your password?</a></div></form><div class="f"><span>or</span><form id="f_facebook_login" action="http://ump.webapi.fifa.com/gui/SocialAuth/LoginWith" method="post"><input type="hidden" name="client_id" value="PCA" /><input type="hidden" name="redirect_uri" id="redirect_uri" value="" /><input type="hidden" name="provider" value="FACEBOOK" /><input type="submit" class="btnFB" value="Sign in with Facebook " /></form><script>
+      (function(domain, redirect_uri) {
+
+        $j(document).ready(function () {
+
+            var qs = location.search.parseQuery();
+
+            // header login (current url)
+            var currentUrl = "";
+
+            if(qs.redirect) {
+              if(qs.redirect.indexOf("http") == 0) {
+                currentUrl = qs.redirect;
+              } else {
+                currentUrl = escape(window.location.protocol + "//" + window.location.host) + qs.redirect;
+              }
+            } else {
+              currentUrl = escape(document.URL);
+            }
+
+            $j("#fifacom2_header #f_facebook_login #redirect_uri").val(redirect_uri + "?current=" + currentUrl + "&domain=" + domain + "&action=sociallogin");
+
+            // theclub index registration box (current url from querystring)
+            var passedUrl = "";
+
+            if(qs.redirect_uri) {
+              passedUrl = qs.redirect_uri;
+            } else if(currentUrl) {
+              passedUrl = currentUrl; 
+            } else {
+              passedUrl = escape(document.URL);
+            }
+
+            $j("#f_facebook_registration #redirect_uri").val(redirect_uri + "?current=" + escape(passedUrl) + "&domain=" + domain + "&action=socialregistration");
+            $j("#theClubHPLogin #f_facebook_login #redirect_uri").val(redirect_uri + "?current=" + escape(passedUrl) + "&domain=" + domain + "&action=sociallogin");
+
+        });
+
+      })("http://www.fifa.com", "http://www.fifa.com/theclub/socialcontrol.htmx");</script></div><div class="shadow"> </div></div><div class="register"><a href="http://www.fifa.com/theclub/index.htmx">Register</a></div></div></div><div id="logged" style="display:none;"><div id="myActivities" onclick="Fifacom2LoginModule.loggedPopup()"><a class="popup"><span><span>My Games</span></span></a><div id="Fifacom2LoggedPopup" style="display:none;"><div class="h"> </div><div class="c"><div id="games"><div class="loading"> </div></div></div><div class="f"> <ul id="qlLogged"><li><a href="http://www.fifa.com/theclub/myprofile/index.htmx">Club House</a></li><li><a href="http://www.fifa.com/theclub/myprofile/comments/index.htmx">Comments</a></li><li><a href="http://www.fifa.com/theclub/myprofile/games/index.htmx">Games</a></li><li><a href="http://www.fifa.com/theclub/myprofile/profile/edit.htmx">Edit</a></li><li class="last"><a href="#" onclick="javascript:Fifacom2LoginModule.logout();">Log out</a></li></ul></div></div></div><div id="myProfile"><div id="myFifacom2Avatar"><a href="/theclub/myprofile/index.htmx" title="Club House"> </a></div><div id="myFifacom2Name"><a href="/theclub/myprofile/index.htmx" title="Club House">My name</a></div></div></div></div><script>Fifacom2LoginModule.init(false, 'http://www.fifa.com');try{wAnalytics.sponsor.setHeaderSponsor("google");}catch(e){}
+          $j('#fifacom2_lev00menu, #fifacom2_lev01menu').currMenuItem({lev0:true});
+        </script><div class="fifa-store"><a href="http://www.fifa.com/store/index.html" alt="Store"><span class="fifa-store-icon"> </span><span class="fifa-store-text">Store</span></a></div></div></div><!--googleon: index--><div id="fwc_masterContainer" class="d3cmsContent noCap"><div id="fwc_mainTitle"><div class="headerShadow"> </div><div class="content_header "><a class="hlink" href="/tournaments/archive/worldcup/southafrica2010/index.html" title="2010 FIFA World Cup South Africa?"><h1>2010 FIFA World Cup South Africa?</h1></a><a class="trnLinkName" href="/tournaments/archive/worldcup/southafrica2010/index.html" title="2010 FIFA World Cup South Africa?"> </a><div class="menuContent"><ul id="lev1Menu"><li class="first "><a href="/tournaments/archive/worldcup/southafrica2010/index.html">Overview</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/news/index.html">News</a></li><li class="lev3menu"><a href="/tournaments/archive/worldcup/southafrica2010/video/videolist.html" data-alias="/video/index.html">Videos</a><div style="display: none;" class="lev3Content"><div style="display: none;" class="lev3TopContent"> </div><ul style="display: none;" class="lev3"><li><a href="/tournaments/archive/worldcup/southafrica2010/video/videolist.html">Latest Videos</a></li><li><a href="/tournaments/archive/worldcup/southafrica2010/highlights/video/index.html">Highlights</a></li><li class="lastlink"><a href="/tournaments/archive/worldcup/southafrica2010/goalofthetournament/index.html">Goal of the Tournament</a></li></ul></div></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/photo/index.html">Photos</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/matches/index.html">Matches</a></li><li class="lev3menu"><a href="/tournaments/archive/worldcup/southafrica2010/teams/index.html">Teams</a><div style="display: none;" class="lev3Content teamList col4"><div class="teamList_container"><ul class="lev3 first"><li><span class="flagsp flagsp_alg" title="Algeria"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43843/index.html" title="Algeria">Algeria</a></li><li><span class="flagsp flagsp_arg" title="Argentina"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43922/index.html" title="Argentina">Argentina</a></li><li><span class="flagsp flagsp_aus" title="Australia"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43976/index.html" title="Australia">Australia</a></li><li><span class="flagsp flagsp_bra" title="Brazil"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43924/index.html" title="Brazil">Brazil</a></li><li><span class="flagsp flagsp_cmr" title="Cameroon"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43849/index.html" title="Cameroon">Cameroon</a></li><li><span class="flagsp flagsp_chi" title="Chile"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43925/index.html" title="Chile">Chile</a></li><li><span class="flagsp flagsp_civ" title="C?te d'Ivoire"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43854/index.html" title="C?te d'Ivoire">C?te d'Ivoire</a></li><li><span class="flagsp flagsp_den" title="Denmark"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43941/index.html" title="Denmark">Denmark</a></li></ul><ul style="display: none;" class="lev3"><li><span class="flagsp flagsp_eng" title="England"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43942/index.html" title="England">England</a></li><li><span class="flagsp flagsp_fra" title="France"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43946/index.html" title="France">France</a></li><li><span class="flagsp flagsp_ger" title="Germany"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43948/index.html" title="Germany">Germany</a></li><li><span class="flagsp flagsp_gha" title="Ghana"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43860/index.html" title="Ghana">Ghana</a></li><li><span class="flagsp flagsp_gre" title="Greece"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43949/index.html" title="Greece">Greece</a></li><li><span class="flagsp flagsp_hon" title="Honduras"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43909/index.html" title="Honduras">Honduras</a></li><li><span class="flagsp flagsp_ita" title="Italy"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43954/index.html" title="Italy">Italy</a></li><li><span class="flagsp flagsp_jpn" title="Japan"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43819/index.html" title="Japan">Japan</a></li></ul><ul style="display: none;" class="lev3"><li><span class="flagsp flagsp_prk" title="Korea DPR"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43821/index.html" title="Korea DPR">Korea DPR</a></li><li><span class="flagsp flagsp_kor" title="Korea Republic"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43822/index.html" title="Korea Republic">Korea Republic</a></li><li><span class="flagsp flagsp_mex" title="Mexico"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43911/index.html" title="Mexico">Mexico</a></li><li><span class="flagsp flagsp_ned" title="Netherlands"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43960/index.html" title="Netherlands">Netherlands</a></li><li><span class="flagsp flagsp_nzl" title="New Zealand"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43978/index.html" title="New Zealand">New Zealand</a></li><li><span class="flagsp flagsp_nga" title="Nigeria"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43876/index.html" title="Nigeria">Nigeria</a></li><li><span class="flagsp flagsp_par" title="Paraguay"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43928/index.html" title="Paraguay">Paraguay</a></li><li><span class="flagsp flagsp_por" title="Portugal"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43963/index.html" title="Portugal">Portugal</a></li></ul><ul style="display: none;" class="lev3"><li><span class="flagsp flagsp_srb" title="Serbia"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=1902465/index.html" title="Serbia">Serbia</a></li><li><span class="flagsp flagsp_svk" title="Slovakia"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=44002/index.html" title="Slovakia">Slovakia</a></li><li><span class="flagsp flagsp_svn" title="Slovenia"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43968/index.html" title="Slovenia">Slovenia</a></li><li><span class="flagsp flagsp_rsa" title="South Africa"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43883/index.html" title="South Africa">South Africa</a></li><li><span class="flagsp flagsp_esp" title="Spain"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43969/index.html" title="Spain">Spain</a></li><li><span class="flagsp flagsp_sui" title="Switzerland"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43971/index.html" title="Switzerland">Switzerland</a></li><li><span class="flagsp flagsp_uru" title="Uruguay"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43930/index.html" title="Uruguay">Uruguay</a></li><li><span class="flagsp flagsp_usa" title="USA"> </span><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43921/index.html" title="USA">USA</a></li></ul><div class="clear"> </div></div><div class="tl_bottom"><span class="tl_botSx left"> </span><span class="tl_botDx right"> </span><div class="tl_botC"> </div></div></div></li><li class="lev3menu"><a href="/tournaments/archive/worldcup/southafrica2010/statistics/index.html">Statistics</a><div style="display: none;" class="lev3Content"><div style="display: none;" class="lev3TopContent"> </div><ul style="display: none;" class="lev3"><li><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/index.html">Teams</a></li><li><a href="/tournaments/archive/worldcup/southafrica2010/statistics/players/index.html">Players</a></li><li><a href="/tournaments/archive/worldcup/southafrica2010/statistics/matches/index.html">Matches</a></li><li><a href="/tournaments/archive/worldcup/southafrica2010/statistics/news/index.html">Analysis</a></li><li class="lastlink"><a href="/tournaments/archive/worldcup/southafrica2010/statistics/castrolindex/index.html">Castrol Index</a></li></ul></div></li><li class=" last "><a href="/tournaments/archive/worldcup/southafrica2010/awards/index.html">Awards</a></li></ul><div class="squarepatchLeft"> </div><div class="squarepatch"> </div><div id="lev2MenuContent"><ul id="lev2Menu"><li class="first titleinline"><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/index.html">Teams</a></li><li class="sectionHL"><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/goals.html">Goals Scored</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/shots.html">Shots</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/shotsposition.html">Top Attemps by position</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/attacking.html">Attacking</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/defending.html">Defending</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/disciplinary.html">Disciplinary</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/passes.html">Passes</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/passeslength.html">Passes length</a></li><li class=""><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/distance.html">Distance covered</a></li><li class=" last "><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/compare/index.html">Head-to-Head</a></li></ul></div></div></div><div class="ribbonLeft "> </div><div class="ribbon "><a href="/tournaments/archive/worldcup/southafrica2010/statistics/teams/index.html" class="ribbonLink"><h2>Statistics</h2></a></div><div class="ribbonRight "> </div><script type="text/javascript" language="javascript">
+          currMenuItem('#lev1Menu'); currMenuItem('#lev2Menu');
+            $j('.lev3menu').mouseenter(function() {
+            $j(this).find('.lev3Content').show();
+            $j(this).find('.lev3TopContent').show();
+            $j(this).find('.lev3').show();
+            $j(this).addClass('arrowMenu')
+            if ($j(this).hasClass('current')) {
+              $j(this).removeClass('current');    
+              $j(this).addClass('currentBusy');                                                     
+            }
+          });
+
+          $j('.lev3menu').mouseleave(function() {
+            $j(this).find('.lev3Content').hide();
+            $j(this).find('.lev3TopContent').hide();
+            $j(this).find('.lev3').hide();
+            $j(this).removeClass('arrowMenu')
+            if ($j(this).hasClass('currentBusy')) {
+              $j(this).removeClass('currentBusy');    
+              $j(this).addClass('current');                                                     
+            }
+          });
+          </script> </div><div id="bodyContent"> <div class="grid_8"><div class="row"><h2 class="rr-title noBg">Teams - Passes</h2></div><div class="row"><div class="unboxed100 stats topScorer"><script type="text/javascript">
+        $j(document).ready(function(){new TableSortable('tStats');});
+      </script><p class="tableReorderNote">Click on the headings to re-order the columns</p><table summary="Team Statistics" id="tStats"><thead><tr><th class="l">Team</th><th class="c info"><acronym title="Matches Played">MP</acronym></th><th class="c info sorttable_sorted_reverse"><acronym title="Passes Completed">PC</acronym><span id="sorttable_sortrevind">¡ü</span></th><th class="c info"><acronym title="Passes Completion Rate">PCR</acronym></th><th class="c info"><acronym title="Crosses">CRO</acronym></th><th class="c info"><acronym title="Crosses Completed">CRC</acronym></th><th class="c info"><acronym title="Crosses completion rate">CCR</acronym></th><th class="c info"><acronym title="Corners">COR</acronym></th><th class="c info"><acronym title="Corners completed">CC</acronym></th><th class="c info"><acronym title="Corners completion rate">COCR</acronym></th><th class="c info"><acronym title="Throw-ins">THR</acronym></th></tr></thead><tbody><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43969/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/esp.gif" alt="Spain" title="Spain" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43969/index.html">Spain</a></td><td class="c info">7</td><td class="c info">3929</td><td class="c info">80%</td><td class="c info">166</td><td class="c info">48</td><td class="c info">29%</td><td class="c info">56</td><td class="c info">32</td><td class="c info">57%</td><td class="c info">152</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43948/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/ger.gif" alt="Germany" title="Germany" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43948/index.html">Germany</a></td><td class="c info">7</td><td class="c info">2865</td><td class="c info">73%</td><td class="c info">134</td><td class="c info">35</td><td class="c info">26%</td><td class="c info">44</td><td class="c info">16</td><td class="c info">36%</td><td class="c info">113</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43960/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/ned.gif" alt="Netherlands" title="Netherlands" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43960/index.html">Netherlands</a></td><td class="c info">7</td><td class="c info">2728</td><td class="c info">71%</td><td class="c info">98</td><td class="c info">26</td><td class="c info">27%</td><td class="c info">31</td><td class="c info">10</td><td class="c info">32%</td><td class="c info">147</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43930/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/uru.gif" alt="Uruguay" title="Uruguay" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43930/index.html">Uruguay</a></td><td class="c info">7</td><td class="c info">1938</td><td class="c info">61%</td><td class="c info">95</td><td class="c info">20</td><td class="c info">21%</td><td class="c info">36</td><td class="c info">8</td><td class="c info">22%</td><td class="c info">129</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43922/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/arg.gif" alt="Argentina" title="Argentina" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43922/index.html">Argentina</a></td><td class="c info">5</td><td class="c info">2294</td><td class="c info">76%</td><td class="c info">65</td><td class="c info">20</td><td class="c info">31%</td><td class="c info">33</td><td class="c info">16</td><td class="c info">48%</td><td class="c info">100</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43924/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/bra.gif" alt="Brazil" title="Brazil" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43924/index.html">Brazil</a></td><td class="c info">5</td><td class="c info">2254</td><td class="c info">79%</td><td class="c info">82</td><td class="c info">19</td><td class="c info">23%</td><td class="c info">34</td><td class="c info">17</td><td class="c info">50%</td><td class="c info">99</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43860/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/gha.gif" alt="Ghana" title="Ghana" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43860/index.html">Ghana</a></td><td class="c info">5</td><td class="c info">1854</td><td class="c info">67%</td><td class="c info">85</td><td class="c info">20</td><td class="c info">24%</td><td class="c info">26</td><td class="c info">6</td><td class="c info">23%</td><td class="c info">124</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43928/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/par.gif" alt="Paraguay" title="Paraguay" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43928/index.html">Paraguay</a></td><td class="c info">5</td><td class="c info">1609</td><td class="c info">65%</td><td class="c info">62</td><td class="c info">23</td><td class="c info">37%</td><td class="c info">14</td><td class="c info">6</td><td class="c info">43%</td><td class="c info">131</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43942/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/eng.gif" alt="England" title="England" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43942/index.html">England</a></td><td class="c info">4</td><td class="c info">1578</td><td class="c info">73%</td><td class="c info">67</td><td class="c info">14</td><td class="c info">21%</td><td class="c info">35</td><td class="c info">18</td><td class="c info">51%</td><td class="c info">88</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43911/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/mex.gif" alt="Mexico" title="Mexico" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43911/index.html">Mexico</a></td><td class="c info">4</td><td class="c info">1598</td><td class="c info">76%</td><td class="c info">55</td><td class="c info">12</td><td class="c info">22%</td><td class="c info">17</td><td class="c info">10</td><td class="c info">59%</td><td class="c info">77</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43925/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/chi.gif" alt="Chile" title="Chile" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43925/index.html">Chile</a></td><td class="c info">4</td><td class="c info">1441</td><td class="c info">72%</td><td class="c info">65</td><td class="c info">19</td><td class="c info">29%</td><td class="c info">20</td><td class="c info">9</td><td class="c info">45%</td><td class="c info">85</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43963/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/por.gif" alt="Portugal" title="Portugal" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43963/index.html">Portugal</a></td><td class="c info">4</td><td class="c info">1460</td><td class="c info">74%</td><td class="c info">68</td><td class="c info">15</td><td class="c info">22%</td><td class="c info">16</td><td class="c info">6</td><td class="c info">38%</td><td class="c info">74</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43822/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/kor.gif" alt="Korea Republic" title="Korea Republic" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43822/index.html">Korea Republic</a></td><td class="c info">4</td><td class="c info">1328</td><td class="c info">69%</td><td class="c info">50</td><td class="c info">14</td><td class="c info">28%</td><td class="c info">18</td><td class="c info">5</td><td class="c info">28%</td><td class="c info">102</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43921/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/usa.gif" alt="USA" title="USA" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43921/index.html">USA</a></td><td class="c info">4</td><td class="c info">1252</td><td class="c info">66%</td><td class="c info">68</td><td class="c info">19</td><td class="c info">28%</td><td class="c info">17</td><td class="c info">9</td><td class="c info">53%</td><td class="c info">96</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=44002/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/svk.gif" alt="Slovakia" title="Slovakia" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=44002/index.html">Slovakia</a></td><td class="c info">4</td><td class="c info">1236</td><td class="c info">68%</td><td class="c info">54</td><td class="c info">9</td><td class="c info">17%</td><td class="c info">21</td><td class="c info">10</td><td class="c info">48%</td><td class="c info">118</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43954/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/ita.gif" alt="Italy" title="Italy" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43954/index.html">Italy</a></td><td class="c info">3</td><td class="c info">1220</td><td class="c info">73%</td><td class="c info">63</td><td class="c info">21</td><td class="c info">33%</td><td class="c info">26</td><td class="c info">13</td><td class="c info">50%</td><td class="c info">86</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43849/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/cmr.gif" alt="Cameroon" title="Cameroon" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43849/index.html">Cameroon</a></td><td class="c info">3</td><td class="c info">1201</td><td class="c info">73%</td><td class="c info">59</td><td class="c info">16</td><td class="c info">27%</td><td class="c info">16</td><td class="c info">9</td><td class="c info">56%</td><td class="c info">70</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43819/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/jpn.gif" alt="Japan" title="Japan" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43819/index.html">Japan</a></td><td class="c info">4</td><td class="c info">934</td><td class="c info">59%</td><td class="c info">49</td><td class="c info">11</td><td class="c info">22%</td><td class="c info">12</td><td class="c info">5</td><td class="c info">42%</td><td class="c info">90</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43976/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/aus.gif" alt="Australia" title="Australia" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43976/index.html">Australia</a></td><td class="c info">3</td><td class="c info">1045</td><td class="c info">70%</td><td class="c info">44</td><td class="c info">13</td><td class="c info">30%</td><td class="c info">13</td><td class="c info">5</td><td class="c info">38%</td><td class="c info">52</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=1902465/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/srb.gif" alt="Serbia" title="Serbia" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=1902465/index.html">Serbia</a></td><td class="c info">3</td><td class="c info">1074</td><td class="c info">72%</td><td class="c info">41</td><td class="c info">14</td><td class="c info">34%</td><td class="c info">11</td><td class="c info">4</td><td class="c info">36%</td><td class="c info">46</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43854/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/civ.gif" alt="C?te d'Ivoire" title="C?te d'Ivoire" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43854/index.html">C?te d'Ivoire</a></td><td class="c info">3</td><td class="c info">1125</td><td class="c info">76%</td><td class="c info">55</td><td class="c info">20</td><td class="c info">36%</td><td class="c info">16</td><td class="c info">10</td><td class="c info">63%</td><td class="c info">55</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43843/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/alg.gif" alt="Algeria" title="Algeria" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43843/index.html">Algeria</a></td><td class="c info">3</td><td class="c info">1058</td><td class="c info">72%</td><td class="c info">60</td><td class="c info">14</td><td class="c info">23%</td><td class="c info">13</td><td class="c info">5</td><td class="c info">38%</td><td class="c info">72</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43946/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/fra.gif" alt="France" title="France" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43946/index.html">France</a></td><td class="c info">3</td><td class="c info">1004</td><td class="c info">70%</td><td class="c info">55</td><td class="c info">13</td><td class="c info">24%</td><td class="c info">14</td><td class="c info">4</td><td class="c info">29%</td><td class="c info">64</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43883/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/rsa.gif" alt="South Africa" title="South Africa" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43883/index.html">South Africa</a></td><td class="c info">3</td><td class="c info">1058</td><td class="c info">74%</td><td class="c info">48</td><td class="c info">11</td><td class="c info">23%</td><td class="c info">12</td><td class="c info">5</td><td class="c info">42%</td><td class="c info">72</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43941/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/den.gif" alt="Denmark" title="Denmark" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43941/index.html">Denmark</a></td><td class="c info">3</td><td class="c info">1036</td><td class="c info">73%</td><td class="c info">42</td><td class="c info">12</td><td class="c info">29%</td><td class="c info">11</td><td class="c info">5</td><td class="c info">45%</td><td class="c info">77</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43968/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/svn.gif" alt="Slovenia" title="Slovenia" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43968/index.html">Slovenia</a></td><td class="c info">3</td><td class="c info">915</td><td class="c info">69%</td><td class="c info">49</td><td class="c info">7</td><td class="c info">14%</td><td class="c info">7</td><td class="c info">4</td><td class="c info">57%</td><td class="c info">69</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43949/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/gre.gif" alt="Greece" title="Greece" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43949/index.html">Greece</a></td><td class="c info">3</td><td class="c info">842</td><td class="c info">68%</td><td class="c info">61</td><td class="c info">9</td><td class="c info">15%</td><td class="c info">23</td><td class="c info">6</td><td class="c info">26%</td><td class="c info">56</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43821/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/prk.gif" alt="Korea DPR" title="Korea DPR" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43821/index.html">Korea DPR</a></td><td class="c info">3</td><td class="c info">804</td><td class="c info">65%</td><td class="c info">23</td><td class="c info">8</td><td class="c info">35%</td><td class="c info">4</td><td class="c info">2</td><td class="c info">50%</td><td class="c info">43</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43971/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/sui.gif" alt="Switzerland" title="Switzerland" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43971/index.html">Switzerland</a></td><td class="c info">3</td><td class="c info">832</td><td class="c info">68%</td><td class="c info">49</td><td class="c info">13</td><td class="c info">27%</td><td class="c info">11</td><td class="c info">4</td><td class="c info">36%</td><td class="c info">58</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43876/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/nga.gif" alt="Nigeria" title="Nigeria" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43876/index.html">Nigeria</a></td><td class="c info">3</td><td class="c info">799</td><td class="c info">68%</td><td class="c info">41</td><td class="c info">6</td><td class="c info">15%</td><td class="c info">8</td><td class="c info">5</td><td class="c info">63%</td><td class="c info">70</td></tr><tr class="odd"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43909/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/hon.gif" alt="Honduras" title="Honduras" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43909/index.html">Honduras</a></td><td class="c info">3</td><td class="c info">757</td><td class="c info">64%</td><td class="c info">28</td><td class="c info">9</td><td class="c info">32%</td><td class="c info">9</td><td class="c info">5</td><td class="c info">56%</td><td class="c info">60</td></tr><tr class="even"><td><a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43978/index.html"><img class="flagSmall" width="19" height="13" src="http://img.fifa.com/imgml/flags/s/nzl.gif" alt="New Zealand" title="New Zealand" /></a> <a href="/tournaments/archive/worldcup/southafrica2010/teams/team=43978/index.html">New Zealand</a></td><td class="c info">3</td><td class="c info">663</td><td class="c info">61%</td><td class="c info">28</td><td class="c info">2</td><td class="c info">7%</td><td class="c info">3</td><td class="c info">2</td><td class="c info">67%</td><td class="c info">60</td></tr></tbody></table></div></div></div></div><div id="thirdRail"> <div class="grid_4"><div class="row"><div class="box bNotitle"><div class="bH"><h3> </h3></div><div class="bC "><div class="cf ta-trnTitle">Tournaments</div><div class="cf ta-trnList"><select id="tournamentsList" onchange="if(this.selectedIndex&gt;0)document.location.href=this.options[this.selectedIndex].value" name="tournamentsList"><option value="-1">[select tournament]</option><option value="/tournaments/archive/worldcup/index.html">FIFA World Cup?</option><option value="/tournaments/archive/u20worldcup/index.html">FIFA U-20 World Cup</option><option value="/tournaments/archive/u17worldcup/index.html">FIFA U-17 World Cup</option><option value="/tournaments/archive/confederationscup/index.html">FIFA Confederations Cup</option><option value="/tournaments/archive/mensolympic/index.html">Men's Olympic Football Tournament</option><option value="/tournaments/archive/clubworldcup/index.html">FIFA Club World Cup</option><option value="/tournaments/archive/futsalworldcup/index.html">FIFA Futsal World Cup</option><option value="/tournaments/archive/beachsoccerworldcup/index.html">FIFA Beach Soccer World Cup</option><option value="/tournaments/archive/interactiveworldcup/index.html">FIFA Interactive World Cup</option><option value="/tournaments/archive/womensworldcup/index.html">FIFA Women's World Cup</option><option value="/tournaments/archive/womensolympic/index.html">Women's Olympic Football Tournament</option><option value="/tournaments/archive/u20womensworldcup/index.html">FIFA U-20 Women's World Cup</option><option value="/tournaments/archive/u17womensworldcup/index.html">FIFA U-17 Women's World Cup</option><option value="/tournaments/archive/mensyoutholympic/index.html">Boys' Youth Olympic Football Tournament</option><option value="/tournaments/archive/womensyoutholympic/index.html">Girls' Youth Olympic Football Tournament</option></select></div><div class="cf ta-trnTitle">FIFA World Cup? Final All editions</div><div class="cf ta-trnList"><select id="editionTrn" onchange="if(this.selectedIndex&gt;0)document.location.href=this.options[this.selectedIndex].value" name="editionTrn"><option value="-1">[select edition]</option><option value="/tournaments/archive/worldcup/southafrica2010/index.html">South Africa 2010                                 </option><option value="/tournaments/archive/worldcup/germany2006/index.html">Germany 2006                                      </option><option value="/tournaments/archive/worldcup/koreajapan2002/index.html">Korea Japan 2002</option><option value="/tournaments/archive/worldcup/france1998/index.html">France 1998                                       </option><option value="/tournaments/archive/worldcup/usa1994/index.html">USA 1994                                          </option><option value="/tournaments/archive/worldcup/italy1990/index.html">Italy 1990                                        </option><option value="/tournaments/archive/worldcup/mexico1986/index.html">Mexico 1986                                       </option><option value="/tournaments/archive/worldcup/spain1982/index.html">Spain 1982                                        </option><option value="/tournaments/archive/worldcup/argentina1978/index.html">Argentina 1978                                    </option><option value="/tournaments/archive/worldcup/germany1974/index.html">Germany 1974                                      </option><option value="/tournaments/archive/worldcup/mexico1970/index.html">Mexico 1970                                       </option><option value="/tournaments/archive/worldcup/england1966/index.html">England 1966                                      </option><option value="/tournaments/archive/worldcup/chile1962/index.html">Chile 1962                                        </option><option value="/tournaments/archive/worldcup/sweden1958/index.html">Sweden 1958                                       </option><option value="/tournaments/archive/worldcup/switzerland1954/index.html">Switzerland 1954                                  </option><option value="/tournaments/archive/worldcup/brazil1950/index.html">Brazil 1950                                       </option><option value="/tournaments/archive/worldcup/france1938/index.html">France 1938                                       </option><option value="/tournaments/archive/worldcup/italy1934/index.html">Italy 1934                                        </option><option value="/tournaments/archive/worldcup/uruguay1930/index.html">Uruguay 1930                                      </option></select></div><div class="cf rr-qlCont"><ul class="rr-ql moreLink"><li class="first "><a href="/tournaments/archive/index.html" alt="All Tournaments' Archive ?">All Tournaments' Archive ?</a></li></ul></div></div><div class="bF">  </div></div>
+</div><div class="row"><script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gscript=document.getElementById('google_adv_include');if(gscript){return;}var gads=document.createElement('script');gads.id='google_adv_include';gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();
+(function(){if(window.gTag){return;}googletag.cmd.push(function(){googletag.pubads().setTargeting('site',['en'])});
+(function(){var DBClickKeyValues=document.location.pathname.match(/[^/]*=[^/|^\.]*/gi);
+      function isSplittedId() {
+        var pth = window.location.pathname;
+        var exp = new RegExp("(newsid|gallery)/([0-9]{1,3}/){1,}index.html");
+        return exp.test(pth);
+      }
+    function getFullId() {
+      var pth = window.location.pathname;
+      var exp = new RegExp("(newsid|gallery)/([0-9]{1,3}/){1,}index.html");
+      if (exp.test(pth)) {
+        var start = pth.indexOf("newsid/");
+        if (start > -1) {
+          start = start + 7;
+        }
+        else {
+          start = pth.indexOf("gallery/") + 8;
+        }
+        var end = pth.indexOf("index.html");
+        var newsid = pth.substring(start, end);
+        newsid = newsid.replace(/\//g, "");
+        return newsid;
+      }
+      else {
+        return "";
+        }
+    }
+    function isGalleryPage() {
+      var pth = window.location.pathname;
+      var exp = new RegExp("(gallery)/([0-9]{1,3}/){1,}index.html");
+      if (exp.test(pth)) {
+        return true;
+      }
+      return false;
+    }
+    if(DBClickKeyValues==null){
+      if (isSplittedId()) {
+        var edttype = "";
+        if (isGalleryPage()) {
+          edttype = "gallery=";
+        }
+        else {
+          edttype = "newsid=";
+        }
+        var edtid = getFullId();
+        if ((edtid.length>0)&&(edttype.length>0)) {
+          DBClickKeyValues=[""+edttype+edtid];
+        }
+      }
+    }
+    if(DBClickKeyValues!=null){
+      
+      if (isSplittedId()) {
+        var edttype = "";
+        if (isGalleryPage()) {
+          edttype = "gallery=";
+        }
+        else {
+          edttype = "newsid=";
+        }
+        var edtid = getFullId();
+        if ((edtid.length>0)&&(edttype.length>0)) {
+          DBClickKeyValues.push(""+edttype+edtid);
+        }
+      }
+    DBClickKeyValues=DBClickKeyValues.toString();DBClickKeyValues=DBClickKeyValues.split(',');for (var i=0;i!=DBClickKeyValues.length;i++){var key=DBClickKeyValues[i].split('=')[0];var value=DBClickKeyValues[i].split('=')[1];googletag.cmd.push(function(){googletag.pubads().setTargeting(key,[value]);});}}
+window.DBClickRefresh=function(){googletag.cmd.push(function(){googletag.pubads().refresh();});};})();googletag.cmd.push(function(){googletag.pubads().setTargeting('user',[((Cookie.get('FIFAComClub'))?'loggedin':'notloggedin')]);});
+googletag.cmd.push(function(){googletag.enableServices();window.gTag=true;});})();</script><script type="text/javascript">
+          $j(document).ready(function(){
+          var adUnit=fifacom_s.pageName.replace(/ [^:]*/g,"");adUnit=adUnit.split(':');adUnit.splice(-1,1);if(adUnit.length>4){adUnit.reverse();adUnit.splice(0,adUnit.length-4);adUnit.reverse();}adUnit=adUnit.join('/');if(adUnit.length!=0){adUnit='/'+adUnit;}googletag.cmd.push(function(){
+googletag.defineSlot('/8584/fifa.com'+adUnit,[300,250],'div-gpt-ad-dda3de46-6fc3-43c9-a5d7-9b23b21212ef')
+.addService(googletag.pubads());
+});
+          });
+        </script><div class="box advert bNotitle"><div class="bH"> </div><div id="div-gpt-ad-dda3de46-6fc3-43c9-a5d7-9b23b21212ef" class="bC" style="width:300px;height:250px;margin:0 auto;"> </div><div class="bF"> </div></div><script type="text/javascript">$j(document).ready(function(){
+googletag.cmd.push(function(){googletag.display('div-gpt-ad-dda3de46-6fc3-43c9-a5d7-9b23b21212ef');
+});
+});</script></div><div class="row"><div class="box bNotitle sharingToolsBox"><div class="bH "><h3> </h3></div><div class="bC "><script type="text/javascript">
+          var shareUrl = '';      
+          var twitterAccount = 'fifacom';
+      
+          if(shareUrl=='' || !baseUrl){
+            shareUrl = window.location.href.replace(/\?.*/,'').replace(/\/$/,'/index.html');
+          }else if(shareUrl.substring(0,1)=='/'){
+            shareUrl = baseUrl + shareUrl;
+          }else if(shareUrl.substring(0,4)!='http'){
+            shareUrl = baseUrl + window.location.pathname.replace(/\/[^\/]*$/i, '/'+shareUrl);
+          }
+
+          // transform staging and dynamic urls in static prod urls
+          if (/dynamic|stg|preview|static|origin/.test(shareUrl)) {
+            var pu = parseUri(shareUrl);
+            pu.authority = (siteLang == "en") ? "www.fifa.com" : siteLang + ".fifa.com";
+            shareUrl = pu.toString();
+          }
+
+	        function trackSocialMediaShare(p){
+            try{
+              if(p=='ts'){
+			          wAnalytics.onShare('tweet button');
+		          }else if(p=='fbl'){
+			          wAnalytics.onShare('facebook like button');
+		          }else if(p.state=='on' && p.href){
+			          wAnalytics.onShare('google +1 button');
+		          }
+            }catch(e){}
+	        }
+          $j(document).ready(function() {
+
+            /* Facebook */
+            $j.getScript('http://connect.facebook.net/en_US/all.js', function() {
+  		      FB.init({status: true, cookie: true, xfbml: true, channelUrl: '/library/sharingtools/_fbchannel.html', ref: "facebook_like_button", appId: "500163113370079"});
+                FB.Event.subscribe('edge.create', function(){trackSocialMediaShare('fbl');});
+		        });
+            $j("#socialSharingToolsBox").append('<div class="FBLikeButton"><fb:like href="' + shareUrl + '?fb_ref=facebook_like" send="false" layout="box_count" width="60" show_faces="false" action="like" font="" ref="facebook_like_button"></fb:like></div>');
+	      
+            /* Twitter */
+	          $j("#socialSharingToolsBox").append('<div><a href="http://twitter.com/share" class="twitter-share-button" data-url="' + shareUrl + '?cid=twitter_share" data-text="' + document.title.replace(/^FIFA.com - | - FIFA.com$/, "") + '" data-count="vertical" data-via="' + twitterAccount + '" data-lang="en">Tweet</a></div>');
+              $j.getScript('http://platform.twitter.com/widgets.js', function(r) {
+	              twttr.events.bind('tweet',function(){trackSocialMediaShare('ts');});
+            });
+        
+            /* Google +1 */
+            $j.getScript('http://apis.google.com/js/plusone.js', function() {
+			        gapi.plusone.render(document.getElementById('googlePlus1'), {"href": shareUrl + "?cid=googleplus_share", "size": "tall", "count": "true", "callback": "trackSocialMediaShare"});
+		        });
+            $j("#socialSharingToolsBox").append('<div class="GooglePlusOneButton"><div id="googlePlus1"></div></div>');
+        
+            /* Standard Share */
+            $j("#socialSharingToolsBox").append('<div id="shareFwc"><a href="javascript:SharingTools.generic();"><img src="http://img.fifa.com/imgml/worldcup/share.png" alt="Share"/><div id="shareFwcText">Share</div></a></div>');
+          });		
+        </script><div id="socialSharingToolsBox"> </div></div><div class="bF"> </div></div></div></div></div> <!--googleoff: index--><div id="fwc_footer" class="d3cmsFooter"><div class="wrapFooter"><img src="http://img.fifa.com/imgml/fifacom2/fifalogo_foot.png" width="128" height="83" alt="FIFA logo" /><div><ul><li class="first"><a href="http://www.fifa.com/worldcup/index.html">FIFA World Cup?</a></li><li class=""><a href="http://www.fifa.com/tournaments/index.html">Tournaments</a></li><li class=""><a href="http://www.fifa.com/world-match-centre/index.html">World Match Centre</a></li><li class=""><a href="http://www.fifa.com/newscentre/index.html">News Centre</a></li><li class=""><a href="http://www.fifa.com/worldranking/index.html">FIFA Ranking</a></li><li class=""><a href="http://www.fifa.com/ballondor/index.html">FIFA Ballon d'Or</a></li><li class=""><a href="http://www.fifa.com/classicfootball/index.html">Classic Football</a></li><li class=""><a href="http://www.fifa.com/theclub/index.html">The Club</a></li><li class="last"><a href="http://www.fifa.com/aboutfifa/index.html">About FIFA</a></li></ul><ul><li class="first copy">Copyright ?1994 - 2014 FIFA. All rights reserved</li><li><a href="http://www.fifa.com/legal/tos.html">Terms of Service</a></li><li><a href="http://www.fifa.com/legal/privacy.html">Privacy Policy</a></li><li><a href="http://www.fifa.com/legal/downloads.html">Downloads</a></li><li><a href="http://www.fifa.com/mobile/index.html">FIFA.com on Mobile</a></li><li class="last"><a href="http://www.fifa.com/contact/form.html">Contact FIFA</a></li></ul></div></div></div><!--googleon: index--><script type="text/javascript">
+            (function() {            
+                var wd = window;
+                wd.fifa = wd.fifa || {};
+                wd.fifa.analytics = wd.fifa.analytics || {};
+                wd.fifa.analytics.cbparams = wd.fifa.analytics.cbparams || {};
+                var _cbcfg = wd.fifa.analytics.cbparams; 
+                _cbcfg.cbdomain='fifa.com';
+            })();
+            var _sf_async_config=_sf_async_config || {};
+            (function () {
+                var wd = window;
+                var _cbcfg = wd.fifa.analytics.cbparams || {};
+                $j(document).ready(function () {
+	                cbmanager = wd.fifa.analytics.manager(_cbcfg);
+	                _sf_async_config.uid =  cbmanager.Chartbeat.getUid();
+	                _sf_async_config.domain = cbmanager.Chartbeat.getDomain();
+	                _sf_async_config.authors = cbmanager.Chartbeat.getAuthors();
+	                _sf_async_config.title = fifacom_s.prop8;
+	                _sf_async_config.sections = fifacom_s.getHierarchy()+cbmanager.Chartbeat.getAddSections(true);
+	                _sf_async_config.path = cbmanager.Chartbeat.getPath()+'?site=web'+window.location.hash;
+                    /*_sf_async_config.useCanonical = cbmanager.Chartbeat.isCbCanonical();
+                    if (!cbmanager.Chartbeat.isCbCanonical()) {
+                        _sf_async_config.path = cbmanager.Chartbeat.getPath();
+                    }*/
+	                (function(){
+                        function loadChartbeat() {
+                        window._sf_endpt=(new Date()).getTime();
+                        var e = document.createElement("script");
+                        e.setAttribute("language", "javascript");
+                        e.setAttribute("type", "text/javascript");
+                        e.setAttribute("src",
+                        (("https:" == document.location.protocol) ?
+                        "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+                        "http://static.chartbeat.com/") +
+                        "js/chartbeat.js");
+                        document.body.appendChild(e);
+                        }
+                        var dont = new RegExp("(localhost|stg\.|dev\.|dynamic|static)");
+                        if (!dont.test(window.location.href)) {
+                                                loadChartbeat();
+                        }
+                        })();
+	
+	
+                });
+            })();
+            </script>
+</div><div class="fwc_bottomRoundCorners"> </div><script language="JavaScript" type="text/javascript"><!--
+fifacom_s.pageName="worldcup:archive:southafrica2010:statistics:teams:passes";
+fifacom_s.prop11="en";
+fifacom_s.prop13="FIFA World Cup Final";
+fifacom_s.prop14="2010 FIFA World Cup South Africa";
+var s_code=fifacom_s.t();if(s_code)document.write(s_code);
+//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src = "http://metrics.fifa.com/b/ss/fifaprod/1/H.21--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+</body></html>

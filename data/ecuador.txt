@@ -1,0 +1,1559 @@
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+      <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="title" content="CA2011.com - The Official Website of the Copa Am¨¦rica 2011">
+      <meta name="url" content="">
+      <meta name="description" content="Copa Am¨¦rica 2011 - The most important football event in latin am¨¦rica - July 1 - July 24 of 2011">
+      <meta name="keywords" content="copa am¨¦rica, copa america, copa am¨¦rica 2011, argentina, football tournament, competition, matches, results, photos, videos, teams, argentina, bolivia, brazil, chile, colombia, ecuador, japon, mexico, paraguay, peru, uruguay, venezuela, buenos aires, c¨®rdoba, la plata, mendoza, salta, sao juan, san salvador de jujuy, santa f¨¦, 23 de agosto, monumental buenos aires, cementerio de elefantes, ciudad de la plata, el hilario s¨¢nchez, malvinas argentinas, ol¨ªmpico de c¨®rdoba, padre ernesto martearena, official site">
+      <meta name="autor" content=".:| Traffic Sports |:.">
+      <meta name="company" content=".:| Traffic Sports |:.">
+
+      <meta name="googlebot" content="noodp">
+      <meta name="robots" content="index, follow" />
+
+      <link rel="SHORTCUT ICON" href="images/favicon.ico" />
+      <link rel="apple-touch-icon" href="images/icon-touch.png" />
+
+
+    <title>CA2011.com - The Official Website of the Copa Am¨¦rica 2011</title>
+
+    <link href="css/styles.css" type="text/css" rel="stylesheet"  />
+
+    <!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="css/iehack.css" />
+	<![endif]-->
+
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+
+    <script type="text/javascript" src="scripts/custom-form-elements.js"></script>
+    <script type="text/javascript" src="js/scroller.js" ></script>
+    <script type="text/javascript" src="js/funcoes.js" ></script>
+    </head>
+<!-- onfocus="acionar();" -->
+<body id="body_home">
+<div id="estrutura_site">
+
+    <div id="topo">
+    	<div id="logo"><a href="http://www.ca2011.com/home.php?Lang=2" target="_top"><img src="http://www.ca2011.com/images/logo_ca2011.png" width="216" height="118" border="0" /></a></div>
+        <div id="espaco_topo">
+        	<div id="frase_topo"><img src="http://www.ca2011.com/images_en/frase_topo2.png" /></div>
+        </div>
+        <div id="logo_organizacao"><a href="http://www.conmebol.com" target="_blank"><img src="http://www.ca2011.com/images/logo_conmebol.png" border="0" /></a><a href="http://www.afa.org.ar" target="_blank"><img src="http://www.ca2011.com/images/logo_afa.png"  style="margin-left:7px;" border="0" /></a><a href="http://www.ca2011.com/conta_clique.php?id=8003.TS" target="_blank"><img src="http://www.ca2011.com/images/logo_traffic.png" style="margin-left:10px;" /></a></div>
+    </div>    <link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+<script language="javascript">
+vt_img_menu_lang = new Array();
+vt_img_menu_lang[1]	= "band_espanha.png";
+vt_img_menu_lang[2]	= "band_gra_bret.png";
+vt_img_menu_lang[3]	= "band_brasil.png";
+
+function mostra_oculta_div_menu_lang(i, o, d){	
+    if(o == "m"){
+	   document.getElementById('img_site_topo3').src = 'http://www.ca2011.com/images/' + vt_img_menu_lang[i];
+	   document.getElementById(d).style.display = '';
+	}else
+	   document.getElementById(d).style.display = 'none';	   
+}
+
+</script>
+
+<div id="linguagem">
+    	<div id="linguagem1">
+        	<div id="linguagem21"></div> 
+            <div id="linguagem22"><div id="div_img_topo3" style="display:none; position:absolute; float:left; z-index:9999; margin-top:27px; margin-left:100px;"><img id="img_site_topo3" name="img_site_topo3" ></div><ul class="menu2" ><li class="menu_linguagem2" style="cursor: pointer; z-index:9;">Choose a language <img src="http://www.ca2011.com/images/seta_linguagem.png" width="9" height="8" style="margin-top:0px; z-index:9;" />
+            <ul class="sub" style="z-index:9;">
+          		<li><a href="/estatistica_porselecao.php?idS=8f14e45fceea167a5a36dedd4bea2543&Lang=3" target="_parent" onMouseOver="mostra_oculta_div_menu_lang('1','m','div_img_topo3');" onMouseOut="mostra_oculta_div_menu_lang('1','o','div_img_topo3');">Espa?ol</a></li>
+                <li><a href="/estatistica_porselecao.php?idS=8f14e45fceea167a5a36dedd4bea2543&Lang=2" target="_parent" onMouseOver="mostra_oculta_div_menu_lang('2','m','div_img_topo3');" onMouseOut="mostra_oculta_div_menu_lang('2','o','div_img_topo3');">English</a></li>
+                <li><a href="/estatistica_porselecao.php?idS=8f14e45fceea167a5a36dedd4bea2543&Lang=1" target="_parent" onMouseOver="mostra_oculta_div_menu_lang('3','m','div_img_topo3');" onMouseOut="mostra_oculta_div_menu_lang('3','o','div_img_topo3');">Portugu¨ºs - BR</a></li>
+          		
+      </ul>
+           </li></ul></div> 
+          <div id="linguagem23"></div> 
+    </div>
+</div>    <link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+<script language="javascript">
+vt_img_menu = new Array();
+vt_img_menu[1]	= "eccbc87e4b5ce2fe28308fd9f2a7baf3.png";
+vt_img_menu[2]	= "a87ff679a2f3e71d9181a67b7542122c.png";
+vt_img_menu[3]	= "c4ca4238a0b923820dcc509a6f75849b.png";
+vt_img_menu[4]	= "e4da3b7fbbce2345d7772b0674a318d5.png";
+vt_img_menu[5]	= "1679091c5a880faf6fb5e6087eb1b2dc.png";
+vt_img_menu[6]	= "9bf31c7ff062936a96d3c8bd1f8f2ff3.png";
+vt_img_menu[7]	= "8f14e45fceea167a5a36dedd4bea2543.png";
+vt_img_menu[8]	= "45c48cce2e2d7fbdea1afc51c7c6ad26.png";
+vt_img_menu[9]	= "d3d9446802a44259755d38e6d163e820.png";
+vt_img_menu[10]	= "6512bd43d9caa6e02c990b0a82652dca.png";
+vt_img_menu[11]	= "c20ad4d76fe97759aa27a0c99bff6710.png";
+vt_img_menu[12]	= "c51ce410c124a10e0db5e4b97fc2af39.png";
+
+function mostra_oculta_div(i, o, d){	
+    if(o == "m"){
+	   document.getElementById('img_site_topo').src = 'media/bandeiras/' + vt_img_menu[i];
+	   document.getElementById(d).style.display = '';
+	}
+	else{
+	   document.getElementById(d).style.display = 'none';	   
+	}
+
+}
+
+function mostra_oculta_div_sel(i, o){	
+    if(o == "m"){
+	   document.getElementById(i).className="menu_opcoes_b_en";
+	}
+	else{
+	   document.getElementById(i).className="menu_opcoes_a_en";
+	}
+
+}
+
+function mostra_oculta_div_menu(i, o, d){	
+    if(o == "m"){
+	   document.getElementById('img_site_topo_menu').src = 'media/bandeiras/' + vt_img_menu[i];
+	   document.getElementById(d).style.display = '';
+	}else
+	   document.getElementById(d).style.display = 'none';	   
+}
+
+</script>
+
+    
+<div id="menu" style="z-index:99999">
+	<div id="menu_estrutura">
+    	<div id="borda_menu_esq"></div>
+        <div id="centro_menu" style="z-index:9999;">
+        	<div id="centro_menu1"><ul><li class="menu_opcoes"><a href="http://www.ca2011.com/noticias_todas.php?Lang=2" target="_top" class="menu_opcoes_a_en"><span class="invisivel">News</span><img src="http://www.ca2011.com/images_en/menu_noticias.png" alt="News" border="0" /></a></li></ul></div>
+            <div id="centro_menu21"></div>
+            <div id="centro_menu2"><ul><li class="menu_opcoes"><a href="http://www.ca2011.com/fotos_todas.php?Lang=2" target="_top" class="menu_opcoes_c_en"><span class="invisivel">Photos</span><img src="http://www.ca2011.com/images_en/menu_fotos.png" alt="Photos" border="0" /></a></li><li class="menu_opcoes"><a href="http://www.ca2011.com/videos_todos.php?Lang=2" target="_top" class="menu_opcoes_c_en"><span class="invisivel">Videos</span><img src="http://www.ca2011.com/images_en/menu_videos.png" alt="Videos" border="0" /></a></li></ul></div>
+            <div id="centro_menu22"></div>
+            <div id="centro_menu3" style="z-index:9;"><div id="div_img_topo" style="display:none; position:absolute; float:left; z-index:999; margin-top:33px; margin-left:130px; "><img id="img_site_topo" name="img_site_topo" border="0"></div><ul class="menu" style="z-index:9;"><li class="menu_opcoes" ><a href="#" name="menu_sel_id" id="menu_sel_id" target="_top" class="menu_opcoes_a_en"><span class="invisivel">Teams</span><img src="http://www.ca2011.com/images_en/menu_selecoes.png" alt="Teams" border="0" /></a>
+            <ul class="sub" style="z-index:9;">
+          		<li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=eccbc87e4b5ce2fe28308fd9f2a7baf3&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('1','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('1','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');">ARGENTINA</a></li>
+          		<li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=a87ff679a2f3e71d9181a67b7542122c&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('2','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('2','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');" >BOLIVIA</a></li>
+                <li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=c4ca4238a0b923820dcc509a6f75849b&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('3','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('3','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');">BRAZIL</a></li>
+          		<li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=e4da3b7fbbce2345d7772b0674a318d5&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('4','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('4','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');" >CHILE</a></li>
+                <li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=1679091c5a880faf6fb5e6087eb1b2dc&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('5','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('5','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');">COLOMBIA</a></li>
+                 <li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=9bf31c7ff062936a96d3c8bd1f8f2ff3&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('6','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('7','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');" >COSTA RICA</a></li> 
+          		<li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=8f14e45fceea167a5a36dedd4bea2543&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('7','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('6','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');" >ECUADOR</a></li>
+                <li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=45c48cce2e2d7fbdea1afc51c7c6ad26&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('8','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('8','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');">MEXICO</a></li>
+                <li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=d3d9446802a44259755d38e6d163e820&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('9','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('9','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');">PARAGUAY</a></li>
+          		<li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=6512bd43d9caa6e02c990b0a82652dca&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('10','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('10','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');" >PERU</a></li>
+                <li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=c20ad4d76fe97759aa27a0c99bff6710&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('11','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('11','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');">URUGUAY</a></li>
+          		<li><a href="http://www.ca2011.com/selecoes_resumo.php?idS=c51ce410c124a10e0db5e4b97fc2af39&Lang=2" target="_parent" onMouseOver="mostra_oculta_div('12','m','div_img_topo');mostra_oculta_div_sel('menu_sel_id','m');" onMouseOut="mostra_oculta_div('12','o','div_img_topo');mostra_oculta_div_sel('menu_sel_id','o');" >VENEZUELA</a></li>
+      </ul></li>
+      
+       <li class="menu_opcoes"><a href="http://www.ca2011.com/jogos_todos.php?Lang=2" target="_top" class="menu_opcoes_a_en"><span class="invisivel">Matches</span><img src="http://www.ca2011.com/images_en/menu_jogos.png" alt="Matches" border="0" /></a></li>
+      
+       <li class="menu_opcoes"><a href="http://www.ca2011.com/jogadores_todos.php?Lang=2" target="_top" class="menu_opcoes_a_en"><span class="invisivel">Players</span><img src="http://www.ca2011.com/images_en/menu_jogadores.png" alt="Players" border="0" /></a></li>
+       
+       
+         <li class="menu_opcoes"><a href="http://www.ca2011.com/estatistica_todos.php?Lang=2" target="_top" class="menu_opcoes_a_hover_en"><span class="invisivel">Statistics</span><img src="http://www.ca2011.com/images_en/menu_estatistica.png" alt="Statistics" border="0" /></a></li>
+      
+      	  
+	        
+      <li class="menu_opcoes"><a href="http://www.ca2011.com/mobile-club/" target="_top" class="menu_opcoes_a_en"><span class="invisivel">Mobile Club</span><img src="http://www.ca2011.com/images_en/menu_mobile.png" alt="Mobile Club" border="0" /></a></li>
+      
+           
+      <li class="menu_opcoes"><a href="http://www.ca2011.com/premios_bestplayer.php?Lang=2" target="_top" class="menu_opcoes_a_en"><span class="invisivel">Awards</span><img src="http://www.ca2011.com/images_en/menu_premios.png" alt="Awards" border="0" /></a></li>
+      
+            
+      
+      <li class="menu_opcoes"><a href="#" name="menu_mais_id" id="menu_mais_id" class="menu_opcoes_a_en"><span class="invisivel">More</span><img src="http://www.ca2011.com/images_en/menu_mais.png" alt="More" border="0" /></a>
+      <ul class="sub2" style="z-index:999999999999999999999999999;">
+      	<li><a href="http://www.ca2011.com/login_imprensa.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Press Area</a></li>
+        
+                
+        <li><a href="http://www.ca2011.com/enquete_todas.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Polls</a></li>
+      	<li><a href="http://www.ca2011.com/organizacao_noticias.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Organization</a></li>
+              <li><a href="http://www.ca2011.com/organizacao_credenciamento.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Accreditation</a></li>
+        <li><a href="http://www.ca2011.com/organizacao_mascote.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Mascot</a></li>
+        <li><a href="http://www.ca2011.com/historia_trofeu.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Trophy</a></li>
+        <li><a href="http://www.ca2011.com/organizacao_direitosdetv.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">TV Rights</a></li>
+             	<li><a href="http://www.ca2011.com/organizacao_regulamento.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Regulations</a></li>        
+      	        <li><a href="http://www.ca2011.com/organizacao_patrocinadores.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Sponsors</a></li>
+        <li><a href="http://www.ca2011.com/organizacao_arbitros.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Referees</a></li>
+         <li><a href="http://www.ca2011.com/organizacao_ingressos.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Tickets</a></li>
+          <li><a href="http://www.ca2011.com/sedes_paissede.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">Hosts</a></li>
+           <li><a href="http://www.ca2011.com/historia_resumo.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">History</a></li>
+           <li><a href="http://www.ca2011.com/especial_fest.php?Lang=2" onMouseOver="mostra_oculta_div_sel('menu_mais_id','m');" onMouseOut="mostra_oculta_div_sel('menu_mais_id','o');" target="_top">LG Copa Am¨¦rica Fest</a></li>
+      </ul></li></ul></div>
+        </div>   
+        <div id="borda_menu_dir" style="z-index:1;"></div>
+    </div>
+</div>    
+
+
+
+
+    <div id="conteudoi_topo">
+    	<div id="conteudoi_topoesq"></div>
+    	<div id="conteudoi_centro"></div>
+        <div id="conteudoi_topodir"></div>
+    </div>
+
+    <div id="conteudoi">
+    	<div id="conteudoi2">
+    	<div id="conteudo_estrutura">
+
+     	            
+        	<div id="conteudo_bloco_topo" style="z-index:9999">
+            <div id="logo_topo" style="position:absolute; margin-left:879px; #margin-left:83px;z-index:9;">
+                	<a href="conta_clique.php?id=32.TP" alt="Powerade" target="_blank"><img src="images/logo_powerade2.png" border="0" /></a>
+                </div>
+            	<div id="conteudo_bloco_topo2">
+                	<div id="conteudo_bloco_menu2">
+                    	<div id="conteudo_bloco_nome"><span class="texto30">Statistics</span></div>
+                        <div id="conteudo_bloco_submenus"><div id="div_img_menu" style="display:none; position:absolute; float:left; z-index:999; margin-top:15px; margin-left:193px;"><img id="img_site_topo_menu" name="img_site_topo_menu"></div><ul class="menu" style="z-index:9;"> <li class="submenu"><a href="estatistica_todos.php" target="_top" class="submenu">Summary</a></li>
+                        
+                        <li class="submenu"><a href="#" target="_top" class="marcado">By Team</a>
+            <ul class="sub3" style="z-index:9;">
+          		<li><a href="estatistica_porselecao.php?idS=eccbc87e4b5ce2fe28308fd9f2a7baf3" target="_parent" onMouseOver="mostra_oculta_div_menu('1','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('1','o','div_img_menu');">ARGENTINA</a></li>
+          		<li><a href="estatistica_porselecao.php?idS=a87ff679a2f3e71d9181a67b7542122c" target="_parent" onMouseOver="mostra_oculta_div_menu('2','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('2','o','div_img_menu');" >BOLIVIA</a></li>
+                <li><a href="estatistica_porselecao.php?idS=c4ca4238a0b923820dcc509a6f75849b" target="_parent" onMouseOver="mostra_oculta_div_menu('3','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('1','o','div_img_menu');">BRAZIL</a></li>
+          		<li><a href="estatistica_porselecao.php?idS=e4da3b7fbbce2345d7772b0674a318d5" target="_parent" onMouseOver="mostra_oculta_div_menu('4','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('2','o','div_img_menu');" >CHILE</a></li>
+                <li><a href="estatistica_porselecao.php?idS=1679091c5a880faf6fb5e6087eb1b2dc" target="_parent" onMouseOver="mostra_oculta_div_menu('5','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('1','o','div_img_menu');">COLOMBIA</a></li>
+                <li><a href="estatistica_porselecao.php?idS=9bf31c7ff062936a96d3c8bd1f8f2ff3" target="_parent" onMouseOver="mostra_oculta_div_menu('6','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('2','o','div_img_menu');" >COSTA RICA</a></li>
+          		<li><a href="estatistica_porselecao.php?idS=8f14e45fceea167a5a36dedd4bea2543" target="_parent" onMouseOver="mostra_oculta_div_menu('7','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('2','o','div_img_menu');" >ECUADOR</a></li>
+                
+                <li><a href="estatistica_porselecao.php?idS=45c48cce2e2d7fbdea1afc51c7c6ad26" target="_parent" onMouseOver="mostra_oculta_div_menu('8','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('1','o','div_img_menu');">MEXICO</a></li>
+                <li><a href="estatistica_porselecao.php?idS=d3d9446802a44259755d38e6d163e820" target="_parent" onMouseOver="mostra_oculta_div_menu('9','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('1','o','div_img_menu');">PARAGUAY</a></li>
+          		<li><a href="estatistica_porselecao.php?idS=6512bd43d9caa6e02c990b0a82652dca" target="_parent" onMouseOver="mostra_oculta_div_menu('10','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('10','o','div_img_menu');" >PERU</a></li>
+                <li><a href="estatistica_porselecao.php?idS=c20ad4d76fe97759aa27a0c99bff6710" target="_parent" onMouseOver="mostra_oculta_div_menu('11','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('11','o','div_img_menu');">URUGUAY</a></li>
+          		<li><a href="estatistica_porselecao.php?idS=c51ce410c124a10e0db5e4b97fc2af39" target="_parent" onMouseOver="mostra_oculta_div_menu('12','m','div_img_menu');" onMouseOut="mostra_oculta_div_menu('12','o','div_img_menu');" >VENEZUELA</a></li>
+      </ul></li>
+      
+      
+                        <li class="submenu"><a href="estatistica_partidas.php" target="_top" class="submenu">Matches</a></li>
+                        <li class="submenu"><a href="estatistica_selecoestodos.php" target="_top" class="submenu">Teams</a></li>
+                        <li class="submenu"><a href="estatistica_jogadorestodos.php" target="_top" class="submenu">Players</a></li>
+                        <li class="submenu"><a href="estatistica_compararjogadores.php" target="_top" class="submenu">Compare Players</a></li>
+                        <li class="submenu"><a href="estatistica_compararpaises.php" target="_top" class="submenu">Compare Teams</a></li>
+      </ul>
+                        
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+			
+			
+
+        	<div id="conteudo_bloco1e2">
+
+                <div id="bloco_duplo">
+                <div id="espaco_sedes">
+                    <ul>
+                        <li>
+                            <span class="texto32azul">
+                            Ecuador                            </span>
+                        </li>
+                    </ul>
+                </div>
+                <div id="marcador_neutro2"><img src="images_en/subtitulo_jogadoresemdestaque.png" style="margin-top:10px;" /></div>
+                <div id="jogadores_destaque_02">
+                <div id="seta_esquerda">
+                    <div class="buttons">
+                        <a href="javascript:void(null)" onmouseover="moveRight('scrolabbleslider_foto','656')" onmouseout="stopMove('scrolabbleslider_foto')"><img src="images/setascroll_esq3.png" ></a>
+                    </div>
+                </div>
+                           <div id="slidercontainer"  style="width:599px; margin-top:-2px;height:230px;">
+                               <div id="scrolabbleslider_foto" style="width:1250px; height:230px;">
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf'><img src="resize_adaptive.php?src=media/jogadores/57aeee35c98205091e18d1140e9f38cf.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Walter Ayov¨ª </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto32azul"> <strong>115</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto11"> <strong>Successful Passes</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf'><img src="resize_adaptive.php?src=media/jogadores/57aeee35c98205091e18d1140e9f38cf.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Walter Ayov¨ª </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto32azul"> <strong>24</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto11"> <strong>Unsucessful  passes</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3'><img src="resize_adaptive.php?src=media/jogadores/705f2172834666788607efbfca35afb3.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Neicer Reasco </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none;"><span class="texto32azul"> <strong>4</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none;"><span class="texto11"> <strong>Successful Crosses</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf'><img src="resize_adaptive.php?src=media/jogadores/57aeee35c98205091e18d1140e9f38cf.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Walter Ayov¨ª </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto32azul"> <strong>9</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto11"> <strong>Unsucessful Crosses</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77'><img src="resize_adaptive.php?src=media/jogadores/3644a684f98ea8fe223c713b77189a77.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Marcelo Elizaga  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto32azul"> <strong>11</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto11"> <strong>Successful Through Passes</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77'><img src="resize_adaptive.php?src=media/jogadores/3644a684f98ea8fe223c713b77189a77.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Marcelo Elizaga  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto32azul"> <strong>38</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto11"> <strong>Unsucessful Through Passes</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf'><img src="resize_adaptive.php?src=media/jogadores/57aeee35c98205091e18d1140e9f38cf.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Walter Ayov¨ª </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto32azul"> <strong>7</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=57aeee35c98205091e18d1140e9f38cf' style=" text-decoration: none;"><span class="texto11"> <strong>Successful Dribbles</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557'><img src="resize_adaptive.php?src=media/jogadores/6f3ef77ac0e3619e98159e9b6febf557.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Christian Ben¨ªtez  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none;"><span class="texto32azul"> <strong>3</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none;"><span class="texto11"> <strong>Unsucessful Dribbles</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc'><img src="resize_adaptive.php?src=media/jogadores/64c53a52cb3bd1a01c03a64db985c0cc.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Norberto Araujo  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc' style=" text-decoration: none;"><span class="texto32azul"> <strong>13</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc' style=" text-decoration: none;"><span class="texto11"> <strong>Successful Tackles</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3'><img src="resize_adaptive.php?src=media/jogadores/705f2172834666788607efbfca35afb3.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Neicer Reasco </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none;"><span class="texto32azul"> <strong>2</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none;"><span class="texto11"> <strong>Unsucessful Tackles</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2'><img src="resize_adaptive.php?src=media/jogadores/b1d10e7bafa4421218a51b1e1f1b0ba2.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Felipe Caicedo  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none;"><span class="texto32azul"> <strong>5</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none;"><span class="texto11"> <strong>Shots on Target</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557'><img src="resize_adaptive.php?src=media/jogadores/6f3ef77ac0e3619e98159e9b6febf557.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Christian Ben¨ªtez  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none;"><span class="texto32azul"> <strong>4</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none;"><span class="texto11"> <strong>Shots off Target</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3'><img src="resize_adaptive.php?src=media/jogadores/705f2172834666788607efbfca35afb3.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Neicer Reasco </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none;"><span class="texto32azul"> <strong>4</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=705f2172834666788607efbfca35afb3' style=" text-decoration: none;"><span class="texto11"> <strong>Successful Side Inversion Pass</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905'><img src="resize_adaptive.php?src=media/jogadores/ac4e7a4f341e7281b0f6f274f9ec3905.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Christian Noboa  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905' style=" text-decoration: none;"><span class="texto32azul"> <strong>2</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905' style=" text-decoration: none;"><span class="texto11"> <strong>Unsuccessful Side Inversion Pass</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=69adc1e107f7f7d035d7baf04342e1ca'><img src="resize_adaptive.php?src=media/jogadores/69adc1e107f7f7d035d7baf04342e1ca.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=69adc1e107f7f7d035d7baf04342e1ca' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> ¨¦dison M¨¦ndez  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=69adc1e107f7f7d035d7baf04342e1ca' style=" text-decoration: none;"><span class="texto32azul"> <strong>5</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=69adc1e107f7f7d035d7baf04342e1ca' style=" text-decoration: none;"><span class="texto11"> <strong>Fouls Commited</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557'><img src="resize_adaptive.php?src=media/jogadores/6f3ef77ac0e3619e98159e9b6febf557.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Christian Ben¨ªtez  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none;"><span class="texto32azul"> <strong>6</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=6f3ef77ac0e3619e98159e9b6febf557' style=" text-decoration: none;"><span class="texto11"> <strong>Fouls Suffered</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905'><img src="resize_adaptive.php?src=media/jogadores/ac4e7a4f341e7281b0f6f274f9ec3905.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Christian Noboa  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905' style=" text-decoration: none;"><span class="texto32azul"> <strong>1</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=ac4e7a4f341e7281b0f6f274f9ec3905' style=" text-decoration: none;"><span class="texto11"> <strong>Yellow Cards</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77'><img src="resize_adaptive.php?src=media/jogadores/3644a684f98ea8fe223c713b77189a77.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Marcelo Elizaga  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto32azul"> <strong>0</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto11"> <strong>Red Cards</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77'><img src="resize_adaptive.php?src=media/jogadores/3644a684f98ea8fe223c713b77189a77.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Marcelo Elizaga  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto32azul"> <strong>0</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto11"> <strong>Penalties Commited</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77'><img src="resize_adaptive.php?src=media/jogadores/3644a684f98ea8fe223c713b77189a77.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Marcelo Elizaga  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto32azul"> <strong>0</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=3644a684f98ea8fe223c713b77189a77' style=" text-decoration: none;"><span class="texto11"> <strong>Penalties Suffered</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc'><img src="resize_adaptive.php?src=media/jogadores/64c53a52cb3bd1a01c03a64db985c0cc.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Norberto Araujo  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc' style=" text-decoration: none;"><span class="texto32azul"> <strong>26</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=64c53a52cb3bd1a01c03a64db985c0cc' style=" text-decoration: none;"><span class="texto11"> <strong>Rebounds</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2'><img src="resize_adaptive.php?src=media/jogadores/b1d10e7bafa4421218a51b1e1f1b0ba2.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Felipe Caicedo  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none;"><span class="texto32azul"> <strong>2</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none;"><span class="texto11"> <strong>Offsides</strong> </span></a>
+                                               </div>
+                                            </div>
+                                            <div id="lista_jogadores_02">
+                                               <div id="letras_pais">
+                                                    <img src="images/pais_equador_abrevia.png" alt=""/>
+                                               </div>
+                                               <div id="bandeira_pais">
+                                                    <img src="media/bandeiras/thumb/equador.png" alt=""/>
+                                               </div>
+                                               <div id="foto_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2'><img src="resize_adaptive.php?src=media/jogadores/b1d10e7bafa4421218a51b1e1f1b0ba2.png&x=84&y=112" alt=""/></a>
+                                               </div>
+                                               <div id="nome_jogador">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none; line-height:10px; width:100%; height:15px; float:left; text-align:center;"><span class="texto11"> Felipe Caicedo  </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none;"><span class="texto32azul"> <strong>2</strong> </span></a>
+                                               </div>
+                                               <div id="nome_jogador" style="margin-top:0;">
+                                                    <a href='estatistica_jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2' style=" text-decoration: none;"><span class="texto11"> <strong>Goals Scored</strong> </span></a>
+                                               </div>
+                                            </div>
+                               </div>
+                          </div>
+                       </div>
+                   <div id="seta_direita">
+                    <div class="buttons">
+                 <a href="#A" onmouseover="moveLeft('scrolabbleslider_foto','656')" onmouseout="stopMove('scrolabbleslider_foto')">
+                    <img class="image" src="images/setascroll_dir3.png" style='margint-top:3px;'>
+                </a>
+            </div>
+                    </div>
+
+                    </div>
+                <div id="bloco_duplo1e2">
+                <!-- inicio bloco separado -->
+                <div id="bloco_separado">
+                 <div id="espaco_vocesabia1">
+                	 <!-- inicio bloco -->
+                    	<div id="bloco1_modulo">
+                            <div id="marcador_neutro1"><img src="images_en/subtitulo_estatistica_daselecao.png" style="margin-top:10px;" /></div>
+                            <div id="marcador_espacamento">
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Successful Passes</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>913</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Successful Crosses</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>7</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Successful Through Passes</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>43</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Successful Tackles</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>55</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Shots on Target</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>15</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Fouls Commited</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>33</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Fouls Suffered</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>33</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Penalties Suffered</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>0</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Offsides</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>2</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        	<div id="marcador_detalhes">
+                            		<div id="marcador_detalhes1" align="right"><span class="texto13">Ball Possession</span></div>
+                                	<div id="marcador_detalhes2"><span class="texto15azul"><strong>143"</strong></span></div>
+                                </div>
+                                <div id="marcador_detalhes_quebra"></div>
+                                                        </div>
+                        </div>
+                        <!-- fim bloco -->
+                    </div>
+
+
+                    <div id="espaco_vocesabia2">
+                                              <!-- inicio bloco -->
+                        <div id="bloco1">
+                    <div id="marcador_neutro1"><img src="images_en/subtitulo_estatisticaultimojogo.png" style="margin-top:10px;" /></div>
+                               <div style="margin-top:18px; float:left; position:relative;">
+                                           <div id="escudo_ultimojogo">
+                                           <a href="estatistica_porselecao.php?idS=c4ca4238a0b923820dcc509a6f75849b" target="_top" class="tooltip_selecao" ><img src="media/escudos/c4ca4238a0b923820dcc509a6f75849b.png" style="margin-left:9px;" />
+                                           <span>Brasil</span></a>
+                                           </div>
+                                       <div id="resultado_ultimojogo">
+                                               <div id="placar_ultimojogo">
+                                               <ul>
+                                               <li class="texto14amarelo" style="float:left;"></li>
+                                               </ul>
+                                               </div>
+                                                          <div style=" float: left; width: 73px; text-align: center; margin-top: 18px;">
+                                          					 <li class="texto32amarelo"><strong>4 - 2</strong></li>
+                                                          </div>
+                                                               <div id="placar_ultimojogo">
+                                                                   <ul>
+                                                                   <li class="texto14amarelo"></li>
+                                                                   </ul>
+                                                               </div>
+                                       </div>
+                                           <div id="escudo_ultimojogo">
+                                          <a href="estatistica_porselecao.php?idS=8f14e45fceea167a5a36dedd4bea2543" target="_top" class="tooltip_selecao" ><img src="media/escudos/8f14e45fceea167a5a36dedd4bea2543.png" />
+                                          <span>Equador</span></a>
+                                          </div>
+                               </div>
+
+                              <div id="ultimojogo_resultado_01">
+                              <ul>
+                              <li class="texto10cinza"><strong>13/07/2011 21:45:00</strong></li>
+                              </ul>
+                              <ul>
+                              <li class="texto15azul"><strong>Results</strong></li>
+                              </ul>
+                              </div>
+
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;496</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Successful Passes</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>328&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;5</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Successful Crosses</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>2&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;23</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Successful Through Passes</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>13&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;16</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Successful Tackles</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>17&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;10</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Shots on Target</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>6&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;10</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Fouls Commited</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>15&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;15</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Fouls Suffered</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>10&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;0</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Penalties Suffered</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>0&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;2</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Offsides</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>2&nbsp;</strong></li>
+                              </ul>
+                              </div>
+ 
+                              <div id="ultimojogo_resultado_02">
+                              <ul>
+                              <li class="texto12" style="float:left; text-align:left; width:40px; margin-left:21px;"><strong>&nbsp;56</strong></li>
+                              <li class="texto12" style="float:left; text-align:center; width:200px">Ball Possession</li>
+                              <li class="texto12" style="float:left; text-align:right; width:40px;"><strong>44&nbsp;</strong></li>
+                              </ul>
+                              </div>
+  <div class="li_espacamento3"></div>
+<ul><li class="li_vermais"><span class="texto10cinza"><strong><a href="jogos_estatisticas.php?idJ=c8ed21db4f678f3b13b9d5ee16489088" target="_top" class="link_cinza">? more details</a></strong></span></li></ul>
+                    </div>
+                    <div style="float:left;  position:relative; width:325px; height:9px;"></div>
+                        <!-- fim bloco -->
+                       </div>
+            	</div>
+                <!-- fim bloco separado -->
+                <div id="bloco_separado">
+                <div id="espaco_vocesabia1">
+
+                <!-- inicio bloco -->
+<div id="bloco1">
+        <div id="marcador_neutro1"><img src="images_en/subtitulo_destaqueporposicao.png" style="margin-top:10px;" /></div>
+        <div id="foto_jogador"><a href="estatistica_jogadores_individual.php?idAt=3983e1512aa570c564fab522bdb3efa5"><img src="resize_adaptive.php?src=media/jogadores/3983e1512aa570c564fab522bdb3efa5.png&x=84&y=112" /></a></div>
+        <div id="dados_jogador_destak">
+            <ul>
+                <li class="texto15azul" style="margin-top:9px;"><strong> Gabriel Achilier </strong></li>
+            </ul>
+            <ul>
+                <li class="texto11" style="margin-top:9px"><strong>Team</strong></li>
+            </ul>
+            <ul>
+                <li class="texto13amarelo" >Ecuador</li>
+            </ul>
+            <ul>
+                 <li class="texto11" style="margin-top:9px"><strong>Position</strong></li>
+            </ul>
+            <ul>
+                 <li class="texto13amarelo">Defender</li>
+            </ul>
+             <ul>
+                <li class="texto11" style="margin-top:9px"><strong>Titles by Team</strong></li>
+             </ul>
+             <ul>
+                <li class="texto13amarelo">-</li>
+             </ul>
+        </div>
+        <div id="escuto_time">
+            <img src="media/flamulas/fl_equador.png" />
+        </div>
+
+
+             <ul>
+                 <li class="li_vermais"><span class="texto10cinza"><strong><a href="#" target="_top" class="link_cinza">? more details</a></strong></span></li>
+             </ul>
+</div>
+<!-- fim bloco -->
+
+                </div>
+                                                                                 <div id="espaco_vocesabia2">
+                    <script language="Javascript" >
+    function loadPagEstatisticas(var1){
+		
+        if(var1 == 1)
+            document.location.href='estatistica_passes_lista.php';
+        else if(var1 == 2)
+            document.location.href='estatistica_cruzamentos_lista.php';
+        else if(var1 == 3)
+            document.location.href='estatistica_lancamentos_lista.php';
+        else if(var1 == 4)
+            document.location.href='estatistica_dribles_lista.php';
+        else if(var1 == 5)
+            document.location.href='estatistica_desarmes_lista.php';
+        else if(var1 == 6)
+            document.location.href='estatistica_finalizacoes_lista.php';
+        else if(var1 == 7)
+            document.location.href='estatistica_faltas_lista.php';
+        else if(var1 == 8)
+            document.location.href='estatistica_penaltis_lista.php';
+        else if(var1 == 9)
+            document.location.href='estatistica_impedimentos_lista.php';
+        else if(var1 == 10)
+            document.location.href='estatistica_rebatidas_lista.php';
+        else if(var1 == 11)
+            document.location.href='estatistica_cartoes_lista.php';
+		else if(var1 == 12)
+            document.location.href='estatistica_gols.php';
+    }
+</script>
+
+<div id="bloco1">
+    <div id="marcador_neutro1"><img src="images_en/subtitulo_estatisticasjogadores.png" style="margin-top:10px;" /></div>
+    <div id="busca_estatistica_selecao">
+        <ul>
+            <li>Choose the player's statistic  </li>
+            <li>to view:</li>
+        </ul>
+        <ul style="margin-top:18px;">
+            <li>
+                <select name="destinatario" id="destinatario"  class="formularios_03" onchange="loadPagEstatisticas(this.value)" style="width:270px; margin-top:6px; ">
+                    <option value="0">Select </option>
+                    <option value="12">Top Scorers</option>
+                    <option value="1">Passes</option>
+                    <option value="2">Crosses</option>
+                    <option value="3">Through Passes</option>
+                    <option value="4">Dribbles</option>
+                    <option value="5">Successfull Tackles</option>
+                    <option value="6">Attempts</option>
+                    <option value="7">Fouls</option>
+                    <option value="8">Penalties</option>
+                    <option value="9">Offsides</option>
+                    <option value="10">Rebounds</option>
+                    <option value="11">Cards</option>
+                    
+
+                </select>
+            </li>
+        </ul>
+        <ul>
+            <li><!-- <a href="#"><img src="images/botao_verlistacompleta.png" style="margin-top:18px; margin-left:54px;" /> </a> --></li>
+        </ul>
+    </div>
+</div>
+<!-- 
+    <Passe_Certo>32</Passe_Certo>
+    <Passe_Errado>6</Passe_Errado>  estatistica_passes_lista.php
+    <Cruzamento_Certo>1</Cruzamento_Certo>
+    <Cruzamento_Errado>1</Cruzamento_Errado>    estatistica_cruzamentos_lista.php
+    <Lancamento_Certo>1</Lancamento_Certo>
+    <Lancamento_Errado>2</Lancamento_Errado>    estatistica_lancamentos_lista.php
+    <Drible_Certo>0</Drible_Certo>
+    <Drible_Errado>0</Drible_Errado>    estatistica_dribles_lista.php
+    <Desarme_Certo>1</Desarme_Certo>
+    <Desarme_Errado>2</Desarme_Errado>  estatistica_desarmes_lista.php
+    <Finalizacao_Certa>1</Finalizacao_Certa>
+    <Finalizacao_Errada>1</Finalizacao_Errada>  estatistica_finalizacoes_lista.php
+    <Falta_Cometida>1</Falta_Cometida>
+    <Falta_Recebida>2</Falta_Recebida>  estatistica_faltas_lista.php
+    <Penalti_Cometido>0</Penalti_Cometido>
+    <Penalti_Recebido>0</Penalti_Recebido>  estatistica_penaltis_lista.php
+    <Impedimento>1</Impedimento>    estatistica_impedimentos_lista.php
+    <Rebatida>2</Rebatida>  estatistica_rebatidas_lista.php
+-->                    </div>
+                                                                                                        
+
+            	</div>
+                  <div id="bloco_separado">
+                                <div id="espaco_vocesabia1">
+                	                         <!-- inicio bloco -->
+                        <div id="bloco1">
+                    <div id="marcador_neutro1"><img src="images_en/subtitulo_mediadocampeonato.png" style="margin-top:10px;" /></div>
+                               <div id="fundoimagem_media">
+                               
+                               <ul>
+                               <li class="texto12" style="float:left; margin-left:12px; margin-top:12px;"><strong>Average Successful Through Passes:</strong></li>
+                               <li class="texto16amarelo" style="float:left; margin-left:9px; margin-top:8px;"><strong>37.9</strong></li>
+                               </ul>
+                               
+                               <ul>
+                               <li class="texto12" style="float:left; margin-left:12px; margin-top:12px;"><strong>Average Shots on Target:</strong></li>
+                               <li class="texto16amarelo" style="float:left; margin-left:9px; margin-top:8px;"><strong>10.0</strong></li>
+                               </ul>
+                               
+                               <ul>
+                               <li class="texto12" style="float:left; margin-left:12px; margin-top:12px;"><strong>Average Unsuccessful Passes:</strong></li>
+                               <li class="texto16amarelo" style="float:left; margin-left:9px; margin-top:8px;"><strong>81.8</strong></li>
+                               </ul>
+                               
+                               <ul>
+                               <li class="texto12" style="float:left; margin-left:12px; margin-top:12px;"><strong>Average Successful Crosses:</strong></li>
+                               <li class="texto16amarelo" style="float:left; margin-left:9px; margin-top:8px;"><strong>7.6</strong></li>
+                               </ul>
+                               
+                               <ul>
+                               <li class="texto12" style="float:left; margin-left:12px; margin-top:12px;"><strong>Average Successful Dribbles:</strong></li>
+                               <li class="texto16amarelo" style="float:left; margin-left:9px; margin-top:8px;"><strong>17.4</strong></li>
+                               </ul>
+                               
+                               </div>
+                            
+                       <ul><li class="li_vermais"><span class="texto10cinza"><strong><a href="estatistica_media_campeonato.php" target="_top" class="link_cinza">? more details</a></strong></span></li></ul>
+                    </div>
+                        <!-- fim bloco -->
+                                             </div>
+                                                                                 <div id="espaco_vocesabia2">
+                                            <!-- inicio bloco -->
+                       <div id="bloco1">
+                    		    <div id="marcador_neutro1"><img src="images_en/subtitulo_artilheiros.png" style="margin-top:10px;" /></div>
+                               <div id="estatisticas_artilharia_total">
+                                <div style="margin-left:9px; float:left; width:130px;">
+                                                   <ul><li class="texto14"><strong>Players</strong></li></ul>
+                                                   </div>
+                                       <div style="float:left; width:130px;">
+                                       <ul><li class="texto14"><strong>Team</strong></li></ul>
+                                       </div>
+                                                   <div id="estatistica_art_gols">
+                                                   <ul><li class="texto14"><strong>Goals</strong></li></ul>
+                                                   </div>
+
+                               <div class="li_quebra4"></div>
+
+                                                              <div style="margin-left:9px; float:left; width:130px; margin-top:2px;">
+                                                   <ul><li class="texto14" style="float:left; width:15px; margin-top:3px;"><strong>1</strong></li><li class="texto14" style="float:left; margin-top:3px;"> <a href="jogadores_individual.php?idAt=b1d10e7bafa4421218a51b1e1f1b0ba2" target="_top" class="link_neutro">Felipe Caicedo </a></li></ul>
+                                                   </div>
+                                       <div style="float:left; width:130px; margin-top:2px;">
+                                      <img src="media/bandeiras/thumb/equador.png" style="float:left; position:relative; margin-top:1px; margin-left:-3px;" />
+                                       <li class="texto13" style="margin-left:3px; float:left; margin-top:2px;">Ecuador</li></ul>
+                                       </div>
+                                                   <div id="estatistica_art_gols" style="margin-top:2px; padding-left:12px;">
+                                                   <ul><li class="texto14"><strong>2</strong></li></ul>
+                                                   </div>
+
+                               <div class="li_quebra4"></div>
+
+                               
+                                <div style="float:left; width:300px; position:relative;">
+                                <ul><li class="li_vermais"><span class="texto10cinza"><strong><a href="estatistica_gols_selecao.php?idS=8f14e45fceea167a5a36dedd4bea2543" target="_top" class="link_cinza">? more details</a></strong></span></li></ul>
+                                </div>
+
+
+                               </div>
+
+                    </div>
+
+                        <!-- fim bloco -->
+                    </div>
+                                                                                    
+
+            	</div>
+
+
+                </div>
+        	</div>
+
+
+        <div id="conteudo_bloco3">
+            
+
+
+
+
+
+<div id="banner_patrocinador">
+<div style="z-index:1;">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="321" height="267" id="ProductFlash" align="middle">
+	<param name="allowScriptAccess" value="sameDomain">
+	<param name="movie" value="banner_powerade_eng.swf">
+	<param name="quality" value="high">
+    <param value="transparent" name="wmode"/>
+	<embed wmode="transparent"  src="banner_powerade_eng.swf" quality="high" bgcolor="#ffffff" width="321" height="267" name="ProductFlash" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object>
+</div>
+</div>
+
+
+
+
+
+               
+<script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script language="javascript">
+//quem meche com jquery ja sabe para que serve, se n?o souber procure sobre tutoriais expecificos para jquery.
+ $(document).ready(function(){
+            $('#selecao_1_load').change(function(){
+                $('#jogadores_1_load').load('sql_atletas.php?idS='+$('#selecao_1_load').val() );
+            });
+        });
+ $(document).ready(function(){
+            $('#selecao_2_load').change(function(){
+                $('#jogadores_2_load').load('sql_atletas.php?idS='+$('#selecao_2_load').val() );
+            });
+        });
+
+function troca_jogador(i,v, d){
+	var separa = v.split(".")
+	
+	document.getElementById('img_compara_jogador_' + i).src = "media/bandeiras/" + separa[1] + ".png";	
+	$('#FT' + i).load("busca_foto_grande.php?idA="+separa[0] + "&i=" + i);
+	
+	var s1 = document.getElementById('jogadores_1_load').value;
+	var s2 = document.getElementById('jogadores_2_load').value;
+	
+	s1 = s1.split(".");
+	s2 = s2.split(".");
+	
+	if(d == "compara_jogador1"){
+		$('#compara_jogador1').load('sql/compara_jogador.php?S1=' + s1[0] + '&S2=' + s2[0] + "&L=1");
+		//loadHTML('sql/compara_jogador.php?S1=' + s1[0] + '&S2=' + s2[0] + "&L=1", 'compara_jogador1');
+	    var LS = setTimeout("loadHTML('sql/compara_jogador.php?S1="+s1[0]+"&S2="+s2[0]+"&L=2', 'compara_jogador2');", 1500); 
+	}else{
+		$('#compara_jogador2').load('sql/compara_jogador.php?S1=' + s1[0] + '&S2=' + s2[0] + "&L=2");
+		//loadHTML('sql/compara_jogador.php?S1=' + s1[0] + '&S2=' + s2[0] + "&L=2", 'compara_jogador2');
+	    var LS = setTimeout("loadHTML('sql/compara_jogador.php?S1="+s1[0]+"&S2="+s2[0]+"&L=1', 'compara_jogador1');", 1500); 		
+	}
+}
+</script>
+
+    
+
+                        <!-- inicio bloco -->
+                        <div id="bloco_bannerpatrocinio">
+	                        <div id="marcador_neutro1" ><img src="images_en/subtitulo_compararjogadores.png" style="margin-top:10px;" /></div>
+
+                                <div id="selecoes_pqnos">
+                                    <div id="selecao_media_escolha">
+                                       <ul>
+                                        <li>
+                                         <div id="foto_jogador" style="margin-left:18px;">
+                                        <div id="FT1">
+                                        <a href='jogadores_individual.php?idAt=02e74f10e0327ad868d138f2b4fdd6f0'>
+                                            <img id="img_compara_jogador_1" src="resize_adaptive.php?src=media/jogadores/02e74f10e0327ad868d138f2b4fdd6f0.png&x=84&y=112" />
+                                        </a>
+                                        </div>
+                                        </div> 
+                                        </li>
+                                       </ul>
+                                    </div>
+
+                                <div id="meio_pqnos">
+                                <ul style="margin-top:35px;">
+                                <li class="texto24amarelo"><img src="images/divisao_paises.png" /></li>
+                                </ul>
+                                </div>
+                                <div id="selecao_media_escolha">
+                                       <ul>
+                                        <li>
+                                        <div id="foto_jogador" style="margin-left:45px;">
+                                        <div id="FT2">
+                                         <a href='jogadores_individual.php?idAt=c6d6445d97e06d08b60853156601cf58'>
+                                             <img id="img_compara_jogador_2" src="resize_adaptive.php?src=media/jogadores/c6d6445d97e06d08b60853156601cf58.png&x=84&y=112" />
+                                         </a>
+                                        </div>
+                                        </div>
+                                        </li>
+                                       </ul>
+                                </div>
+                                 
+                                                    
+				               <div id="fundoescolhadejogadores_pq">
+               					 <div id="selecao_media_escolha">
+                                      
+                                                    <ul style="margin-top:9px;">
+                                                    <li> <select name="selecao_1_load" id="selecao_1_load"  class="formularios" style="width:120px; margin-top:6px; margin-left:18px;">
+                                                    <option value="">Select</option>
+                                                     <option value='3' selected>Argentina</option><option value='4' >Bolivia</option><option value='1' >Brazil</option><option value='5' >Chile</option><option value='6' >Colombia</option><option value='15' >Costa Rica</option><option value='7' >Ecuador</option><option value='9' >Mexico</option><option value='10' >Paraguay</option><option value='11' >Peru</option><option value='12' >Uruguay</option><option value='13' >Venezuela</option>                                                    </select> </li>
+                                                    </ul>
+                                                    
+                                                      <ul style="margin-top:9px;">
+                                                    <li> <select name="jogadores_1_load" id="jogadores_1_load"  class="formularios_02" onchange="troca_jogador('1',this.value,'compara_jogador2')" style="width:120px; margin-top:6px; margin-left:18px;">                                                                                                                              
+                                                    <option value="">Select</option>
+                                                        
+				<option value="3862">¨¢ngel Di Mar¨ªa</option>
+				<option value="3870">¨¦ver Banega</option>
+				<option value="42">Carlos T¨¦vez </option>
+				<option value="52">Diego Milito</option>
+				<option value="50">Esteban Cambiasso</option>
+				<option value="4085">Ezequiel Garay</option>
+				<option value="3867">Ezequiel Lavezzi</option>
+				<option value="27" selected >Fernando Gago</option>
+				<option value="46">Gabriel Milito</option>
+				<option value="4055">Gonzalo Higua¨ªn</option>
+				<option value="45">Javier Mascherano</option>
+				<option value="4053">Javier Pastore</option>
+				<option value="39">Javier Zanetti</option>
+				<option value="43">Juan Pablo Carrizo</option>
+				<option value="49">Lionel Messi</option>
+				<option value="4052">Lucas Biglia</option>
+				<option value="4049">Marcos Rojo</option>
+				<option value="4048">Mariano And¨²jar</option>
+				<option value="48">Nicol¨¢s Burdisso</option>
+				<option value="3878">Nicol¨¢s Pareja</option>
+				<option value="3875">Pablo Zabaleta</option>
+				<option value="3869">Sergio Ag¨¹ero</option>
+				<option value="3864">Sergio Romero</option>                                                    </select> </li>
+                                                    </ul>
+                                                    </div>
+                                                    
+                                                  <!--DIvis?o -->
+				             <div id="selecao_media_escolha">
+                                      
+                                                    <ul style="margin-top:9px;">
+                                                    <li style="margin-left:27px;"> <select name="selecao_2_load" id="selecao_2_load"  class="formularios" style="width:120px; margin-top:6px; margin-left:18px;">
+                                                    <option value="">Select</option>
+                                                    <option value='3' >Argentina</option><option value='4' >Bolivia</option><option value='1' >Brazil</option><option value='5' selected>Chile</option><option value='6' >Colombia</option><option value='15' >Costa Rica</option><option value='7' >Ecuador</option><option value='9' >Mexico</option><option value='10' >Paraguay</option><option value='11' >Peru</option><option value='12' >Uruguay</option><option value='13' >Venezuela</option>                                                                         
+                                                    </select> </li>
+                                                    </ul>
+                                                    <ul style="margin-top:9px;">
+                                                    <li style="margin-left:27px;"> <select name="jogadores_2_load" id="jogadores_2_load"  class="formularios_02" onchange="troca_jogador('2',this.value,'compara_jogador2')" style="width:120px; margin-top:6px; margin-left:18px;">                                                                          
+                                                    <option value="">Select</option>
+                                                    
+				<option value="4067">Alexis Sanch¨¦z</option>
+				<option value="3920">Arturo Vidal</option>
+				<option value="4122">Carlos Carmona</option>
+				<option value="4066">Carlos Mu?oz</option>
+				<option value="54">Claudio Bravo</option>
+				<option value="4065">Esteban Paredes</option>
+				<option value="4124">Felipe Guti¨¦rrez</option>
+				<option value="4062">Francisco Silva</option>
+				<option value="4060">Gary Medel</option>
+				<option value="76">Gonzalo Fierro</option>
+				<option value="75">Gonzalo Jara</option>
+				<option value="63">Humberto Suazo</option>
+				<option value="4123">Jean Beausejour</option>
+				<option value="64">Jorge Valdivia</option>
+				<option value="395">Luis Jim¨¦nez</option>
+				<option value="4058">Marco Estrada</option>
+				<option value="68">Mat¨ªas Fern¨¢ndez</option>
+				<option value="4063">Mauricio Isla</option>
+				<option value="3841">Miguel Pinto</option>
+				<option value="69">Pablo Contreras</option>
+				<option value="4057">Paulo Garc¨¦s</option>
+				<option value="393">Rodrigo Millar</option>
+				<option value="3845" selected >Waldo Ponce</option>                                                    </select> </li>
+                                                    </ul>
+                                                    
+                              </div>
+                              </div>
+                                </div>
+                        	 <div id="estatistica_media_pqno">
+                           <div id="estatisticagrande_paises_pqno">
+                                  <div style="width:145px; border:solid 1px #FFF;" id="compara_jogador1"></div>
+                                </div>
+                                
+                                        <div id="estatisticadivisao_paises">
+                                          <ul>
+                                         <li class="texto15" style="height:39px; padding-top:19px;"> <a target="_top" class="tooltip" ><strong>SP</strong><span>Successfull Passes</span></a></li>
+                                       </ul>
+                                          <ul>
+                                         <li class="texto15" style="height:37px;"> <a target="_top" class="tooltip" ><strong>UP</strong><span>Unsuccessfull passes</span></a></li>
+                                       </ul>
+                                          <ul>
+                                         <li class="texto15" style="height:37px;"> <a target="_top" class="tooltip" ><strong>SD</strong><span>Successfull Dribbles</span></a></li>
+                                       </ul>
+                                          <ul>
+                                         <li class="texto15" style="height:37px;"> <a target="_top" class="tooltip" ><strong>UD</strong><span>Unsuccessfull Dribbles </span></a></li>
+                                       </ul>
+                                       
+                                        
+                                        </div>
+                                
+                                <div id="estatisticagrande_paises_pq3">
+                                     <div style="width:150px; border:solid 1px #FFF; margin-left:-1px;" id="compara_jogador2"></div>
+                                     
+                                     
+                                </div>
+                                 <ul><li class="li_vermais"><span class="texto10cinza"><strong><a href="estatistica_compararjogadores.php" target="_top" class="link_cinza">? more details</a></strong></span></li></ul>
+                          </div>  
+                          
+                                </div>
+<script language="javascript">
+troca_jogador('2',document.getElementById('jogadores_2_load').value,'compara_jogador2');
+</script>                        
+                        <!-- fim bloco -->        </div>
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+<div id="rodape">
+  <div id="rodape_esq"><img src="http://www.ca2011.com/images/blank.gif" width="1" height="1" /></div>
+        <div id="rodape_centro">
+        	<div id="rodape_estrutura">
+            	<div id="rodape_estrutura1"><ul><li><img src="http://www.ca2011.com/images_en/titrodape_copaamerica.png" width="240" height="17" /></li>
+                    <li class="li_espacamento2"><a href="http://www.ca2011.com/index.php" target="_top" class="link_branco">- Home</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/noticias_todas.php" target="_top" class="link_branco">- News</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/fotos_todas.php" target="_top" class="link_branco">- Photos</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/videos_todos.php" target="_top" class="link_branco">- Videos</a></li>
+                    
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/jogos_todos.php" target="_top" class="link_branco">- Matches</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/jogadores_todos.php" target="_top" class="link_branco">- Players</a></li>
+                    
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/sedes_paissede.php" target="_top" class="link_branco">- Hosts</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/organizacao_patrocinadores.php" target="_top" class="link_branco">- Sponsors</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/organizacao_direitosdetv.php" target="_top" class="link_branco">- TV Rights</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/mobile-club" target="_top" class="link_branco">- Mobile Club</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/organizacao_ingressos.php" target="_top" class="link_branco">- Tickets</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/historia_resumo.php" target="_top" class="link_branco">- History</a></li>
+                                        <li class="li_espacamento1"><a href="http://www.ca2011.com/organizacao_noticias.php" target="_top" class="link_branco">- Organization</a></li>
+                                        <li class="li_espacamento1"><a href="http://www.ca2011.com/organizacao_contato.php" target="_top" class="link_branco">- Contact</a></li>
+                    <li class="li_espacamento1"><a href="http://www.ca2011.com/login_imprensa.php" target="_top" class="link_branco">- Press Area</a></li>
+                    </ul>
+                </div>
+                <div id="rodape_estrutura2">
+                
+				  <ul style="width:300px;">
+					  <li><img src="http://www.ca2011.com/images_en/titrodape_noticias.png" width="240" height="17" /></li>
+	
+					  <li class="li_espacamento3"><span class="texto13"><a href="noticias_exibe.php?IdNews=d4c2e4a3297fe25a71d030b67eb83bfc" target="_top" class="link_branco">Uruguay won Paraguay by 3-0 and establishes as the King of the Copa America</a></span></li>
+					  <li class="li_espacamento"><span class="texto10azulclaro">Sunday, 24 July 2011</span></li>
+					  <li class="li_espacamento3"><span class="texto13"><a href="noticias_exibe.php?IdNews=6cd67d9b6f0150c77bda2eda01ae484c" target="_top" class="link_branco">Luis Suarez is the Best Player LG Copa America 2011</a></span></li>
+					  <li class="li_espacamento"><span class="texto10azulclaro">Sunday, 24 July 2011</span></li>
+					  <li class="li_espacamento3"><span class="texto13"><a href="noticias_exibe.php?IdNews=e995f98d56967d946471af29d7bf99f1" target="_top" class="link_branco">Guerrero, of Peru, is the top scorer Santander 2011 Copa America </a></span></li>
+					  <li class="li_espacamento"><span class="texto10azulclaro">Sunday, 24 July 2011</span></li>
+					  <li class="li_espacamento3"><span class="texto13"><a href="noticias_exibe.php?IdNews=7f1171a78ce0780a2142a6eb7bc4f3c8" target="_top" class="link_branco">Official line-ups for Uruguay-Paraguay</a></span></li>
+					  <li class="li_espacamento"><span class="texto10azulclaro">Sunday, 24 July 2011</span></li>
+					  <li class="li_espacamento3"><span class="texto13"><a href="noticias_exibe.php?IdNews=d5cfead94f5350c12c322b5b664544c1" target="_top" class="link_branco">Forlan says his name entered the history of the Uruguayan football</a></span></li>
+					  <li class="li_espacamento"><span class="texto10azulclaro">Sunday, 24 July 2011</span></li>
+				   </ul>                </div>
+                <div id="rodape_estrutura3">
+                    <ul>
+                    	<li><img src="http://www.ca2011.com/images_en/titrodape_selecoes.png" /></li>
+                    </ul>
+                    <ul class="ul_paises" style="margin-top:6px;">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/argentina.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=eccbc87e4b5ce2fe28308fd9f2a7baf3" target="_top" class="link_branco">Argentina</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/bolivia.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=a87ff679a2f3e71d9181a67b7542122c" target="_top" class="link_branco">Bolivia</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/brasil.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=c4ca4238a0b923820dcc509a6f75849b" target="_top" class="link_branco">Brazil</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/chile.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=e4da3b7fbbce2345d7772b0674a318d5" target="_top" class="link_branco">Chile</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/colombia.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=1679091c5a880faf6fb5e6087eb1b2dc" target="_top" class="link_branco">Colombia</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/costarica.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=9bf31c7ff062936a96d3c8bd1f8f2ff3" target="_top" class="link_branco">Costa Rica</a></li>
+                	</ul>	
+
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/equador.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=8f14e45fceea167a5a36dedd4bea2543" target="_top" class="link_branco">Ecuador</a></li>
+                	</ul>
+
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/mexico.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=45c48cce2e2d7fbdea1afc51c7c6ad26" target="_top" class="link_branco">Mexico</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/paraguai.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=d3d9446802a44259755d38e6d163e820" target="_top" class="link_branco">Paraguay</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/peru.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=6512bd43d9caa6e02c990b0a82652dca" target="_top" class="link_branco">Peru</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/uruguai.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=c20ad4d76fe97759aa27a0c99bff6710" target="_top" class="link_branco">Uruguay</a></li>
+                	</ul>
+                    <ul class="ul_paises">
+                    	<li class="paises_rodape"><img src="http://www.ca2011.com/media/bandeiras/thumb/venezuela.png" /></li>
+                        <li class="paises_rodape"><a href="http://www.ca2011.com/selecoes_resumo.php?idS=c51ce410c124a10e0db5e4b97fc2af39" target="_top" class="link_branco">Venezuela</a></li>
+                	</ul>
+                </div>
+                <div id="rodape_estrutura4">
+                    <ul><li><img src="http://www.ca2011.com/images/titrodape_copaamericaapp.png" /></li></ul>
+                    <ul style="margin-top:9px; float:left;">
+                    	<li style="float:left;"><a href="http://www.ca2011.com/conta_clique.php?id=9995.AP" target="_top"><img src="http://www.ca2011.com/images/icone_appca2011.png" alt="App Copa Am¨¦rica" border="0" /></a></li>
+                        <li style="float:left; width:80px; margin-left:6px; margin-right:6px;"><span class="texto11branco"><a href="http://www.ca2011.com/conta_clique.php?id=9995.AP" target="_top" class="link_branco">Available for Android and iPhone</a></span><br /><span class="texto11"><a href="http://www.ca2011.com/conta_clique.php?id=9995.AP" target="_top" class="link_amarelo2">? more details</a></span></li>
+                    </ul>
+                    
+                    <ul style="margin-top:18px; float:left;"><li><img src="http://www.ca2011.com/images_en/titrodape_siganos.png" /></li></ul>
+                    <ul style="margin-top:9px; float:left;">
+                    	<li style="float:left;"><a href="http://www.ca2011.com/conta_clique.php?id=9991.TW" target="_blank"><img src="http://www.ca2011.com/images/icone_twitter.png" alt="Twitter" border="0" /></a></li>
+                        <li style="float:left; margin-left:6px; margin-right:6px;"><a href="http://www.ca2011.com/conta_clique.php?id=9992.FB" target="_blank"><img src="http://www.ca2011.com/images/icone_facebook.png" alt="Facebook" border="0" /></a></li>
+                        <li style="float:left;">
+                        	<a href="http://www.ca2011.com/conta_clique.php?id=7003.RS" target="_blank"><img src="http://www.ca2011.com/images/icone_rss.png" border="0" alt="RSS" /></a>                        </li>
+					</ul>
+                    
+                    <ul>
+                    	<li style="margin-top:28px; float:left;"><a href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=21" target="_top"><img src="http://www.ca2011.com/images_en/logo_uolhost_.png" width="145" height="45" /></a></li>
+                    </ul>
+                </div>
+          	</div>
+        	<div id="rodape_estruturab_logo">
+            	<div id="rodape_quebra"><img src="http://www.ca2011.com/images/blank.gif" width="1" height="1" /></div>
+          <div id="rodape_bases">
+            		<div id="rodape_logo"><ul><li><a href="http://www.ca2011.com/conta_clique.php?id=8003.TS" target="_blank"><img src="http://www.ca2011.com/images/logorodape_traffic.png" width="101" height="39" border="0" /></a></li><li style="margin-top:3px;"><span class="texto10azulclaro">All rights reserved.</span></li></ul></div>
+                    <div id="rodape_patrocinadores"><img src="http://www.ca2011.com/images_en/banners_rodape.png" border="0" usemap="#Map_rodape" />
+                      <map name="Map_rodape" id="Map_rodape"><area shape="rect" coords="784,30,822,60" href="conta_clique.php?id=34" target="_blank" /><area shape="rect" coords="740,30,778,60" href="http://www.argentina.ar" target="_blank" />
+                      
+                      <area shape="rect" coords="693,30,736,61" href="http://www.gba.gov.ar" target="_blank" />
+                      
+                      <area shape="rect" coords="638,32,686,58" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=10" target="_top" />
+                      
+                      <area shape="rect" coords="588,32,629,59" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=8" target="_top" />
+                      
+                      <area shape="rect" coords="513,32,575,60" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=9" target="_top" />
+                      
+                                            
+                      <area shape="rect" coords="466,31,507,61" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=13" target="_top" />
+                      
+                      <area shape="rect" coords="421,31,462,61" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=7" target="_top" />
+                      
+                      <area shape="rect" coords="325,30,361,62" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=6" target="_top" />
+                      
+                      <area shape="rect" coords="257,34,319,57" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=5" target="_top" />
+                      
+                                            
+                      <area shape="rect" coords="2,30,63,63" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=3" target="_top" />
+                      
+                      <area shape="rect" coords="70,31,120,60" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=2" target="_top" />
+                      	
+                       
+                        <area shape="rect" coords="370,30,416,63" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=1" target="_top" />
+                        
+                        
+                                                
+                        <area shape="rect" coords="207,33,252,59" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=4" target="_top" />
+                        
+                        <area shape="rect" coords="128,31,196,60" href="http://www.ca2011.com/organizacao_patrocinadores_detalhes.php?idPt=14" target="_top" />
+                        
+                        
+                               
+                                                                	
+                                                            	
+                                        
+                    
+                    
+                                           
+                                             	                        	
+                                            	                        	
+                                                
+                      </map>
+</div>
+                </div>
+            </div>
+            
+        </div>
+
+        
+  </div>
+<div id="rodape_estruturab_borda"><img src="http://www.ca2011.com/images/blank.gif" width="1" height="1" /></div> 
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19579888-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+?</body>
+</html>
+
