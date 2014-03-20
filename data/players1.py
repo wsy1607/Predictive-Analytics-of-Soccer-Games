@@ -82,7 +82,23 @@ mod2 = sm.OLS(data9.ix[0:600,15], data9.ix[0:600,[5,9,10,13,17,19,27,28,30,32,43
 # Inspect the results
 #print mod2.summary()
 predictions = mod2.predict(data9.ix[0:600,[5,9,10,13,17,19,27,28,30,32,43]])
-np.savetxt('playerspred_data.txt', predictions)
+#np.savetxt('playerspred_data.txt', predictions)
+
+from pylab import *
+
+fig = plt.figure()
+ax1 = fig.add_subplot(1, 1, 1)
+R = np.corrcoef(data9.ix[0:600,[5,9,10,13,17,19,27,28,30,32]].transpose())
+pcolor(R)
+colorbar()
+yticks(arange(0.5,10.5),range(0,10))
+xticks(arange(0.5,10.5),range(0,10))
+xlabel('Players Statistics')
+ylabel('Players Statistics')
+title('Players Statistics Correlation')
+plt.savefig('playerscor.jpeg')
+
+
 #print mod.residuals[0:5]
 #plot
 fig = plt.figure()
@@ -113,7 +129,10 @@ ax2.hist(data9.ix[ind,15]-predictions)
 ax2.set_ylabel('frequencies')
 ax2.set_title('histogram of prediction errors')
 
-plt.savefig('players.pdf')
+#####plt.savefig('players.pdf')
+
+
+
 #print data9.ix[0:10,[3,5,6,8,9,10,11,12,13,14,17,19,23,24,26,28,29,30,32,39,40,42]]         
 #print data9.ix[[140,160,520,141,161,521,560,561],15]
 #print mod2.predict(data9.ix[[140,160,520,141,161,521,560,561],[5,9,10,13,17,19,27,28,30,32,43]])
@@ -162,5 +181,8 @@ ax2.hist(data9.ix[ind,15]-prediction)
 ax2.set_ylabel('frequencies')
 ax2.set_title('histogram of prediction errors')
 
-plt.savefig('players0.pdf')
+#plt.savefig('playerscv.jpeg')
+
+
+
 #data9.to_csv('players_data.csv', sep=',')

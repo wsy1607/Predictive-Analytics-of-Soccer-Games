@@ -627,7 +627,7 @@ ax4.set_xlabel('years')
 plt.suptitle('Home Away Assumption')
 
 
-plt.savefig('homeaway.pdf')
+plt.savefig('homeaway.jpeg')
 
 #plot att vs def for each league
 year = [9,10,11,12,13]
@@ -676,7 +676,7 @@ ax4.set_title('Italy')
 ax4.set_xlabel('years')
 
 plt.suptitle('Teams better in Att vs Teams better in Def')
-plt.savefig('attdef.pdf')
+plt.savefig('attdef.jpeg')
 
 #plot the home-away effect for countries ordered by land
 fig = plt.figure()
@@ -694,7 +694,7 @@ labels = ax1.set_xticklabels(['Dutch','England','Italy','Germany','Spain','Franc
 ax1.set_title('Home-Away by country')
 ax1.set_ylabel('total # of goals')
 
-plt.savefig('homeawaycountry.pdf')
+plt.savefig('homeawaycountry.jpeg')
 print (np.mean(countryhf)-np.mean(countryaf))/((38*4+34*2)/6)
 
 

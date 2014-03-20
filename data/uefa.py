@@ -323,7 +323,7 @@ ax4.set_xlabel('year')
 
 plt.suptitle('Clubs performance vs Country performance')
 
-plt.savefig('countryclub.pdf')
+plt.savefig('countryclub.jpeg')
 
 #compute the different performances by the top 8 offensive teams and top 8 defensive teams
 years = [uefa0304,uefa0405,uefa0506,uefa0607,uefa0708,uefa0809,uefa0910,uefa1011,uefa1112,uefa1213]
@@ -347,7 +347,7 @@ ax1.set_title('Best "att" clubs ve Best "def" Clubs in UEFA')
 ax1.set_xlabel('year')
 ax1.set_ylabel('rank')
 
-plt.savefig('uefaattdef.pdf')
+plt.savefig('uefaattdef.jpeg')
 
 #uefaclubatt =  np.array(pd.concat([uefa0304['gs'],uefa0405['gs'],uefa0506['gs'],uefa0607['gs'],uefa0708['gs'],uefa0809['gs'],uefa0910['gs'],uefa1011['gs'],uefa1112['gs'],uefa1213['gs']],axis = 1)).transpose().reshape(320,1)
 
@@ -518,7 +518,7 @@ ax2.hist(a-predictions1)
 ax2.set_ylabel('frequencies')
 ax2.set_title('histogram of residuals')
 
-plt.savefig('teamreg1.pdf')
+plt.savefig('teamreg1.jpeg')
 
 
 
@@ -556,7 +556,7 @@ ax2.hist(d-predictions2)
 ax2.set_ylabel('frequencies')
 ax2.set_title('histogram of residuals')
 
-plt.savefig('teamreg2.pdf')
+plt.savefig('teamreg2.jpeg')
 
 
 
@@ -822,4 +822,15 @@ print groupF
 print groupG
 print groupH
 
-#print uefa.ix[0:20]
+allgroup = pd.Series(np.array([predbra,predcro,predmex,predcam,predspa,prednet,predchi,predaus,predcol,predgre,predcot,predjap,preduru,predcos,predeng,predita,predswi,predecu,predfra,predhon,predarg,predbos,predira,prednig,predger,predpor,predgha,predusa,predbel,predalg,predrus,predkor]),index = ['Brazil','Croatia','Mexico','Cameron','Spain','Dutch','Chile','Australia','Colombia','Greece','Cot dIvoire','Japan','Uruguay','Costa Rica','England','Italy','Switzerland','Ecuador','France','Honduras','Argentina','Bosnia','Iran','Nigeria','Germany','Portugal','Ghana','USA','Belgium','Algeria','Russia','Korea'])
+from pylab import *
+
+fig = plt.figure()
+ax1 = fig.add_subplot(1, 1, 1)
+pos = arange(32)+.5   # the bar centers on the y axis
+barh(pos,allgroup.order(), align='center',alpha =0.5 )
+yticks(pos, allgroup.order().index)
+xlabel('Rank')
+title('2014 Brazil World Cup Prediction')
+plt.savefig('rank.jpeg')
+
