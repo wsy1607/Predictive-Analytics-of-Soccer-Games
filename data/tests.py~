@@ -111,7 +111,7 @@ def test_worldcup():
 	assert round(worldgames[15]) == 3
 	
 #define the test for European Cup data
-def test_eurocup():
+def test_worldcup():
 	assert len(euroontarget) == 16
 	assert round(eurogames[0]) == 6 
 	assert round(euroontarget[2]) == 8
