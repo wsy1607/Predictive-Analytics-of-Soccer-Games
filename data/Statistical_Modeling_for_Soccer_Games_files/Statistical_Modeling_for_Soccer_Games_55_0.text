@@ -1,0 +1,40 @@
+Brazil     1.242684
+Croatia    0.192401
+Mexico     0.050443
+Cameron    0.379935
+dtype: float64
+Spain          0.688763
+Netherlands    0.105526
+Chile          0.433681
+Australia     -0.213381
+dtype: float64
+Colombia         [0.955487736758]
+Greece                 -0.3963158
+Cote d'Ivoire    [0.522434946535]
+Japan             [0.41332028415]
+dtype: object
+Uruguay       1.034289
+Costa Rica    0.626179
+England       0.146900
+Italy         1.022030
+dtype: float64
+Switzerland    [-0.130536309989]
+Ecuador         [0.533031778393]
+France                 0.2939251
+Honduras        [-1.24277192666]
+dtype: object
+Argentina                 1.504878
+Bosnia and Herzegovina    0.400000
+Iran                      0.300000
+Nigeria                  -0.701112
+dtype: float64
+Germany     0.292132
+Portugal    0.081118
+Ghana       0.546163
+USA         0.480041
+dtype: float64
+Belgium           0.400000
+Algeria          -0.556775
+Russia           -0.014848
+Korea Republic    0.197414
+dtype: float64

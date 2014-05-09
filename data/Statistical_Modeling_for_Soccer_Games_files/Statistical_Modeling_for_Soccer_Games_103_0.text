@@ -1,0 +1,2 @@
+The ipython_nose extension is already loaded. To reload it, use:
+  %reload_ext ipython_nose

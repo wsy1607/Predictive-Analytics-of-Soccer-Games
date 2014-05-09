@@ -1,0 +1,27 @@
+\BOOKMARK [0][-]{part.1}{I Stat222 Capstone Project: Statistical Modeling for Soccer Games}{}% 1
+\BOOKMARK [1][-]{section.1}{Authors: Shengying Wang and Siwei Tu}{part.1}% 2
+\BOOKMARK [0][-]{part.2}{II Introduction}{}% 3
+\BOOKMARK [1][-]{section.2}{Background}{part.2}% 4
+\BOOKMARK [1][-]{section.3}{Questions to answer}{part.2}% 5
+\BOOKMARK [1][-]{section.4}{Data Source}{part.2}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Assumption}{section.4}% 7
+\BOOKMARK [0][-]{part.3}{III World Cup Analysis}{}% 8
+\BOOKMARK [0][-]{part.4}{IV Home away effect}{}% 9
+\BOOKMARK [1][-]{section.5}{Attact vs Defence}{part.4}% 10
+\BOOKMARK [1][-]{section.6}{Clubs performance}{part.4}% 11
+\BOOKMARK [1][-]{section.7}{Regression model for prediction number of goals scored}{part.4}% 12
+\BOOKMARK [1][-]{section.8}{Prediction of World Cup 2014}{part.4}% 13
+\BOOKMARK [2][-]{subsection.8.1}{The group stage results:}{section.8}% 14
+\BOOKMARK [2][-]{subsection.8.2}{The second stage results:}{section.8}% 15
+\BOOKMARK [2][-]{subsection.8.3}{Latest winning odds given by several famous betting companies:}{section.8}% 16
+\BOOKMARK [0][-]{part.5}{V Players Performance Analysus}{}% 17
+\BOOKMARK [1][-]{section.9}{Linear Model}{part.5}% 18
+\BOOKMARK [1][-]{section.10}{Cross Validation}{part.5}% 19
+\BOOKMARK [0][-]{part.6}{VI Test Suites}{}% 20
+\BOOKMARK [1][-]{section.11}{Test for Home-Away analysis}{part.6}% 21
+\BOOKMARK [1][-]{section.12}{Test for Attack-Defense analysis}{part.6}% 22
+\BOOKMARK [1][-]{section.13}{Test for European Champions Leagues data}{part.6}% 23
+\BOOKMARK [1][-]{section.14}{Test for World Cup data}{part.6}% 24
+\BOOKMARK [1][-]{section.15}{Test for European Cup data}{part.6}% 25
+\BOOKMARK [1][-]{section.16}{Test for Players statistics data}{part.6}% 26
+\BOOKMARK [2][-]{subsection.16.1}{Run the nosetests}{section.16}% 27
